@@ -1,4 +1,4 @@
-# chatgpt4plateau
+# 生成AIによるコード生成とCode Interpreterの活用ハンズオン with Project PLATEAU
 
 2023-08-03 ハンズオン用の公開リポジトリです。
 
