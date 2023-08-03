@@ -20,6 +20,8 @@
    - [洪水浸水想定区域モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/fld/pref)
    - [土砂災害警戒区域モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/lsld)
 
+ * [PLATEAUデータ 3DTiles, GeoJSON, MVT, ShapeZIP等](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_3Dtiles_etc_1_op)
+
  * [PLATEAUデータ その他 サンプル](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_other_1_op)
    - [ランドマーク名称 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/landmark.geojson)
    - [公園名称 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/park.geojson)
