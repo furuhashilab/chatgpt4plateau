@@ -34,6 +34,9 @@
  * DRONEBIRD空撮データ
    - [ドローン空撮 GeoTIFF](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/dronebird/sagamigawa_takatabashi)
 
+ * DRONEBIRD空撮データ
+   - [ドローン空撮3DPointCloud LAS](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/dronebird/sagamihara_campus_agu)
+
 
 ## 2.ハンズオンで試してみた結果を Issue に共有
 https://github.com/furuhashilab/chatgpt4plateau/issues
