@@ -1,0 +1,3726 @@
+{
+  "type": "FeatureCollection",
+  "name": "undefined_sagamihara-shi_landmark",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.436661,
+          35.52323
+        ]
+      },
+      "properties": {
+        "高さ": 83.7,
+        "種類": "病院",
+        "名称": "森下記念病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.39193,
+          35.571478
+        ]
+      },
+      "properties": {
+        "高さ": 125.3,
+        "種類": "病院",
+        "名称": "渕野辺総合病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.340682,
+          35.59589
+        ]
+      },
+      "properties": {
+        "高さ": 151.8,
+        "種類": "病院",
+        "名称": "相模原協同病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.346904,
+          35.599677
+        ]
+      },
+      "properties": {
+        "高さ": 130.8,
+        "種類": "病院",
+        "名称": "山瀬整形外科"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.261134,
+          35.583757
+        ]
+      },
+      "properties": {
+        "高さ": 178.3,
+        "種類": "病院",
+        "名称": "相模原赤十字病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.378096,
+          35.577278
+        ]
+      },
+      "properties": {
+        "高さ": 138.6,
+        "種類": "病院",
+        "名称": "さがみ仁和会病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.388713,
+          35.572834
+        ]
+      },
+      "properties": {
+        "高さ": 131.4,
+        "種類": "病院",
+        "名称": "相模野病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.373232,
+          35.568371
+        ]
+      },
+      "properties": {
+        "高さ": 139.4,
+        "種類": "病院",
+        "名称": "相模原中央病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.393199,
+          35.538112
+        ]
+      },
+      "properties": {
+        "高さ": 116.7,
+        "種類": "病院",
+        "名称": "北里大学病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427218,
+          35.528562
+        ]
+      },
+      "properties": {
+        "高さ": 89.1,
+        "種類": "病院",
+        "名称": "黒河内病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.410477,
+          35.520742
+        ]
+      },
+      "properties": {
+        "高さ": 84.4,
+        "種類": "病院",
+        "名称": "国立病院機構相模原病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.441452,
+          35.520298
+        ]
+      },
+      "properties": {
+        "高さ": 79.3,
+        "種類": "病院",
+        "名称": "東芝林間病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.231661,
+          35.590123
+        ]
+      },
+      "properties": {
+        "高さ": 191.3,
+        "種類": "病院",
+        "名称": "森田病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.32055,
+          35.599194
+        ]
+      },
+      "properties": {
+        "高さ": 148.5,
+        "種類": "消防署",
+        "名称": "相模原市消防局北消防署相原分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.348709,
+          35.59732
+        ]
+      },
+      "properties": {
+        "高さ": 134.3,
+        "種類": "消防署",
+        "名称": "相模原市消防局北消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.306729,
+          35.590534
+        ]
+      },
+      "properties": {
+        "高さ": 135.3,
+        "種類": "消防署",
+        "名称": "相模原市消防局北消防署城山分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.370409,
+          35.572708
+        ]
+      },
+      "properties": {
+        "高さ": 128.2,
+        "種類": "消防署",
+        "名称": "相模原市消防局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.335849,
+          35.549434
+        ]
+      },
+      "properties": {
+        "高さ": 90.5,
+        "種類": "消防署",
+        "名称": "相模原市消防局相模原消防署田名分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.361551,
+          35.545819
+        ]
+      },
+      "properties": {
+        "高さ": 90,
+        "種類": "消防署",
+        "名称": "相模原市消防局相模原消防署上溝分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.403032,
+          35.570897
+        ]
+      },
+      "properties": {
+        "高さ": 105.6,
+        "種類": "消防署",
+        "名称": "相模原市消防局相模原消防署淵野辺分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.429554,
+          35.529663
+        ]
+      },
+      "properties": {
+        "高さ": 90.6,
+        "種類": "消防署",
+        "名称": "相模原市消防局南消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.381665,
+          35.545281
+        ]
+      },
+      "properties": {
+        "高さ": 103.8,
+        "種類": "消防署",
+        "名称": "相模原市消防局相模原消防署緑が丘分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.38684,
+          35.50773
+        ]
+      },
+      "properties": {
+        "高さ": 48.3,
+        "種類": "消防署",
+        "名称": "相模原市消防局南消防署新磯分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.419685,
+          35.551286
+        ]
+      },
+      "properties": {
+        "高さ": 96.1,
+        "種類": "消防署",
+        "名称": "相模原市消防局南消防署大沼分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.403634,
+          35.52389
+        ]
+      },
+      "properties": {
+        "高さ": 87.6,
+        "種類": "消防署",
+        "名称": "相模原市消防局南消防署麻溝台分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.442821,
+          35.528428
+        ]
+      },
+      "properties": {
+        "高さ": 81.8,
+        "種類": "消防署",
+        "名称": "相模原市消防局南消防署上鶴間分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.437037,
+          35.513306
+        ]
+      },
+      "properties": {
+        "高さ": 73.1,
+        "種類": "消防署",
+        "名称": "相模原市消防局南消防署東林分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.22506,
+          35.599103
+        ]
+      },
+      "properties": {
+        "高さ": 179.1,
+        "種類": "消防署",
+        "名称": "相模原市消防局津久井消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.153029,
+          35.603507
+        ]
+      },
+      "properties": {
+        "高さ": 201.3,
+        "種類": "消防署",
+        "名称": "相模原市消防局津久井消防署藤野分署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.222503,
+          35.548306
+        ]
+      },
+      "properties": {
+        "高さ": 264.5,
+        "種類": "消防署",
+        "名称": "相模原市消防局津久井消防署鳥屋出張所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.334113,
+          35.595512
+        ]
+      },
+      "properties": {
+        "高さ": 158,
+        "種類": "警察署",
+        "名称": "相模原北警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.375381,
+          35.571918
+        ]
+      },
+      "properties": {
+        "高さ": 134.8,
+        "種類": "警察署",
+        "名称": "相模原警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.362614,
+          35.557824
+        ]
+      },
+      "properties": {
+        "高さ": 95.9,
+        "種類": "警察署",
+        "名称": "相模原警察署上溝駅前交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396332,
+          35.556583
+        ]
+      },
+      "properties": {
+        "高さ": 116.1,
+        "種類": "警察署",
+        "名称": "神奈川県警察学校由野台分校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.426194,
+          35.546327
+        ]
+      },
+      "properties": {
+        "高さ": 103.4,
+        "種類": "警察署",
+        "名称": "相模原南警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.321097,
+          35.598647
+        ]
+      },
+      "properties": {
+        "高さ": 142.3,
+        "種類": "警察署",
+        "名称": "相模原北警察署相原交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.304774,
+          35.595636
+        ]
+      },
+      "properties": {
+        "高さ": 153.9,
+        "種類": "警察署",
+        "名称": "津久井警察署城山交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.298572,
+          35.583538
+        ]
+      },
+      "properties": {
+        "高さ": 68.3,
+        "種類": "警察署",
+        "名称": "津久井警察署湘南駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.275373,
+          35.57611
+        ]
+      },
+      "properties": {
+        "高さ": 186.5,
+        "種類": "警察署",
+        "名称": "津久井警察署根小屋駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.344204,
+          35.586242
+        ]
+      },
+      "properties": {
+        "高さ": 131.5,
+        "種類": "警察署",
+        "名称": "相模原北警察署橋本五差路交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.31667,
+          35.574728
+        ]
+      },
+      "properties": {
+        "高さ": 114.9,
+        "種類": "警察署",
+        "名称": "相模原北警察署大島交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.340237,
+          35.572805
+        ]
+      },
+      "properties": {
+        "高さ": 105.5,
+        "種類": "警察署",
+        "名称": "相模原北警察署下九沢交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.371915,
+          35.580734
+        ]
+      },
+      "properties": {
+        "高さ": 122.5,
+        "種類": "警察署",
+        "名称": "相模原警察署相模原駅前交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.365095,
+          35.567156
+        ]
+      },
+      "properties": {
+        "高さ": 114.4,
+        "種類": "警察署",
+        "名称": "相模原警察署横山交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.334151,
+          35.550688
+        ]
+      },
+      "properties": {
+        "高さ": 90.4,
+        "種類": "警察署",
+        "名称": "相模原警察署田名交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.374747,
+          35.558142
+        ]
+      },
+      "properties": {
+        "高さ": 112.2,
+        "種類": "警察署",
+        "名称": "相模原警察署星が丘交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.387864,
+          35.562272
+        ]
+      },
+      "properties": {
+        "高さ": 107.6,
+        "種類": "警察署",
+        "名称": "相模原警察署相生交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.365068,
+          35.542661
+        ]
+      },
+      "properties": {
+        "高さ": 81.2,
+        "種類": "警察署",
+        "名称": "相模原警察署番田交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.373751,
+          35.528681
+        ]
+      },
+      "properties": {
+        "高さ": 68.3,
+        "種類": "警察署",
+        "名称": "相模原南警察署麻溝交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.388664,
+          35.504414
+        ]
+      },
+      "properties": {
+        "高さ": 41.2,
+        "種類": "警察署",
+        "名称": "相模原南警察署新磯駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.39457,
+          35.567909
+        ]
+      },
+      "properties": {
+        "高さ": 107.9,
+        "種類": "警察署",
+        "名称": "相模原警察署淵野辺駅南口交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.393536,
+          35.569665
+        ]
+      },
+      "properties": {
+        "高さ": 110.4,
+        "種類": "警察署",
+        "名称": "相模原警察署淵野辺駅北口交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.419221,
+          35.555735
+        ]
+      },
+      "properties": {
+        "高さ": 100.2,
+        "種類": "警察署",
+        "名称": "相模原南警察署古淵駅前交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.421103,
+          35.550183
+        ]
+      },
+      "properties": {
+        "高さ": 94.4,
+        "種類": "警察署",
+        "名称": "相模原南警察署大野交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.393064,
+          35.529366
+        ]
+      },
+      "properties": {
+        "高さ": 90,
+        "種類": "警察署",
+        "名称": "相模原南警察署麻溝公園前交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.417564,
+          35.537721
+        ]
+      },
+      "properties": {
+        "高さ": 90.5,
+        "種類": "警察署",
+        "名称": "相模原南警察署大沼交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.408489,
+          35.516624
+        ]
+      },
+      "properties": {
+        "高さ": 76.6,
+        "種類": "警察署",
+        "名称": "相模原南警察署新磯野交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.422951,
+          35.515238
+        ]
+      },
+      "properties": {
+        "高さ": 77.7,
+        "種類": "警察署",
+        "名称": "相模原南警察署相南交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.422765,
+          35.517525
+        ]
+      },
+      "properties": {
+        "高さ": 78.7,
+        "種類": "警察署",
+        "名称": "相模原南警察署南大野交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.446541,
+          35.527641
+        ]
+      },
+      "properties": {
+        "高さ": 78.8,
+        "種類": "警察署",
+        "名称": "相模原南警察署中和田交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.438968,
+          35.520919
+        ]
+      },
+      "properties": {
+        "高さ": 78.8,
+        "種類": "警察署",
+        "名称": "相模原南警察署東林間交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.407326,
+          35.506881
+        ]
+      },
+      "properties": {
+        "高さ": 75.5,
+        "種類": "警察署",
+        "名称": "相模原南警察署相武台交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.18991,
+          35.61599
+        ]
+      },
+      "properties": {
+        "高さ": 196.2,
+        "種類": "警察署",
+        "名称": "津久井警察署相模湖交番"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.25685,
+          35.584169
+        ]
+      },
+      "properties": {
+        "高さ": 165.5,
+        "種類": "警察署",
+        "名称": "津久井警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.205599,
+          35.621158
+        ]
+      },
+      "properties": {
+        "高さ": 190.9,
+        "種類": "警察署",
+        "名称": "津久井警察署千木良駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.156444,
+          35.614901
+        ]
+      },
+      "properties": {
+        "高さ": 208.8,
+        "種類": "警察署",
+        "名称": "津久井警察署小渕駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.170563,
+          35.614287
+        ]
+      },
+      "properties": {
+        "高さ": 180.5,
+        "種類": "警察署",
+        "名称": "津久井警察署吉野駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.155686,
+          35.610401
+        ]
+      },
+      "properties": {
+        "高さ": 189.4,
+        "種類": "警察署",
+        "名称": "津久井警察署日連駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.220349,
+          35.601279
+        ]
+      },
+      "properties": {
+        "高さ": 181.7,
+        "種類": "警察署",
+        "名称": "津久井警察署内郷駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.254728,
+          35.566067
+        ]
+      },
+      "properties": {
+        "高さ": 198.7,
+        "種類": "警察署",
+        "名称": "津久井警察署串川駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.130075,
+          35.546115
+        ]
+      },
+      "properties": {
+        "高さ": 384.7,
+        "種類": "警察署",
+        "名称": "津久井警察署青根駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.220955,
+          35.547028
+        ]
+      },
+      "properties": {
+        "高さ": 265.6,
+        "種類": "警察署",
+        "名称": "津久井警察署鳥屋駐在所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.322182,
+          35.598675
+        ]
+      },
+      "properties": {
+        "高さ": 153.8,
+        "種類": "郵便局",
+        "名称": "相模原相原郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.335995,
+          35.597604
+        ]
+      },
+      "properties": {
+        "高さ": 150.8,
+        "種類": "郵便局",
+        "名称": "橋本郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.373825,
+          35.57878
+        ]
+      },
+      "properties": {
+        "高さ": 149.8,
+        "種類": "郵便局",
+        "名称": "相模原四郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.374968,
+          35.571263
+        ]
+      },
+      "properties": {
+        "高さ": 128.4,
+        "種類": "郵便局",
+        "名称": "相模原郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.384905,
+          35.57243
+        ]
+      },
+      "properties": {
+        "高さ": 119.9,
+        "種類": "郵便局",
+        "名称": "相模原矢部郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.336909,
+          35.550207
+        ]
+      },
+      "properties": {
+        "高さ": 89.3,
+        "種類": "郵便局",
+        "名称": "田名郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.39557,
+          35.566756
+        ]
+      },
+      "properties": {
+        "高さ": 121.3,
+        "種類": "郵便局",
+        "名称": "淵野辺駅前郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.417053,
+          35.517291
+        ]
+      },
+      "properties": {
+        "高さ": 84.8,
+        "種類": "郵便局",
+        "名称": "相模台郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.437487,
+          35.519959
+        ]
+      },
+      "properties": {
+        "高さ": 76.8,
+        "種類": "郵便局",
+        "名称": "相模原東林間郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.405166,
+          35.500073
+        ]
+      },
+      "properties": {
+        "高さ": 71.6,
+        "種類": "郵便局",
+        "名称": "相模原相武台郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.293441,
+          35.596271
+        ]
+      },
+      "properties": {
+        "高さ": 188.9,
+        "種類": "郵便局",
+        "名称": "城山若葉台郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.302606,
+          35.594511
+        ]
+      },
+      "properties": {
+        "高さ": 147.9,
+        "種類": "郵便局",
+        "名称": "城山郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.342254,
+          35.600137
+        ]
+      },
+      "properties": {
+        "高さ": 134.3,
+        "種類": "郵便局",
+        "名称": "橋本本町郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.272848,
+          35.574337
+        ]
+      },
+      "properties": {
+        "高さ": 190.8,
+        "種類": "郵便局",
+        "名称": "津久井根小屋郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.316756,
+          35.586077
+        ]
+      },
+      "properties": {
+        "高さ": 121,
+        "種類": "郵便局",
+        "名称": "相模原大島郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.336331,
+          35.587294
+        ]
+      },
+      "properties": {
+        "高さ": 132.7,
+        "種類": "郵便局",
+        "名称": "相模原金属団地内郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.334352,
+          35.578339
+        ]
+      },
+      "properties": {
+        "高さ": 111.3,
+        "種類": "郵便局",
+        "名称": "大沢郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.369085,
+          35.580537
+        ]
+      },
+      "properties": {
+        "高さ": 121.5,
+        "種類": "郵便局",
+        "名称": "相模原駅前郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355175,
+          35.580852
+        ]
+      },
+      "properties": {
+        "高さ": 122.5,
+        "種類": "郵便局",
+        "名称": "相模原清新郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.348369,
+          35.575077
+        ]
+      },
+      "properties": {
+        "高さ": 124,
+        "種類": "郵便局",
+        "名称": "相模原下九沢郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.361538,
+          35.56796
+        ]
+      },
+      "properties": {
+        "高さ": 114.6,
+        "種類": "郵便局",
+        "名称": "相模原横山郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.357124,
+          35.556855
+        ]
+      },
+      "properties": {
+        "高さ": 87.4,
+        "種類": "郵便局",
+        "名称": "上溝郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.374465,
+          35.560741
+        ]
+      },
+      "properties": {
+        "高さ": 111.4,
+        "種類": "郵便局",
+        "名称": "相模原千代田郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.387749,
+          35.561867
+        ]
+      },
+      "properties": {
+        "高さ": 111.7,
+        "種類": "郵便局",
+        "名称": "相模原弥栄郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.363696,
+          35.544065
+        ]
+      },
+      "properties": {
+        "高さ": 80.4,
+        "種類": "郵便局",
+        "名称": "番田駅前郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.380663,
+          35.55281
+        ]
+      },
+      "properties": {
+        "高さ": 104.6,
+        "種類": "郵便局",
+        "名称": "相模原光が丘郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.372463,
+          35.527955
+        ]
+      },
+      "properties": {
+        "高さ": 66.6,
+        "種類": "郵便局",
+        "名称": "麻溝郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.384463,
+          35.505985
+        ]
+      },
+      "properties": {
+        "高さ": 29.6,
+        "種類": "郵便局",
+        "名称": "相模原磯部郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.397473,
+          35.571228
+        ]
+      },
+      "properties": {
+        "高さ": 107.8,
+        "種類": "郵便局",
+        "名称": "淵野辺郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.402396,
+          35.558474
+        ]
+      },
+      "properties": {
+        "高さ": 103.7,
+        "種類": "郵便局",
+        "名称": "相模原大野台郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.420722,
+          35.55445
+        ]
+      },
+      "properties": {
+        "高さ": 96.9,
+        "種類": "郵便局",
+        "名称": "相模原古淵郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.413971,
+          35.550605
+        ]
+      },
+      "properties": {
+        "高さ": 94.7,
+        "種類": "郵便局",
+        "名称": "相模原大野台七郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.431901,
+          35.546886
+        ]
+      },
+      "properties": {
+        "高さ": 90.3,
+        "種類": "郵便局",
+        "名称": "相模原鵜野森郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396143,
+          35.537273
+        ]
+      },
+      "properties": {
+        "高さ": 89.4,
+        "種類": "郵便局",
+        "名称": "相模原北里郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.433802,
+          35.530655
+        ]
+      },
+      "properties": {
+        "高さ": 83.6,
+        "種類": "郵便局",
+        "名称": "相模大野郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.42023,
+          35.537508
+        ]
+      },
+      "properties": {
+        "高さ": 87.9,
+        "種類": "郵便局",
+        "名称": "相模原若松郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427271,
+          35.530546
+        ]
+      },
+      "properties": {
+        "高さ": 86.8,
+        "種類": "郵便局",
+        "名称": "相模大野五郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.411443,
+          35.524126
+        ]
+      },
+      "properties": {
+        "高さ": 82.6,
+        "種類": "郵便局",
+        "名称": "相模原双葉郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.424771,
+          35.516297
+        ]
+      },
+      "properties": {
+        "高さ": 77.6,
+        "種類": "郵便局",
+        "名称": "相模原松が枝郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.424036,
+          35.520987
+        ]
+      },
+      "properties": {
+        "高さ": 81.8,
+        "種類": "郵便局",
+        "名称": "相模原南台郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.44664,
+          35.535693
+        ]
+      },
+      "properties": {
+        "高さ": 68.2,
+        "種類": "郵便局",
+        "名称": "相模原谷口郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.439347,
+          35.53225
+        ]
+      },
+      "properties": {
+        "高さ": 82.8,
+        "種類": "郵便局",
+        "名称": "相模大野駅前郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.444023,
+          35.523770999999996
+        ]
+      },
+      "properties": {
+        "高さ": 73.2,
+        "種類": "郵便局",
+        "名称": "相模原上鶴間郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.410265,
+          35.509141
+        ]
+      },
+      "properties": {
+        "高さ": 71.1,
+        "種類": "郵便局",
+        "名称": "相模原相武台団地郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.405477,
+          35.505694
+        ]
+      },
+      "properties": {
+        "高さ": 71.7,
+        "種類": "郵便局",
+        "名称": "相模原新磯野郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.431266,
+          35.512056
+        ]
+      },
+      "properties": {
+        "高さ": 73.8,
+        "種類": "郵便局",
+        "名称": "相模原相南郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.258497,
+          35.583841
+        ]
+      },
+      "properties": {
+        "高さ": 161,
+        "種類": "郵便局",
+        "名称": "津久井郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.166739,
+          35.614014
+        ]
+      },
+      "properties": {
+        "高さ": 182.6,
+        "種類": "郵便局",
+        "名称": "吉野郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.155736,
+          35.608423
+        ]
+      },
+      "properties": {
+        "高さ": 203,
+        "種類": "郵便局",
+        "名称": "日連郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.186387,
+          35.617446
+        ]
+      },
+      "properties": {
+        "高さ": 198.1,
+        "種類": "郵便局",
+        "名称": "相模湖郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.232534,
+          35.588258
+        ]
+      },
+      "properties": {
+        "高さ": 193.2,
+        "種類": "郵便局",
+        "名称": "三ケ木簡易郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.248318,
+          35.566199
+        ]
+      },
+      "properties": {
+        "高さ": 215.5,
+        "種類": "郵便局",
+        "名称": "串川郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.221035,
+          35.547101
+        ]
+      },
+      "properties": {
+        "高さ": 266.5,
+        "種類": "郵便局",
+        "名称": "鳥屋郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.37413,
+          35.569837
+        ]
+      },
+      "properties": {
+        "高さ": 145.8,
+        "種類": "保健所",
+        "名称": "相模原市保健所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.374122,
+          35.567913
+        ]
+      },
+      "properties": {
+        "高さ": 127.4,
+        "種類": "国の機関",
+        "名称": "東京国税局相模原税務署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.376258,
+          35.56888
+        ]
+      },
+      "properties": {
+        "高さ": 125.9,
+        "種類": "国の機関",
+        "名称": "横浜刑務所相模原拘置支所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.375849,
+          35.569091
+        ]
+      },
+      "properties": {
+        "高さ": 133.6,
+        "種類": "国の機関",
+        "名称": "横浜地方裁判所相模原支部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.37668,
+          35.568636
+        ]
+      },
+      "properties": {
+        "高さ": 134.7,
+        "種類": "国の機関",
+        "名称": "神奈川労働局相模原公共職業安定所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.432139,
+          35.535279
+        ]
+      },
+      "properties": {
+        "高さ": 95.6,
+        "種類": "国の機関",
+        "名称": "外務省研修所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396074,
+          35.577345
+        ]
+      },
+      "properties": {
+        "高さ": 106.7,
+        "種類": "国の機関",
+        "名称": "防衛装備庁陸上装備研究所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.337726,
+          35.595652
+        ]
+      },
+      "properties": {
+        "高さ": 154.5,
+        "種類": "地方の機関",
+        "名称": "相模原市緑区役所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.373217,
+          35.571412
+        ]
+      },
+      "properties": {
+        "高さ": 142.2,
+        "種類": "地方の機関",
+        "名称": "相模原市役所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.430485,
+          35.53035
+        ]
+      },
+      "properties": {
+        "高さ": 93.5,
+        "種類": "地方の機関",
+        "名称": "相模原市南区役所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.377475,
+          35.559216
+        ]
+      },
+      "properties": {
+        "高さ": 120.7,
+        "種類": "指定公共機関",
+        "名称": "東京電力パワーグリッド株式会社相模原支社"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.408755,
+          35.554885
+        ]
+      },
+      "properties": {
+        "高さ": 122.3,
+        "種類": "指定公共機関",
+        "名称": "福山通運（相模原支店）"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.337532,
+          35.585156
+        ]
+      },
+      "properties": {
+        "高さ": 136.5,
+        "種類": "指定公共機関",
+        "名称": "西濃運輸（相模原支店）"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.393424,
+          35.559301
+        ]
+      },
+      "properties": {
+        "高さ": 112.2,
+        "種類": "博物館・美術館",
+        "名称": "相模原市立博物館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.414002,
+          35.522216
+        ]
+      },
+      "properties": {
+        "高さ": 87.2,
+        "種類": "学校",
+        "名称": "市立相模台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355438,
+          35.566187
+        ]
+      },
+      "properties": {
+        "高さ": 122.6,
+        "種類": "学校",
+        "名称": "市立横山小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.402963,
+          35.566364
+        ]
+      },
+      "properties": {
+        "高さ": 132.4,
+        "種類": "学校",
+        "名称": "青山学院大学相模原キャンパス"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.325638,
+          35.576038
+        ]
+      },
+      "properties": {
+        "高さ": 121.4,
+        "種類": "学校",
+        "名称": "市立大沢小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.299983,
+          35.604581
+        ]
+      },
+      "properties": {
+        "高さ": 163.4,
+        "種類": "学校",
+        "名称": "市立広田小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.291931,
+          35.596175
+        ]
+      },
+      "properties": {
+        "高さ": 207.1,
+        "種類": "学校",
+        "名称": "市立広陵小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.334518,
+          35.598865
+        ]
+      },
+      "properties": {
+        "高さ": 149.1,
+        "種類": "学校",
+        "名称": "県立橋本高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.332745,
+          35.599146
+        ]
+      },
+      "properties": {
+        "高さ": 145.1,
+        "種類": "学校",
+        "名称": "市立相原中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.343437,
+          35.599114
+        ]
+      },
+      "properties": {
+        "高さ": 138.9,
+        "種類": "学校",
+        "名称": "市立旭小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.327556,
+          35.603275
+        ]
+      },
+      "properties": {
+        "高さ": 142,
+        "種類": "学校",
+        "名称": "市立当麻田小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.34346,
+          35.593731
+        ]
+      },
+      "properties": {
+        "高さ": 146.6,
+        "種類": "学校",
+        "名称": "県立相原高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.350392,
+          35.6002
+        ]
+      },
+      "properties": {
+        "高さ": 132.5,
+        "種類": "学校",
+        "名称": "市立宮上小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.260308,
+          35.566359
+        ]
+      },
+      "properties": {
+        "高さ": 198.5,
+        "種類": "学校",
+        "名称": "市立串川中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.273359,
+          35.57548
+        ]
+      },
+      "properties": {
+        "高さ": 196.1,
+        "種類": "学校",
+        "名称": "市立根小屋小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.317044,
+          35.59207
+        ]
+      },
+      "properties": {
+        "高さ": 150,
+        "種類": "学校",
+        "名称": "市立二本松小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.345033,
+          35.58821
+        ]
+      },
+      "properties": {
+        "高さ": 136.9,
+        "種類": "学校",
+        "名称": "市立橋本小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.307876,
+          35.57244
+        ]
+      },
+      "properties": {
+        "高さ": 66.1,
+        "種類": "学校",
+        "名称": "市立湘南小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.327866,
+          35.575005
+        ]
+      },
+      "properties": {
+        "高さ": 120,
+        "種類": "学校",
+        "名称": "市立大沢中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.354206,
+          35.585859
+        ]
+      },
+      "properties": {
+        "高さ": 136,
+        "種類": "学校",
+        "名称": "市立小山小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.354778,
+          35.586583
+        ]
+      },
+      "properties": {
+        "高さ": 138.7,
+        "種類": "学校",
+        "名称": "市立小山中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.366268,
+          35.586104
+        ]
+      },
+      "properties": {
+        "高さ": 128.6,
+        "種類": "学校",
+        "名称": "市立向陽小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.362201,
+          35.576798
+        ]
+      },
+      "properties": {
+        "高さ": 133.4,
+        "種類": "学校",
+        "名称": "市立清新小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.365773,
+          35.568237
+        ]
+      },
+      "properties": {
+        "高さ": 129.1,
+        "種類": "学校",
+        "名称": "県立相模原高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.362975,
+          35.572288
+        ]
+      },
+      "properties": {
+        "高さ": 133.2,
+        "種類": "学校",
+        "名称": "市立清新中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.349505,
+          35.569565
+        ]
+      },
+      "properties": {
+        "高さ": 126.4,
+        "種類": "学校",
+        "名称": "市立作の口小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.391123,
+          35.57663
+        ]
+      },
+      "properties": {
+        "高さ": 116.2,
+        "種類": "学校",
+        "名称": "私立麻布大学附属高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.375845,
+          35.570404
+        ]
+      },
+      "properties": {
+        "高さ": 124.3,
+        "種類": "学校",
+        "名称": "市立中央小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.389024,
+          35.575612
+        ]
+      },
+      "properties": {
+        "高さ": 112,
+        "種類": "学校",
+        "名称": "麻布大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.379399,
+          35.568494
+        ]
+      },
+      "properties": {
+        "高さ": 125.3,
+        "種類": "学校",
+        "名称": "市立富士見小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.377249,
+          35.56933
+        ]
+      },
+      "properties": {
+        "高さ": 124.6,
+        "種類": "学校",
+        "名称": "市立中央中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.33451,
+          35.555068
+        ]
+      },
+      "properties": {
+        "高さ": 99,
+        "種類": "学校",
+        "名称": "市立田名北小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.336661,
+          35.548852
+        ]
+      },
+      "properties": {
+        "高さ": 93.9,
+        "種類": "学校",
+        "名称": "市立田名小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.338225,
+          35.550152
+        ]
+      },
+      "properties": {
+        "高さ": 96.2,
+        "種類": "学校",
+        "名称": "市立田名中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.363233,
+          35.55997
+        ]
+      },
+      "properties": {
+        "高さ": 120.4,
+        "種類": "学校",
+        "名称": "市立上溝中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355916,
+          35.55608
+        ]
+      },
+      "properties": {
+        "高さ": 95.8,
+        "種類": "学校",
+        "名称": "県立上溝高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.360534,
+          35.555025
+        ]
+      },
+      "properties": {
+        "高さ": 93.5,
+        "種類": "学校",
+        "名称": "市立上溝小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.368716,
+          35.554612
+        ]
+      },
+      "properties": {
+        "高さ": 115.4,
+        "種類": "学校",
+        "名称": "市立陽光台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.376847,
+          35.554849
+        ]
+      },
+      "properties": {
+        "高さ": 114.4,
+        "種類": "学校",
+        "名称": "市立光が丘小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.382896,
+          35.554438
+        ]
+      },
+      "properties": {
+        "高さ": 107.8,
+        "種類": "学校",
+        "名称": "市立青葉小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.380642,
+          35.55766
+        ]
+      },
+      "properties": {
+        "高さ": 114.9,
+        "種類": "学校",
+        "名称": "市立並木小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.388574,
+          35.556211
+        ]
+      },
+      "properties": {
+        "高さ": 111.8,
+        "種類": "学校",
+        "名称": "県立弥栄高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.386244,
+          35.556891
+        ]
+      },
+      "properties": {
+        "高さ": 116.4,
+        "種類": "学校",
+        "名称": "市立弥栄中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.387554,
+          35.557638
+        ]
+      },
+      "properties": {
+        "高さ": 114.6,
+        "種類": "学校",
+        "名称": "市立弥栄小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.366989,
+          35.542351
+        ]
+      },
+      "properties": {
+        "高さ": 85.4,
+        "種類": "学校",
+        "名称": "市立上溝南小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.35717,
+          35.548675
+        ]
+      },
+      "properties": {
+        "高さ": 89.5,
+        "種類": "学校",
+        "名称": "市立上溝南中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.390138,
+          35.551721
+        ]
+      },
+      "properties": {
+        "高さ": 108.4,
+        "種類": "学校",
+        "名称": "和泉短期大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.38327,
+          35.547365
+        ]
+      },
+      "properties": {
+        "高さ": 108.7,
+        "種類": "学校",
+        "名称": "市立緑が丘中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.368651,
+          35.529716
+        ]
+      },
+      "properties": {
+        "高さ": 80.9,
+        "種類": "学校",
+        "名称": "私立相模原高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.371358,
+          35.530556
+        ]
+      },
+      "properties": {
+        "高さ": 76,
+        "種類": "学校",
+        "名称": "県立相模原養護学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.389984,
+          35.528099
+        ]
+      },
+      "properties": {
+        "高さ": 105.4,
+        "種類": "学校",
+        "名称": "女子美術大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.384321,
+          35.503709
+        ]
+      },
+      "properties": {
+        "高さ": 35.5,
+        "種類": "学校",
+        "名称": "市立新磯小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.398824,
+          35.574540999999996
+        ]
+      },
+      "properties": {
+        "高さ": 111.3,
+        "種類": "学校",
+        "名称": "市立大野北小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.397139,
+          35.573267
+        ]
+      },
+      "properties": {
+        "高さ": 110.5,
+        "種類": "学校",
+        "名称": "市立淵野辺小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396211,
+          35.573923
+        ]
+      },
+      "properties": {
+        "高さ": 111,
+        "種類": "学校",
+        "名称": "市立大野北中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396169,
+          35.56835
+        ]
+      },
+      "properties": {
+        "高さ": 122.2,
+        "種類": "学校",
+        "名称": "桜美林大学淵野辺キャンパス"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.395742,
+          35.560787
+        ]
+      },
+      "properties": {
+        "高さ": 111.3,
+        "種類": "学校",
+        "名称": "市立共和小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.394928,
+          35.556424
+        ]
+      },
+      "properties": {
+        "高さ": 109.7,
+        "種類": "学校",
+        "名称": "市立由野台中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.397458,
+          35.565802
+        ]
+      },
+      "properties": {
+        "高さ": 112.3,
+        "種類": "学校",
+        "名称": "市立共和中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.416077,
+          35.560293
+        ]
+      },
+      "properties": {
+        "高さ": 103.4,
+        "種類": "学校",
+        "名称": "市立淵野辺東小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.395002,
+          35.54038
+        ]
+      },
+      "properties": {
+        "高さ": 120.5,
+        "種類": "学校",
+        "名称": "北里大学(相模原キャンパス)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.404787,
+          35.551401
+        ]
+      },
+      "properties": {
+        "高さ": 104.5,
+        "種類": "学校",
+        "名称": "市立大野台中央小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.421644,
+          35.552003
+        ]
+      },
+      "properties": {
+        "高さ": 100.7,
+        "種類": "学校",
+        "名称": "市立大野小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427581,
+          35.533149
+        ]
+      },
+      "properties": {
+        "高さ": 91.3,
+        "種類": "学校",
+        "名称": "私立相模女子大学小学部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427284,
+          35.535849
+        ]
+      },
+      "properties": {
+        "高さ": 98.3,
+        "種類": "学校",
+        "名称": "県立神奈川総合産業高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.431225,
+          35.535864
+        ]
+      },
+      "properties": {
+        "高さ": 94.6,
+        "種類": "学校",
+        "名称": "県立相模原中等教育学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.426723,
+          35.532186
+        ]
+      },
+      "properties": {
+        "高さ": 90.7,
+        "種類": "学校",
+        "名称": "市立谷口台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.419902,
+          35.539072
+        ]
+      },
+      "properties": {
+        "高さ": 95.4,
+        "種類": "学校",
+        "名称": "市立大沼小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.426323,
+          35.53368
+        ]
+      },
+      "properties": {
+        "高さ": 96.5,
+        "種類": "学校",
+        "名称": "私立相模女子大学高等部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.400414,
+          35.520949
+        ]
+      },
+      "properties": {
+        "高さ": 88.7,
+        "種類": "学校",
+        "名称": "市立若草小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.40756,
+          35.523286
+        ]
+      },
+      "properties": {
+        "高さ": 88.2,
+        "種類": "学校",
+        "名称": "市立桜台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.43274,
+          35.515566
+        ]
+      },
+      "properties": {
+        "高さ": 82.7,
+        "種類": "学校",
+        "名称": "市立東林小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.428695,
+          35.523596
+        ]
+      },
+      "properties": {
+        "高さ": 87,
+        "種類": "学校",
+        "名称": "市立鶴の台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.449343,
+          35.52941
+        ]
+      },
+      "properties": {
+        "高さ": 84.4,
+        "種類": "学校",
+        "名称": "市立鶴園小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.444482,
+          35.528266
+        ]
+      },
+      "properties": {
+        "高さ": 86.9,
+        "種類": "学校",
+        "名称": "市立南大野小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.44213,
+          35.533221
+        ]
+      },
+      "properties": {
+        "高さ": 93.9,
+        "種類": "学校",
+        "名称": "市立谷口中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4389,
+          35.539236
+        ]
+      },
+      "properties": {
+        "高さ": 92.5,
+        "種類": "学校",
+        "名称": "市立鹿島台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.447532,
+          35.535962
+        ]
+      },
+      "properties": {
+        "高さ": 78.1,
+        "種類": "学校",
+        "名称": "市立谷口小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.442002,
+          35.522093
+        ]
+      },
+      "properties": {
+        "高さ": 84.7,
+        "種類": "学校",
+        "名称": "市立くぬぎ台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.437871,
+          35.525116
+        ]
+      },
+      "properties": {
+        "高さ": 87.1,
+        "種類": "学校",
+        "名称": "市立新町中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.444891,
+          35.515096
+        ]
+      },
+      "properties": {
+        "高さ": 81.1,
+        "種類": "学校",
+        "名称": "市立東林中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.445584,
+          35.519201
+        ]
+      },
+      "properties": {
+        "高さ": 83.3,
+        "種類": "学校",
+        "名称": "市立上鶴間中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.455199,
+          35.524298
+        ]
+      },
+      "properties": {
+        "高さ": 77.4,
+        "種類": "学校",
+        "名称": "県立上鶴間高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.444952,
+          35.520246
+        ]
+      },
+      "properties": {
+        "高さ": 83.4,
+        "種類": "学校",
+        "名称": "市立上鶴間小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.408938,
+          35.508435
+        ]
+      },
+      "properties": {
+        "高さ": 78.7,
+        "種類": "学校",
+        "名称": "市立相武台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.404607,
+          35.50616
+        ]
+      },
+      "properties": {
+        "高さ": 78.4,
+        "種類": "学校",
+        "名称": "市立緑台小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.42889,
+          35.511569
+        ]
+      },
+      "properties": {
+        "高さ": 91.6,
+        "種類": "学校",
+        "名称": "私立東海大学付属相模高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.321375,
+          35.599481
+        ]
+      },
+      "properties": {
+        "高さ": 147.2,
+        "種類": "学校",
+        "名称": "市立相原小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.345529,
+          35.58932
+        ]
+      },
+      "properties": {
+        "高さ": 134,
+        "種類": "学校",
+        "名称": "市立旭中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.370765,
+          35.560034
+        ]
+      },
+      "properties": {
+        "高さ": 119.9,
+        "種類": "学校",
+        "名称": "市立星が丘小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.375837,
+          35.5269
+        ]
+      },
+      "properties": {
+        "高さ": 69.6,
+        "種類": "学校",
+        "名称": "市立麻溝小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.394252,
+          35.562653
+        ]
+      },
+      "properties": {
+        "高さ": 108.5,
+        "種類": "学校",
+        "名称": "県立相模原中央支援学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.430246,
+          35.532472
+        ]
+      },
+      "properties": {
+        "高さ": 84.5,
+        "種類": "学校",
+        "名称": "相模女子大学短期大学部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.42937,
+          35.536737
+        ]
+      },
+      "properties": {
+        "高さ": 86.8,
+        "種類": "学校",
+        "名称": "市立大野南中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427432,
+          35.533769
+        ]
+      },
+      "properties": {
+        "高さ": 87.6,
+        "種類": "学校",
+        "名称": "相模女子大学"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.408026,
+          35.521417
+        ]
+      },
+      "properties": {
+        "高さ": 83.5,
+        "種類": "学校",
+        "名称": "市立相模台中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.21596,
+          35.546443
+        ]
+      },
+      "properties": {
+        "高さ": 294.2,
+        "種類": "学校",
+        "名称": "市立鳥屋小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.160711,
+          35.614627
+        ]
+      },
+      "properties": {
+        "高さ": 219.7,
+        "種類": "学校",
+        "名称": "市立藤野中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.156419,
+          35.61068
+        ]
+      },
+      "properties": {
+        "高さ": 197.4,
+        "種類": "学校",
+        "名称": "市立藤野小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.19113,
+          35.614854
+        ]
+      },
+      "properties": {
+        "高さ": 202.4,
+        "種類": "学校",
+        "名称": "市立桂北小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.193966,
+          35.615977
+        ]
+      },
+      "properties": {
+        "高さ": 208.8,
+        "種類": "学校",
+        "名称": "市立北相中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.218542,
+          35.600235
+        ]
+      },
+      "properties": {
+        "高さ": 201.4,
+        "種類": "学校",
+        "名称": "市立内郷小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.231281,
+          35.588159
+        ]
+      },
+      "properties": {
+        "高さ": 203.4,
+        "種類": "学校",
+        "名称": "県立津久井高等学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.233351,
+          35.583016
+        ]
+      },
+      "properties": {
+        "高さ": 224.7,
+        "種類": "学校",
+        "名称": "市立津久井中央小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.256885,
+          35.585818
+        ]
+      },
+      "properties": {
+        "高さ": 164,
+        "種類": "学校",
+        "名称": "市立中野小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.257634,
+          35.58743
+        ]
+      },
+      "properties": {
+        "高さ": 164.3,
+        "種類": "学校",
+        "名称": "市立中野中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.259217,
+          35.566401
+        ]
+      },
+      "properties": {
+        "高さ": 197.3,
+        "種類": "学校",
+        "名称": "市立串川小学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.217273,
+          35.54572
+        ]
+      },
+      "properties": {
+        "高さ": 284.3,
+        "種類": "学校",
+        "名称": "市立鳥屋中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.16644,
+          35.615858
+        ]
+      },
+      "properties": {
+        "高さ": 213.5,
+        "種類": "学校",
+        "名称": "私立シュタイナー学園高等部"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.209441,
+          35.619491
+        ]
+      },
+      "properties": {
+        "高さ": 204.2,
+        "種類": "学校",
+        "名称": "市立千木良小学校"
+      }
+    }
+  ]
+}
