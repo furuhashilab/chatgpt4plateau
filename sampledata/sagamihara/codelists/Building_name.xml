@@ -1,0 +1,1582 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="cl_48893308-3f51-4715-83e9-5047084254de">
+	<gml:name>Building_name</gml:name>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id1">
+			<gml:description>市立相模台小学校</gml:description>
+			<gml:name>1</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id2">
+			<gml:description>森下記念病院</gml:description>
+			<gml:name>2</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id3">
+			<gml:description>市立横山小学校</gml:description>
+			<gml:name>3</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id4">
+			<gml:description>青山学院大学相模原キャンパス</gml:description>
+			<gml:name>4</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id5">
+			<gml:description>渕野辺総合病院</gml:description>
+			<gml:name>5</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id6">
+			<gml:description>市立大沢小学校</gml:description>
+			<gml:name>6</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id7">
+			<gml:description>市立広田小学校</gml:description>
+			<gml:name>7</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id8">
+			<gml:description>市立広陵小学校</gml:description>
+			<gml:name>8</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id9">
+			<gml:description>相模原相原郵便局</gml:description>
+			<gml:name>9</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id10">
+			<gml:description>相模原市消防局北消防署相原分署</gml:description>
+			<gml:name>10</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id11">
+			<gml:description>橋本駅</gml:description>
+			<gml:name>11</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id12">
+			<gml:description>相模原市緑区役所</gml:description>
+			<gml:name>12</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id13">
+			<gml:description>相模原協同病院</gml:description>
+			<gml:name>13</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id14">
+			<gml:description>県立橋本高等学校</gml:description>
+			<gml:name>14</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id15">
+			<gml:description>相模原北警察署</gml:description>
+			<gml:name>15</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id16">
+			<gml:description>市立相原中学校</gml:description>
+			<gml:name>16</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id17">
+			<gml:description>市立旭小学校</gml:description>
+			<gml:name>17</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id18">
+			<gml:description>山瀬整形外科</gml:description>
+			<gml:name>18</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id19">
+			<gml:description>市立当麻田小学校</gml:description>
+			<gml:name>19</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id20">
+			<gml:description>県立相原高等学校</gml:description>
+			<gml:name>20</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id21">
+			<gml:description>橋本郵便局</gml:description>
+			<gml:name>21</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id22">
+			<gml:description>相模原市消防局北消防署</gml:description>
+			<gml:name>22</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id23">
+			<gml:description>市立宮上小学校</gml:description>
+			<gml:name>23</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id24">
+			<gml:description>相模原赤十字病院</gml:description>
+			<gml:name>24</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id25">
+			<gml:description>市立串川中学校</gml:description>
+			<gml:name>25</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id26">
+			<gml:description>市立根小屋小学校</gml:description>
+			<gml:name>26</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id27">
+			<gml:description>相模原市消防局北消防署城山分署</gml:description>
+			<gml:name>27</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id28">
+			<gml:description>市立二本松小学校</gml:description>
+			<gml:name>28</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id29">
+			<gml:description>市立橋本小学校</gml:description>
+			<gml:name>29</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id30">
+			<gml:description>市立湘南小学校</gml:description>
+			<gml:name>30</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id31">
+			<gml:description>市立大沢中学校</gml:description>
+			<gml:name>31</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id32">
+			<gml:description>市立小山小学校</gml:description>
+			<gml:name>32</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id33">
+			<gml:description>市立小山中学校</gml:description>
+			<gml:name>33</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id34">
+			<gml:description>市立向陽小学校</gml:description>
+			<gml:name>34</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id35">
+			<gml:description>市立清新小学校</gml:description>
+			<gml:name>35</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id36">
+			<gml:description>県立相模原高等学校</gml:description>
+			<gml:name>36</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id37">
+			<gml:description>市立清新中学校</gml:description>
+			<gml:name>37</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id38">
+			<gml:description>市立作の口小学校</gml:description>
+			<gml:name>38</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id39">
+			<gml:description>さがみ仁和会病院</gml:description>
+			<gml:name>39</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id40">
+			<gml:description>東京国税局相模原税務署</gml:description>
+			<gml:name>40</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id41">
+			<gml:description>私立麻布大学附属高等学校</gml:description>
+			<gml:name>41</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id42">
+			<gml:description>相模野病院</gml:description>
+			<gml:name>42</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id43">
+			<gml:description>市立中央小学校</gml:description>
+			<gml:name>43</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id44">
+			<gml:description>相模原四郵便局</gml:description>
+			<gml:name>44</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id45">
+			<gml:description>相模原警察署</gml:description>
+			<gml:name>45</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id46">
+			<gml:description>相模原郵便局</gml:description>
+			<gml:name>46</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id47">
+			<gml:description>相模原矢部郵便局</gml:description>
+			<gml:name>47</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id48">
+			<gml:description>相模原市役所</gml:description>
+			<gml:name>48</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id49">
+			<gml:description>相模原市消防局</gml:description>
+			<gml:name>49</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id50">
+			<gml:description>麻布大学</gml:description>
+			<gml:name>50</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id51">
+			<gml:description>市立富士見小学校</gml:description>
+			<gml:name>51</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id52">
+			<gml:description>市立中央中学校</gml:description>
+			<gml:name>52</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id53">
+			<gml:description>横浜刑務所相模原拘置支所</gml:description>
+			<gml:name>53</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id54">
+			<gml:description>横浜地方裁判所相模原支部</gml:description>
+			<gml:name>54</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id55">
+			<gml:description>相模原中央病院</gml:description>
+			<gml:name>55</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id56">
+			<gml:description>神奈川労働局相模原公共職業安定所</gml:description>
+			<gml:name>56</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id57">
+			<gml:description>相模原市保健所</gml:description>
+			<gml:name>57</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id58">
+			<gml:description>市立田名北小学校</gml:description>
+			<gml:name>58</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id59">
+			<gml:description>市立田名小学校</gml:description>
+			<gml:name>59</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id60">
+			<gml:description>市立田名中学校</gml:description>
+			<gml:name>60</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id61">
+			<gml:description>田名郵便局</gml:description>
+			<gml:name>61</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id62">
+			<gml:description>相模原市消防局相模原消防署田名分署</gml:description>
+			<gml:name>62</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id63">
+			<gml:description>市立上溝中学校</gml:description>
+			<gml:name>63</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id64">
+			<gml:description>相模原警察署上溝駅前交番</gml:description>
+			<gml:name>64</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id65">
+			<gml:description>県立上溝高等学校</gml:description>
+			<gml:name>65</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id66">
+			<gml:description>市立上溝小学校</gml:description>
+			<gml:name>66</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id67">
+			<gml:description>市立陽光台小学校</gml:description>
+			<gml:name>67</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id68">
+			<gml:description>市立光が丘小学校</gml:description>
+			<gml:name>68</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id69">
+			<gml:description>市立青葉小学校</gml:description>
+			<gml:name>69</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id70">
+			<gml:description>東京電力パワーグリッド株式会社相模原支社</gml:description>
+			<gml:name>70</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id71">
+			<gml:description>市立並木小学校</gml:description>
+			<gml:name>71</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id72">
+			<gml:description>県立弥栄高等学校</gml:description>
+			<gml:name>72</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id73">
+			<gml:description>市立弥栄中学校</gml:description>
+			<gml:name>73</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id74">
+			<gml:description>市立弥栄小学校</gml:description>
+			<gml:name>74</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id75">
+			<gml:description>市立上溝南小学校</gml:description>
+			<gml:name>75</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id76">
+			<gml:description>相模原市消防局相模原消防署上溝分署</gml:description>
+			<gml:name>76</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id77">
+			<gml:description>市立上溝南中学校</gml:description>
+			<gml:name>77</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id78">
+			<gml:description>和泉短期大学</gml:description>
+			<gml:name>78</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id79">
+			<gml:description>市立緑が丘中学校</gml:description>
+			<gml:name>79</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id80">
+			<gml:description>私立相模原高等学校</gml:description>
+			<gml:name>80</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id81">
+			<gml:description>県立相模原養護学校</gml:description>
+			<gml:name>81</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id82">
+			<gml:description>女子美術大学</gml:description>
+			<gml:name>82</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id83">
+			<gml:description>市立新磯小学校</gml:description>
+			<gml:name>83</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id84">
+			<gml:description>市立大野北小学校</gml:description>
+			<gml:name>84</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id85">
+			<gml:description>市立淵野辺小学校</gml:description>
+			<gml:name>85</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id86">
+			<gml:description>市立大野北中学校</gml:description>
+			<gml:name>86</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id87">
+			<gml:description>相模原市消防局相模原消防署淵野辺分署</gml:description>
+			<gml:name>87</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id88">
+			<gml:description>淵野辺駅前郵便局</gml:description>
+			<gml:name>88</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id89">
+			<gml:description>桜美林大学淵野辺キャンパス</gml:description>
+			<gml:name>89</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id90">
+			<gml:description>市立共和小学校</gml:description>
+			<gml:name>90</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id91">
+			<gml:description>市立由野台中学校</gml:description>
+			<gml:name>91</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id92">
+			<gml:description>市立共和中学校</gml:description>
+			<gml:name>92</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id93">
+			<gml:description>神奈川県警察学校由野台分校</gml:description>
+			<gml:name>93</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id94">
+			<gml:description>福山通運（相模原支店）</gml:description>
+			<gml:name>94</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id95">
+			<gml:description>市立淵野辺東小学校</gml:description>
+			<gml:name>95</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id96">
+			<gml:description>北里大学(相模原キャンパス)</gml:description>
+			<gml:name>96</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id97">
+			<gml:description>市立大野台中央小学校</gml:description>
+			<gml:name>97</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id98">
+			<gml:description>市立大野小学校</gml:description>
+			<gml:name>98</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id99">
+			<gml:description>相模原南警察署</gml:description>
+			<gml:name>99</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id100">
+			<gml:description>北里大学病院</gml:description>
+			<gml:name>100</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id101">
+			<gml:description>黒河内病院</gml:description>
+			<gml:name>101</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id102">
+			<gml:description>私立相模女子大学小学部</gml:description>
+			<gml:name>102</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id103">
+			<gml:description>県立神奈川総合産業高等学校</gml:description>
+			<gml:name>103</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id104">
+			<gml:description>外務省研修所</gml:description>
+			<gml:name>104</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id105">
+			<gml:description>県立相模原中等教育学校</gml:description>
+			<gml:name>105</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id106">
+			<gml:description>相模原市南区役所</gml:description>
+			<gml:name>106</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id107">
+			<gml:description>市立谷口台小学校</gml:description>
+			<gml:name>107</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id108">
+			<gml:description>市立大沼小学校</gml:description>
+			<gml:name>108</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id109">
+			<gml:description>相模原市消防局南消防署</gml:description>
+			<gml:name>109</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id110">
+			<gml:description>私立相模女子大学高等部</gml:description>
+			<gml:name>110</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id111">
+			<gml:description>国立病院機構相模原病院</gml:description>
+			<gml:name>111</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id112">
+			<gml:description>市立若草小学校</gml:description>
+			<gml:name>112</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id113">
+			<gml:description>市立桜台小学校</gml:description>
+			<gml:name>113</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id114">
+			<gml:description>市立東林小学校</gml:description>
+			<gml:name>114</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id115">
+			<gml:description>相模台郵便局</gml:description>
+			<gml:name>115</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id116">
+			<gml:description>市立鶴の台小学校</gml:description>
+			<gml:name>116</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id117">
+			<gml:description>市立鶴園小学校</gml:description>
+			<gml:name>117</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id118">
+			<gml:description>相模大野駅</gml:description>
+			<gml:name>118</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id119">
+			<gml:description>市立南大野小学校</gml:description>
+			<gml:name>119</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id120">
+			<gml:description>市立谷口中学校</gml:description>
+			<gml:name>120</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id121">
+			<gml:description>市立鹿島台小学校</gml:description>
+			<gml:name>121</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id122">
+			<gml:description>市立谷口小学校</gml:description>
+			<gml:name>122</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id123">
+			<gml:description>市立くぬぎ台小学校</gml:description>
+			<gml:name>123</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id124">
+			<gml:description>市立新町中学校</gml:description>
+			<gml:name>124</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id125">
+			<gml:description>市立東林中学校</gml:description>
+			<gml:name>125</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id126">
+			<gml:description>相模原東林間郵便局</gml:description>
+			<gml:name>126</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id127">
+			<gml:description>市立上鶴間中学校</gml:description>
+			<gml:name>127</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id128">
+			<gml:description>県立上鶴間高等学校</gml:description>
+			<gml:name>128</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id129">
+			<gml:description>市立上鶴間小学校</gml:description>
+			<gml:name>129</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id130">
+			<gml:description>市立相武台小学校</gml:description>
+			<gml:name>130</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id131">
+			<gml:description>市立緑台小学校</gml:description>
+			<gml:name>131</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id132">
+			<gml:description>相模原相武台郵便局</gml:description>
+			<gml:name>132</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id133">
+			<gml:description>私立東海大学付属相模高等学校</gml:description>
+			<gml:name>133</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id134">
+			<gml:description>城山若葉台郵便局</gml:description>
+			<gml:name>134</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id135">
+			<gml:description>城山郵便局</gml:description>
+			<gml:name>135</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id136">
+			<gml:description>相模原北警察署相原交番</gml:description>
+			<gml:name>136</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id137">
+			<gml:description>津久井警察署城山交番</gml:description>
+			<gml:name>137</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id138">
+			<gml:description>市立相原小学校</gml:description>
+			<gml:name>138</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id139">
+			<gml:description>橋本本町郵便局</gml:description>
+			<gml:name>139</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id140">
+			<gml:description>津久井警察署湘南駐在所</gml:description>
+			<gml:name>140</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id141">
+			<gml:description>津久井警察署根小屋駐在所</gml:description>
+			<gml:name>141</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id142">
+			<gml:description>津久井根小屋郵便局</gml:description>
+			<gml:name>142</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id143">
+			<gml:description>相模原大島郵便局</gml:description>
+			<gml:name>143</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id144">
+			<gml:description>相模原北警察署橋本五差路交番</gml:description>
+			<gml:name>144</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id145">
+			<gml:description>相模原金属団地内郵便局</gml:description>
+			<gml:name>145</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id146">
+			<gml:description>市立旭中学校</gml:description>
+			<gml:name>146</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id147">
+			<gml:description>西濃運輸（相模原支店）</gml:description>
+			<gml:name>147</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id148">
+			<gml:description>相模原北警察署大島交番</gml:description>
+			<gml:name>148</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id149">
+			<gml:description>大沢郵便局</gml:description>
+			<gml:name>149</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id150">
+			<gml:description>相模原北警察署下九沢交番</gml:description>
+			<gml:name>150</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id151">
+			<gml:description>南橋本駅</gml:description>
+			<gml:name>151</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id152">
+			<gml:description>相模原駅前郵便局</gml:description>
+			<gml:name>152</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id153">
+			<gml:description>相模原清新郵便局</gml:description>
+			<gml:name>153</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id154">
+			<gml:description>相模原駅</gml:description>
+			<gml:name>154</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id155">
+			<gml:description>相模原警察署相模原駅前交番</gml:description>
+			<gml:name>155</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id156">
+			<gml:description>相模原下九沢郵便局</gml:description>
+			<gml:name>156</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id157">
+			<gml:description>相模原横山郵便局</gml:description>
+			<gml:name>157</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id158">
+			<gml:description>相模原警察署横山交番</gml:description>
+			<gml:name>158</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id159">
+			<gml:description>矢部駅</gml:description>
+			<gml:name>159</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id160">
+			<gml:description>相模原警察署田名交番</gml:description>
+			<gml:name>160</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id161">
+			<gml:description>上溝郵便局</gml:description>
+			<gml:name>161</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id162">
+			<gml:description>相模原警察署星が丘交番</gml:description>
+			<gml:name>162</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id163">
+			<gml:description>相模原千代田郵便局</gml:description>
+			<gml:name>163</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id164">
+			<gml:description>相模原弥栄郵便局</gml:description>
+			<gml:name>164</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id165">
+			<gml:description>相模原警察署相生交番</gml:description>
+			<gml:name>165</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id166">
+			<gml:description>市立星が丘小学校</gml:description>
+			<gml:name>166</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id167">
+			<gml:description>番田駅</gml:description>
+			<gml:name>167</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id168">
+			<gml:description>相模原警察署番田交番</gml:description>
+			<gml:name>168</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id169">
+			<gml:description>番田駅前郵便局</gml:description>
+			<gml:name>169</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id170">
+			<gml:description>相模原市消防局相模原消防署緑が丘分署</gml:description>
+			<gml:name>170</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id171">
+			<gml:description>相模原光が丘郵便局</gml:description>
+			<gml:name>171</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id172">
+			<gml:description>市立麻溝小学校</gml:description>
+			<gml:name>172</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id173">
+			<gml:description>相模原南警察署麻溝交番</gml:description>
+			<gml:name>173</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id174">
+			<gml:description>原当麻駅</gml:description>
+			<gml:name>174</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id175">
+			<gml:description>麻溝郵便局</gml:description>
+			<gml:name>175</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id176">
+			<gml:description>相模原市消防局南消防署新磯分署</gml:description>
+			<gml:name>176</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id177">
+			<gml:description>相模原磯部郵便局</gml:description>
+			<gml:name>177</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id178">
+			<gml:description>相模原南警察署新磯駐在所</gml:description>
+			<gml:name>178</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id179">
+			<gml:description>相武台下駅</gml:description>
+			<gml:name>179</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id180">
+			<gml:description>淵野辺駅</gml:description>
+			<gml:name>180</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id181">
+			<gml:description>淵野辺郵便局</gml:description>
+			<gml:name>181</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id183">
+			<gml:description>相模原警察署淵野辺駅南口交番</gml:description>
+			<gml:name>183</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id184">
+			<gml:description>相模原警察署淵野辺駅北口交番</gml:description>
+			<gml:name>184</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id185">
+			<gml:description>県立相模原中央支援学校</gml:description>
+			<gml:name>185</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id186">
+			<gml:description>相模原市立博物館</gml:description>
+			<gml:name>186</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id187">
+			<gml:description>相模原大野台郵便局</gml:description>
+			<gml:name>187</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id188">
+			<gml:description>相模原南警察署古淵駅前交番</gml:description>
+			<gml:name>188</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id189">
+			<gml:description>相模原古淵郵便局</gml:description>
+			<gml:name>189</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id190">
+			<gml:description>古淵駅</gml:description>
+			<gml:name>190</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id191">
+			<gml:description>相模原大野台七郵便局</gml:description>
+			<gml:name>191</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id192">
+			<gml:description>相模原南警察署大野交番</gml:description>
+			<gml:name>192</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id193">
+			<gml:description>相模原市消防局南消防署大沼分署</gml:description>
+			<gml:name>193</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id194">
+			<gml:description>相模原鵜野森郵便局</gml:description>
+			<gml:name>194</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id195">
+			<gml:description>相模原北里郵便局</gml:description>
+			<gml:name>195</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id196">
+			<gml:description>相模原南警察署麻溝公園前交番</gml:description>
+			<gml:name>196</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id197">
+			<gml:description>相模女子大学短期大学部</gml:description>
+			<gml:name>197</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id198">
+			<gml:description>相模大野郵便局</gml:description>
+			<gml:name>198</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id199">
+			<gml:description>市立大野南中学校</gml:description>
+			<gml:name>199</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id200">
+			<gml:description>相模女子大学</gml:description>
+			<gml:name>200</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id201">
+			<gml:description>相模原若松郵便局</gml:description>
+			<gml:name>201</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id202">
+			<gml:description>相模原南警察署大沼交番</gml:description>
+			<gml:name>202</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id203">
+			<gml:description>相模大野五郵便局</gml:description>
+			<gml:name>203</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id204">
+			<gml:description>市立相模台中学校</gml:description>
+			<gml:name>204</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id205">
+			<gml:description>相模原市消防局南消防署麻溝台分署</gml:description>
+			<gml:name>205</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id206">
+			<gml:description>相模原南警察署新磯野交番</gml:description>
+			<gml:name>206</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id207">
+			<gml:description>相模原双葉郵便局</gml:description>
+			<gml:name>207</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id208">
+			<gml:description>相模原松が枝郵便局</gml:description>
+			<gml:name>208</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id209">
+			<gml:description>相模原南警察署相南交番</gml:description>
+			<gml:name>209</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id210">
+			<gml:description>相模原南台郵便局</gml:description>
+			<gml:name>210</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id211">
+			<gml:description>相模原南警察署南大野交番</gml:description>
+			<gml:name>211</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id212">
+			<gml:description>小田急相模原駅</gml:description>
+			<gml:name>212</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id213">
+			<gml:description>相模原市消防局南消防署上鶴間分署</gml:description>
+			<gml:name>213</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id214">
+			<gml:description>相模原谷口郵便局</gml:description>
+			<gml:name>214</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id215">
+			<gml:description>相模大野駅前郵便局</gml:description>
+			<gml:name>215</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id216">
+			<gml:description>相模原南警察署中和田交番</gml:description>
+			<gml:name>216</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id217">
+			<gml:description>相模原市消防局南消防署東林分署</gml:description>
+			<gml:name>217</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id218">
+			<gml:description>相模原南警察署東林間交番</gml:description>
+			<gml:name>218</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id219">
+			<gml:description>東林間駅</gml:description>
+			<gml:name>219</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id220">
+			<gml:description>相模原上鶴間郵便局</gml:description>
+			<gml:name>220</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id221">
+			<gml:description>東芝林間病院</gml:description>
+			<gml:name>221</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id222">
+			<gml:description>相模原相武台団地郵便局</gml:description>
+			<gml:name>222</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id223">
+			<gml:description>相模原新磯野郵便局</gml:description>
+			<gml:name>223</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id224">
+			<gml:description>相模原南警察署相武台交番</gml:description>
+			<gml:name>224</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id225">
+			<gml:description>相模原相南郵便局</gml:description>
+			<gml:name>225</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id226">
+			<gml:description>上溝駅</gml:description>
+			<gml:name>226</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id227">
+			<gml:description>下溝駅</gml:description>
+			<gml:name>227</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id228">
+			<gml:description>市立鳥屋小学校</gml:description>
+			<gml:name>228</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id229">
+			<gml:description>市立藤野中学校</gml:description>
+			<gml:name>229</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id230">
+			<gml:description>市立藤野小学校</gml:description>
+			<gml:name>230</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id231">
+			<gml:description>津久井警察署相模湖交番</gml:description>
+			<gml:name>231</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id232">
+			<gml:description>市立桂北小学校</gml:description>
+			<gml:name>232</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id233">
+			<gml:description>市立北相中学校</gml:description>
+			<gml:name>233</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id234">
+			<gml:description>市立内郷小学校</gml:description>
+			<gml:name>234</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id235">
+			<gml:description>相模原市消防局津久井消防署</gml:description>
+			<gml:name>235</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id236">
+			<gml:description>県立津久井高等学校</gml:description>
+			<gml:name>236</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id237">
+			<gml:description>市立津久井中央小学校</gml:description>
+			<gml:name>237</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id238">
+			<gml:description>津久井郵便局</gml:description>
+			<gml:name>238</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id239">
+			<gml:description>市立中野小学校</gml:description>
+			<gml:name>239</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id240">
+			<gml:description>市立中野中学校</gml:description>
+			<gml:name>240</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id241">
+			<gml:description>津久井警察署</gml:description>
+			<gml:name>241</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id242">
+			<gml:description>市立串川小学校</gml:description>
+			<gml:name>242</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id243">
+			<gml:description>市立鳥屋中学校</gml:description>
+			<gml:name>243</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id244">
+			<gml:description>津久井警察署千木良駐在所</gml:description>
+			<gml:name>244</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id245">
+			<gml:description>津久井警察署小渕駐在所</gml:description>
+			<gml:name>245</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id246">
+			<gml:description>藤野駅</gml:description>
+			<gml:name>246</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id247">
+			<gml:description>私立シュタイナー学園高等部</gml:description>
+			<gml:name>247</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id248">
+			<gml:description>吉野郵便局</gml:description>
+			<gml:name>248</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id249">
+			<gml:description>津久井警察署吉野駐在所</gml:description>
+			<gml:name>249</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id250">
+			<gml:description>日連郵便局</gml:description>
+			<gml:name>250</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id251">
+			<gml:description>津久井警察署日連駐在所</gml:description>
+			<gml:name>251</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id252">
+			<gml:description>相模原市消防局津久井消防署藤野分署</gml:description>
+			<gml:name>252</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id253">
+			<gml:description>相模湖郵便局</gml:description>
+			<gml:name>253</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id254">
+			<gml:description>相模湖駅</gml:description>
+			<gml:name>254</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id255">
+			<gml:description>市立千木良小学校</gml:description>
+			<gml:name>255</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id256">
+			<gml:description>津久井警察署内郷駐在所</gml:description>
+			<gml:name>256</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id257">
+			<gml:description>森田病院</gml:description>
+			<gml:name>257</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id258">
+			<gml:description>三ケ木簡易郵便局</gml:description>
+			<gml:name>258</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id259">
+			<gml:description>津久井警察署串川駐在所</gml:description>
+			<gml:name>259</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id260">
+			<gml:description>串川郵便局</gml:description>
+			<gml:name>260</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id261">
+			<gml:description>津久井警察署青根駐在所</gml:description>
+			<gml:name>261</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id262">
+			<gml:description>相模原市消防局津久井消防署鳥屋出張所</gml:description>
+			<gml:name>262</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id263">
+			<gml:description>鳥屋郵便局</gml:description>
+			<gml:name>263</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id264">
+			<gml:description>津久井警察署鳥屋駐在所</gml:description>
+			<gml:name>264</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>
