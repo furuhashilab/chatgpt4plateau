@@ -11,7 +11,7 @@
 [<img width="300" alt="スクリーンショット 2023-08-03 13 12 48" src="https://github.com/furuhashilab/chatgpt4plateau/assets/416977/c161d378-5069-4f6d-83fa-ac9f526da25f">](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/14150_indexmap_op.pdf)
 
 
- * [PLATEAUデータ CityGML]([https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op))
+ * [PLATEAUデータ CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op)
    - [建築物モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/bldg)
    - [都市計画決定情報モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/urf)
    - [道路モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/tran)
@@ -20,14 +20,14 @@
    - [洪水浸水想定区域モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/fld/pref)
    - [土砂災害警戒区域モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/lsld)
 
- * [PLATEAUデータ その他 サンプル]([https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_other_1_op))
-   - [ランドマーク名称](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/landmark.geojson)
-   - [公園名称](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/park.geojson)
-   - [避難施設名称](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/shelter.geojson)		
-   - [鉄道駅名称](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/station.geojson)
-   - [行政界](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/border.geojson)
-   - [鉄道](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/railway.geojson)
-   - [緊急輸送道路](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/emergency_route.geojson)		
+ * [PLATEAUデータ その他 サンプル](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_other_1_op)
+   - [ランドマーク名称 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/landmark.geojson)
+   - [公園名称 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/park.geojson)
+   - [避難施設名称 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/shelter.geojson)		
+   - [鉄道駅名称 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/station.geojson)
+   - [行政界 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/border.geojson)
+   - [鉄道 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/railway.geojson)
+   - [緊急輸送道路 GeoJSON](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_other_1_op/emergency_route.geojson)		
 
  * DRONEBIRD空撮データ
    - [ドローン空撮 GeoTIFF](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/dronebird/sagamigawa_takatabashi)
