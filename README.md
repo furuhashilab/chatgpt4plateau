@@ -8,7 +8,7 @@
 ## ハンズオン用サンプルデータ置き場
 主に、神奈川県相模原市のPLATEAUデータを中心に、いくつかサンプルデータを置いてみました。
 
- * [神奈川県相模原市PLATEAUデータ サンプル](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/sagamihara)
+ * [PLATEAUデータ サンプル](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/)
 
 
 ## ハンズオンで試してみた結果を Issue に共有
