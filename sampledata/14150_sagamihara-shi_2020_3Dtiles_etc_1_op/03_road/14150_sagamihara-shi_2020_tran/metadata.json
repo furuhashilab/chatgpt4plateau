@@ -1,0 +1,12 @@
+{
+  "name":"14150_sagamihara_tran",
+  "description":"",
+  "version":2,
+  "minzoom":8,
+  "maxzoom":15,
+  "center":"139.2856418,35.5577834,0",
+  "bounds":"139.1120731,35.4893150,139.4592106,35.6262518",
+  "type":"overlay",
+  "format":"pbf",
+  "json":"{\n  \"vector_layers\":[\n    {\n      \"id\":\"road\",\n      \"description\":\"\",\n      \"minzoom\":8,\n      \"maxzoom\":15,\n      \"fields\":{\n      }\n    }\n  ],\n  \"tilestats\":{\n    \"layerCount\":1,\n    \"layers\":[\n      {\n        \"layer\":\"road\",\n        \"count\":60032,\n        \"geometry\":\"Polygon\",\n        \"attributeCount\":0,\n        \"attributes\":[\n        ]\n      }\n    ]\n  }\n}"
+}
