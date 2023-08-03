@@ -1,0 +1,10049 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<core:CityModel xmlns:grp="http://www.opengis.net/citygml/cityobjectgroup/2.0" xmlns:core="http://www.opengis.net/citygml/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil20lang="http://www.w3.org/2001/SMIL20/Language" xmlns:pbase="http://www.opengis.net/citygml/profiles/base/2.0" xmlns:smil20="http://www.w3.org/2001/SMIL20/" xmlns:bldg="http://www.opengis.net/citygml/building/2.0" xmlns:xAL="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:uro="https://www.geospatial.jp/iur/uro/2.0" xmlns:luse="http://www.opengis.net/citygml/landuse/2.0" xmlns:app="http://www.opengis.net/citygml/appearance/2.0" xmlns:gen="http://www.opengis.net/citygml/generics/2.0" xmlns:dem="http://www.opengis.net/citygml/relief/2.0" xmlns:tex="http://www.opengis.net/citygml/texturedsurface/2.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tun="http://www.opengis.net/citygml/tunnel/2.0" xmlns:veg="http://www.opengis.net/citygml/vegetation/2.0" xmlns:sch="http://www.ascc.net/xml/schematron" xmlns:frn="http://www.opengis.net/citygml/cityfurniture/2.0" xmlns:gml="http://www.opengis.net/gml" xmlns:tran="http://www.opengis.net/citygml/transportation/2.0" xmlns:wtr="http://www.opengis.net/citygml/waterbody/2.0" xmlns:brid="http://www.opengis.net/citygml/bridge/2.0" xsi:schemaLocation="https://www.geospatial.jp/iur/uro/2.0 ../../schemas/iur/uro/2.0/urbanObject.xsd http://www.opengis.net/citygml/2.0 http://schemas.opengis.net/citygml/2.0/cityGMLBase.xsd http://www.opengis.net/citygml/landuse/2.0 http://schemas.opengis.net/citygml/landuse/2.0/landUse.xsd http://www.opengis.net/citygml/building/2.0 http://schemas.opengis.net/citygml/building/2.0/building.xsd http://www.opengis.net/citygml/transportation/2.0 http://schemas.opengis.net/citygml/transportation/2.0/transportation.xsd http://www.opengis.net/citygml/generics/2.0 http://schemas.opengis.net/citygml/generics/2.0/generics.xsd http://www.opengis.net/citygml/waterbody/2.0 http://schemas.opengis.net/citygml/waterbody/2.0/waterBody.xsd http://www.opengis.net/citygml/relief/2.0 http://schemas.opengis.net/citygml/relief/2.0/relief.xsd http://www.opengis.net/citygml/cityobjectgroup/2.0 http://schemas.opengis.net/citygml/cityobjectgroup/2.0/cityObjectGroup.xsd http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/base/gml.xsd http://www.opengis.net/citygml/appearance/2.0 http://schemas.opengis.net/citygml/appearance/2.0/appearance.xsd">
+	<gml:boundedBy>
+		<gml:Envelope srsName="http://www.opengis.net/def/crs/EPSG/0/6697" srsDimension="3">
+			<gml:lowerCorner>35.6077050994322 139.14862639693422 0</gml:lowerCorner>
+			<gml:upperCorner>35.617771436784274 139.1644421854415 0</gml:upperCorner>
+		</gml:Envelope>
+	</gml:boundedBy>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_589e149e-277d-4992-91d6-ebda47aeb123">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61310218700233 139.16194121628433 0 35.61307534441049 139.16200070190308 0 35.61305276602402 139.16205256853047 0 35.61303849958401 139.16208534107534 0 35.612993537530556 139.16218528058815 0 35.61296943944107 139.16224431506794 0 35.61294196855588 139.16231276008043 0 35.612925454791984 139.16235793350472 0 35.61291223778878 139.1623962357509 0 35.612898611904946 139.1624420473137 0 35.612883693018716 139.16249846624106 0 35.61287475253242 139.16252779187306 0 35.612860246361656 139.16259358971178 0 35.61285937637797 139.16259922640822 0 35.61285100633507 139.1626500715608 0 35.61284458968634 139.1626956021086 0 35.612842115312496 139.16272067925533 0 35.61293178631726 139.16273308159026 0 35.61293246015138 139.1627257753731 0 35.61293676709191 139.16268986554854 0 35.61294302497763 139.16264819961398 0 35.61295109347674 139.16260795351303 0 35.6129650938881 139.16254845155282 0 35.612977202931 139.1625054121647 0 35.613002235444924 139.1624361044981 0 35.61300710626092 139.16243672611284 0 35.613043069461206 139.1623394006464 0 35.61305083656893 139.16232597964063 0 35.61310003333856 139.16224189967988 0 35.613168262766855 139.16212796800536 0 35.61318636049165 139.16214062106707 0 35.61321353249856 139.1620994425225 0 35.61318647234711 139.16207979992862 0 35.61317649694981 139.1620689555042 0 35.61320754628014 139.16202131719 0 35.61317823517836 139.16199266737624 0 35.61317660665248 139.16199157716918 0 35.61310218700233 139.16194121628433 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_31755657-11b8-40fa-82d9-75711c194616">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61322054626955 139.16242668535384 0 35.6132095156699 139.16238161126728 0 35.61319181019928 139.16236326028843 0 35.613187544752265 139.16236943201923 0 35.61315697344933 139.1624152748673 0 35.61313071606625 139.16245342672653 0 35.61314836381878 139.16247164130016 0 35.613178355451474 139.1624997589151 0 35.61320273288067 139.1625073118773 0 35.61321317897006 139.16245675049925 0 35.61321406000898 139.16245310055245 0 35.61328983993376 139.16248105662243 0 35.61330573143596 139.1624860014876 0 35.613313963789906 139.16248738456792 0 35.613325760406525 139.1624893664643 0 35.61340988675178 139.16249462464793 0 35.61341108570788 139.16246712956712 0 35.61332795081379 139.16246186313356 0 35.613313935116494 139.16245946867275 0 35.61331008685435 139.16245881123055 0 35.61329582080007 139.16245440470598 0 35.61322054626955 139.16242668535384 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9c45dc50-2423-4a38-a3b1-e4cd7810bcac">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61652235585064 139.15479247968375 0 35.61646896522898 139.15477517750747 0 35.61646290961259 139.1547722482372 0 35.616460697358626 139.15481156431858 0 35.61651461589797 139.154829174682 0 35.61652235585064 139.15479247968375 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_635fa569-2603-42f7-b2e7-7fafd03d8f9e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613365861572206 139.1614304495806 0 35.61336148575733 139.16142090417537 0 35.61332120965654 139.16133304599052 0 35.613296350850064 139.16127177133868 0 35.613282162442864 139.1612328149292 0 35.61319006849106 139.161249677148 0 35.61319533542826 139.16129281613314 0 35.61320187219162 139.16134971831545 0 35.61320794780418 139.16140474787804 0 35.61320914780084 139.16142374602634 0 35.61321111147108 139.16145483463177 0 35.61321138919178 139.16147632935812 0 35.61329910463967 139.16147462976687 0 35.61330162833371 139.16147460866287 0 35.613365861572206 139.1614304495806 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_019a865a-ba06-4bda-9468-b5a6e9b72911">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61640185120914 139.15476580967368 0 35.61639588947025 139.1547955538256 0 35.61639806879643 139.15479840545026 0 35.6164256360851 139.15482786641022 0 35.616433615547 139.15482029277365 0 35.616443403860934 139.1548138077167 0 35.61645087361238 139.1548117576786 0 35.61645456839519 139.15481161608554 0 35.616460697358626 139.15481156431858 0 35.61646290961259 139.1547722482372 0 35.616456014834796 139.15476435868854 0 35.61645118438479 139.1547549063009 0 35.616448244215384 139.1547449964034 0 35.61644664669696 139.15473341937604 0 35.61644612205526 139.1547202878833 0 35.61640185120914 139.15476580967368 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_52682123-9766-43ee-a46d-5580a205c741">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61367392593461 139.1614324200645 0 35.613670656911225 139.16144425829398 0 35.6136634485458 139.16146087589837 0 35.61365650503466 139.16147649784568 0 35.613644516132744 139.1614990290268 0 35.613664199555004 139.16151473610643 0 35.61368030028255 139.16152486701347 0 35.61368528366764 139.16151334559717 0 35.61368741360105 139.16150736714897 0 35.61368918115987 139.1615010605842 0 35.613690587574965 139.1614946466569 0 35.613691629768965 139.16148757348196 0 35.61369592737048 139.1614338917993 0 35.61367392593461 139.1614324200645 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_09f2ae99-88a8-46f8-b313-c128b7d99b8d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61648246534712 139.15047171228701 0 35.616591058945275 139.15045412311292 0 35.61658844368838 139.15042113217794 0 35.61647900829558 139.15043889302683 0 35.61648246534712 139.15047171228701 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ec0363f4-8348-4119-b6ca-5c0629ad659b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613221793140326 139.16050998974077 0 35.61314765487627 139.16048555401375 0 35.61314423313097 139.16052287560098 0 35.61314306695867 139.16053559522095 0 35.61322067181893 139.1605351661201 0 35.61323834754565 139.1605367842079 0 35.61325307653737 139.1604142477001 0 35.613246660523586 139.1604113211357 0 35.6132382757848 139.16041094983646 0 35.613227834446484 139.1605103806749 0 35.613221793140326 139.16050998974077 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_be85e8d4-39b8-4b75-be34-3815f39d49a8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613651564365 139.16122592115275 0 35.61364864881033 139.16127997297835 0 35.61367777115688 139.1613299532575 0 35.61372284898723 139.16133133257406 0 35.61372461700857 139.16124467749157 0 35.61372583976964 139.1612002863141 0 35.613681544489644 139.16119845653236 0 35.61365213328435 139.1612259669695 0 35.613651564365 139.16122592115275 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_27633e1f-5c89-41e2-992b-a2e2d334708b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615883072966824 139.15459554594557 0 35.615882310075314 139.15460638653906 0 35.61587896095252 139.1546358876671 0 35.61587302726018 139.1547026104166 0 35.615864991910364 139.15478027903555 0 35.61585592776181 139.15486733906246 0 35.61584863885592 139.15493352129545 0 35.61584189880491 139.15498512805016 0 35.61584096266407 139.15499496022795 0 35.61583865774231 139.15501782940342 0 35.615834918134546 139.15505804114903 0 35.615831156429365 139.15509045752881 0 35.61583113563973 139.15509063668262 0 35.61582909860985 139.1551130620508 0 35.61582741091933 139.15513349753735 0 35.61582733072864 139.15513526437547 0 35.615825230895624 139.15516254721476 0 35.6158249810028 139.15516619203157 0 35.6158233958605 139.15518883435178 0 35.61582323107947 139.1552076012043 0 35.61582303393817 139.15523663414123 0 35.61582494212428 139.1552713893319 0 35.61582777087472 139.1553095586921 0 35.61582852054175 139.15531651355175 0 35.61583147981317 139.1553439675341 0 35.61583232764607 139.15535047309868 0 35.615834783495224 139.15537043207323 0 35.61583909725403 139.15540019964348 0 35.61584457340365 139.15542830163176 0 35.61584651927307 139.15543683705465 0 35.6158517819244 139.15545992132954 0 35.61585850686491 139.15548569470204 0 35.61587847690481 139.15555272943257 0 35.615882025845565 139.15556464240916 0 35.61589148203865 139.15559524970556 0 35.61589594372043 139.1556192760325 0 35.61589623375 139.15562101415847 0 35.61589986150217 139.15564275502447 0 35.615901941875705 139.1556600679481 0 35.615902462068306 139.1556724267002 0 35.6159016364902 139.15568590065612 0 35.61589795152376 139.15570381413787 0 35.615869457693826 139.15583011430803 0 35.61585812115466 139.1558818701503 0 35.61585386481493 139.15591038540273 0 35.615849402140135 139.15593426621743 0 35.61584551453218 139.15594820752128 0 35.61583602060078 139.15597500076558 0 35.61582449458533 139.15600909655163 0 35.61580869807484 139.15605316298624 0 35.61579562490476 139.15608462255153 0 35.6157566776011 139.15617933004657 0 35.6157097064328 139.15628977973253 0 35.615673760810246 139.1563733128619 0 35.61564859644024 139.15643456772645 0 35.61568154954329 139.15646012013164 0 35.615724975214604 139.15648995466276 0 35.61574003085613 139.15645708854157 0 35.61567419596055 139.15641867737742 0 35.61570769130876 139.15633218452354 0 35.615738637280906 139.15625719312027 0 35.61577952660211 139.15615518390314 0 35.61581659849058 139.15606358296202 0 35.61584198342182 139.15599349518615 0 35.615854223040685 139.1559580687521 0 35.61585519649454 139.15595485937573 0 35.61585944214831 139.15594047351092 0 35.61587707566832 139.15587045102617 0 35.615890990646065 139.1558123814702 0 35.61590742940867 139.15573828475559 0 35.6159168307875 139.1556950448456 0 35.615919182399665 139.15568045416265 0 35.61591944049013 139.155662238427 0 35.61591681808413 139.15564470930158 0 35.61591230239075 139.15561107991076 0 35.61590964765179 139.1555939038466 0 35.61590771890906 139.15558142496243 0 35.61589375135612 139.15553188032175 0 35.615888129012404 139.15551193719725 0 35.61587640646126 139.15547903094708 0 35.6158687652962 139.15545061605746 0 35.615862685077445 139.15542829096836 0 35.615862046558746 139.15542594648352 0 35.61585666799329 139.1553991682872 0 35.61585118127813 139.15536918983906 0 35.6158466878691 139.15533953416738 0 35.61584404763213 139.1553179634844 0 35.6158437589941 139.15531560531963 0 35.615841458552524 139.1552912296292 0 35.615840433618054 139.1552692716464 0 35.61584079306826 139.15522103032714 0 35.61584063340601 139.1551926627062 0 35.61584279235559 139.15514385427 0 35.61584626521686 139.1551084584084 0 35.615847821834066 139.15509259312444 0 35.615853696060576 139.15503127979537 0 35.61586043615005 139.1549636671944 0 35.61586405697696 139.15495039040476 0 35.615871715748746 139.15486985496975 0 35.61587881192319 139.15480146663725 0 35.61589203446641 139.15466856161032 0 35.615895609846326 139.15463122122068 0 35.6158982777089 139.1546087904928 0 35.61590064722184 139.1545974008011 0 35.615883072966824 139.15459554594557 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3f97b899-b29d-4a14-a7ae-b971033d38c9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61411850053772 139.15973755340835 0 35.61407094858622 139.15971640176625 0 35.61406532812737 139.15971569581407 0 35.61406366452306 139.15973555904353 0 35.614112631757216 139.15975734022996 0 35.61411850053772 139.15973755340835 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_323fc291-bcfd-456b-9202-4f88b9f27242">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61547556094867 139.15959634818267 0 35.6154528046052 139.15959972909542 0 35.615450640803616 139.15961575300707 0 35.615445874283665 139.15963378566676 0 35.6154429394304 139.15964087489124 0 35.61544034473745 139.15964431857174 0 35.61543774140405 139.15964621694033 0 35.61544710211292 139.15967605266587 0 35.615451428444324 139.15967601638783 0 35.61545441452363 139.15967808865562 0 35.61545606096704 139.15968237984885 0 35.615486050827734 139.1596778233728 0 35.61547817115749 139.1596226971337 0 35.61547556094867 139.15959634818267 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0f89a539-88f2-49d0-80c4-59c446dc36da">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615883072966824 139.15459554594557 0 35.61590064722184 139.1545974008011 0 35.61590250081561 139.15459043087472 0 35.615904379903746 139.1545879865247 0 35.6159074356801 139.1545864153143 0 35.615910865042146 139.15458715903628 0 35.61592263210865 139.15455407889937 0 35.61588380984352 139.15453661045575 0 35.615877559142085 139.15457905116398 0 35.61588389572964 139.15458385457248 0 35.615883072966824 139.15459554594557 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7d241216-6d35-4a59-90f6-74097d08387b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61634118531182 139.15056635487628 0 35.61633798211758 139.15053403283625 0 35.61631108510045 139.15053803060275 0 35.61630014458854 139.15054887185224 0 35.61631433285825 139.15057034601116 0 35.61634118531182 139.15056635487628 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6dcd08cb-9884-4e06-8b7c-08f085981917">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6133957464083 139.15950825341199 0 35.61333903614819 139.15944117544115 0 35.61332285190413 139.15946449133864 0 35.61330820854064 139.15948933964626 0 35.613294929496526 139.1595163841351 0 35.613286035077586 139.1595380050392 0 35.61335617595831 139.15957260667565 0 35.61337482339584 139.15957068418956 0 35.61337654577838 139.15957243585333 0 35.61338708171792 139.15958344719155 0 35.61341165343194 139.15954818859066 0 35.61341111212446 139.15954682961723 0 35.6133957464083 139.15950825341199 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_946aaadd-24dc-4aae-ae6f-20fa8bacee00">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61386006112156 139.1604079914055 0 35.61384904730692 139.16044479918082 0 35.61384199923303 139.1604703255307 0 35.613893023897525 139.16049145378756 0 35.61391225713676 139.16049758451425 0 35.61392717185509 139.16045672846474 0 35.61392055893554 139.16045082319482 0 35.61391583077326 139.160443467168 0 35.613911911948875 139.16043577321605 0 35.61391090138782 139.16043235982315 0 35.61391051188736 139.1604271751087 0 35.61386006112156 139.1604079914055 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_87e8040a-b98e-46f3-a130-97328f66215a">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61369054573092 139.16108314223175 0 35.613735714384426 139.1610688561269 0 35.61373783136253 139.16106055974458 0 35.61373952724175 139.16105756523336 0 35.613740598971596 139.16105579014953 0 35.61374347826779 139.16105488299837 0 35.61374627235891 139.1610548596182 0 35.61374880098104 139.1610557215175 0 35.61375233029294 139.16105823077757 0 35.61376429404072 139.1610377099464 0 35.613753923937004 139.1610369136644 0 35.6136972336028 139.16102171377457 0 35.61369054573092 139.16108314223175 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_62bfdb5a-a0a4-4321-9058-ce64a7cbb1e8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61369054573092 139.16108314223175 0 35.6136972336025 139.1610217137746 0 35.6136512632171 139.16102154654902 0 35.613551469261495 139.1610191805554 0 35.61346805078576 139.16101854531277 0 35.61346168980786 139.16101849687308 0 35.61343581495838 139.16098515731952 0 35.61343339289186 139.1609549329681 0 35.613398421685545 139.16095522563717 0 35.613397764680535 139.16101516844077 0 35.61333667121344 139.16101854960056 0 35.613334892562996 139.16107132693298 0 35.613364715162575 139.16106909052442 0 35.613390842966695 139.16106699541183 0 35.61345431317254 139.1610704149312 0 35.61369054573092 139.16108314223175 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5169814b-b73b-41b0-8128-e044e4f54b66">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61637821862799 139.1542828505294 0 35.616379312404895 139.15433826014177 0 35.61643915065707 139.1543364886175 0 35.61643793371217 139.15427483952465 0 35.61643938694255 139.1542608082366 0 35.61644192175364 139.15424676779878 0 35.6164434259978 139.15424178771684 0 35.61644680123429 139.1542329283113 0 35.61645064143885 139.15422660385062 0 35.61645700035629 139.15421937500955 0 35.61647509979395 139.15421184472572 0 35.616464402106786 139.15417328150005 0 35.61641815578064 139.15417212707428 0 35.616410635489736 139.15417173583793 0 35.616382124442104 139.15417025257676 0 35.61637821862799 139.1542828505294 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_92a06bfc-caea-4f54-9849-f3b9350611a0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614646291079104 139.15978326492376 0 35.614609330606726 139.15976454055044 0 35.61458168649027 139.1597414752961 0 35.61456662843214 139.15976854121874 0 35.61454603820073 139.15977765489754 0 35.61453504504999 139.15982664687917 0 35.61454032267902 139.15983554368566 0 35.61454072207722 139.1598424944878 0 35.61463034042163 139.15983048409763 0 35.614646291079104 139.15978326492376 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_180dd57c-4fee-4f0a-a7a5-158543223a04">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615787568409274 139.15436489187215 0 35.61580158300413 139.154372610763 0 35.61584487187404 139.15437425408916 0 35.61584493391982 139.15437180284025 0 35.61584858795528 139.15428632622363 0 35.61582587596156 139.15428487009333 0 35.61581096073736 139.15429327504464 0 35.61579551946979 139.15429079018753 0 35.615787568409274 139.15436489187215 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7306b7b3-ee8f-418a-95ac-ac39cae6d9b2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61658506710497 139.15180602496002 0 35.61662391926785 139.15179938541155 0 35.616616432680736 139.1517336815322 0 35.616576719649814 139.1517325786497 0 35.61656468721724 139.1517379839005 0 35.61658506710497 139.15180602496002 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7bae2323-52a7-4f87-a569-e412089360b8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61601224053612 139.1510395121277 0 35.61604914642293 139.15103069901025 0 35.61605488703442 139.15098471806394 0 35.61605438379132 139.1509846238353 0 35.61603015232745 139.150955467157 0 35.6160121274438 139.15095145468914 0 35.61599947893742 139.15103667128759 0 35.61601224053612 139.1510395121277 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4ce6e33c-52e1-4f74-a302-6979feeb3f39">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61348415320542 139.15971480913743 0 35.6135154654372 139.15970494337816 0 35.613533873842194 139.15966453832397 0 35.61350078145977 139.1596419280426 0 35.61347357664888 139.15961351482173 0 35.61344925992789 139.1596484310633 0 35.61345612470633 139.15968325416495 0 35.6134514729366 139.1596944548852 0 35.61348415320542 139.15971480913743 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8606aa86-bc85-4cf5-ac3d-ff9dd107fcf9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61421122793523 139.15962195317974 0 35.61415907066445 139.15959799482715 0 35.614119976690375 139.15957844790367 0 35.61411754331374 139.1595864217367 0 35.61410078858269 139.15963667600468 0 35.61408486136898 139.15968049122853 0 35.61412838735223 139.15970421959753 0 35.61415560106009 139.1596867717017 0 35.614176639478124 139.15967721275584 0 35.614196076503156 139.1596714202502 0 35.61421122793523 139.15962195317974 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_64e623d7-8bcd-4f0c-88bf-fb40c0f291eb">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6137701603202 139.16069989105503 0 35.61382740688772 139.16071784563277 0 35.6138309474673 139.16070622584235 0 35.61378150787088 139.16068202450097 0 35.61377508053652 139.16067967817972 0 35.6137701603202 139.16069989105503 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f4d5ed5d-2ff8-4b29-b23c-cbaa1d19435e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61392256862671 139.16145292624745 0 35.61388640640102 139.16143770755886 0 35.61387982676672 139.16143776258428 0 35.61387220734336 139.16142987782843 0 35.61386094521506 139.16144619917202 0 35.613863952192006 139.16145202429317 0 35.61386624242146 139.1614586280859 0 35.613866552824504 139.16146580034774 0 35.61386616248222 139.16147662108952 0 35.61391026136526 139.1614967834541 0 35.61392256862671 139.16145292624745 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4971129f-1b5b-4724-b96d-301e1036830b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61658842648598 139.15396492785004 0 35.616601280086265 139.15399053911602 0 35.61664768324818 139.15401950943195 0 35.616666546863044 139.15392806051565 0 35.61666953540592 139.15391456812142 0 35.61663027392137 139.15390529657918 0 35.61659444889477 139.15390029043735 0 35.61658842648598 139.15396492785004 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_53dcb041-b658-4acb-9c43-d78b7fa74f9e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61430642540934 139.15906618431498 0 35.614310420748524 139.15905220616835 0 35.614327106661015 139.1589896997087 0 35.61432966426971 139.1589796333842 0 35.61432989636323 139.15897278768736 0 35.6143285770622 139.15896253313844 0 35.61433302159649 139.1589542012364 0 35.614273370398486 139.15890648046098 0 35.61425243027832 139.15893358968196 0 35.61423532010784 139.15895249840474 0 35.61421728657511 139.15896825110974 0 35.61425820841914 139.15904800829287 0 35.614262880454206 139.15904531989028 0 35.61426585480782 139.15904529492684 0 35.61426721667012 139.1590470496242 0 35.61426795255057 139.15904969263897 0 35.61430642540934 139.15906618431498 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d1a9c5a1-2bf3-49cd-80ec-2cd67d0ffe34">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61406022619978 139.16098417128674 0 35.61409811001403 139.16099672414418 0 35.6141094604771 139.16094706729976 0 35.61407170031364 139.16093381384596 0 35.61406670327305 139.1609551650065 0 35.61406528267759 139.1609612348681 0 35.61406299714589 139.16097162996863 0 35.61406022619978 139.16098417128674 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bab9f5ef-25f9-45e9-ac82-e1fb97de681d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615053782406044 139.15849029390984 0 35.61504981907639 139.15849076873806 0 35.6150477733722 139.15851175888795 0 35.61504878584217 139.15851550343953 0 35.61507356169767 139.15852698874596 0 35.615081003580265 139.15850291278042 0 35.615053782406044 139.15849029390984 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3bff1acd-ee38-4b0c-959a-b3cb12ce28b7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61562838802702 139.15433290099304 0 35.61566334250543 139.15436163677123 0 35.615672996500166 139.15434731553336 0 35.61567410013159 139.15427125103923 0 35.61562234510814 139.15425226078946 0 35.61562838802702 139.15433290099304 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_66ea3095-3a72-424a-b5ec-a2f1d9936265">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616655656266666 139.15216930283182 0 35.616654148301 139.1521492203626 0 35.616622721836215 139.1521527595395 0 35.61662427752249 139.1521728366268 0 35.616655656266666 139.15216930283182 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_70839056-8961-4d79-bf32-2be10b3b8d02">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61624334794713 139.1519949237622 0 35.61626862028709 139.15196909994822 0 35.61627055813481 139.15196771870225 0 35.61625098327339 139.15192653029894 0 35.616233157644956 139.15192353199544 0 35.61622548787459 139.15199191964754 0 35.61624334794713 139.1519949237622 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1af991aa-2530-485a-a222-abb3f887dec7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615947282939466 139.1506760217555 0 35.615952252066535 139.15064914757622 0 35.61593675892367 139.1506191440789 0 35.615866331694704 139.15059777595698 0 35.615854634481316 139.15062213061495 0 35.615918287339085 139.15066798091428 0 35.615947282939466 139.1506760217555 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_03391167-a824-4e17-8fc2-0068b7420e6f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613998192180745 139.1619096517838 0 35.61399777537203 139.16187754879184 0 35.61398918086839 139.16187771613943 0 35.613955060500224 139.1619012920201 0 35.613962059781954 139.16192539036723 0 35.613998192180745 139.1619096517838 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cef5a705-1a3a-49f0-9063-59321e2fede9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616165048767975 139.15380359228038 0 35.61613404207489 139.1537964529507 0 35.616126439149404 139.15384597569565 0 35.61612098706514 139.15388309744347 0 35.616185074047294 139.15389721407337 0 35.616191123405336 139.1538560256354 0 35.616165048767975 139.15380359228038 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7b32fce0-d958-4768-8bad-b4f93d705a83">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61574613631978 139.152210643629 0 35.61575136782597 139.15216721260512 0 35.6157502243742 139.1521243929418 0 35.61576934838006 139.1520970397875 0 35.615810935789725 139.152037557046 0 35.61582201598804 139.15194076578192 0 35.61582831772104 139.15193938771114 0 35.61585997566901 139.1519388364016 0 35.61585993025104 139.15193492494492 0 35.6158595658289 139.15190236443337 0 35.61586085972571 139.15188499132213 0 35.615859286303326 139.1518848155746 0 35.615647775425956 139.15182788499774 0 35.61561026107672 139.1517928801181 0 35.61554676821531 139.15176767455836 0 35.615535633619984 139.15180973976928 0 35.615565769416094 139.15186291030577 0 35.61552885074436 139.15212450391746 0 35.61552308062898 139.15216948343473 0 35.61559669705551 139.15218364675903 0 35.61574613631978 139.152210643629 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ba7162fc-1c31-4d83-a9fa-cf064c0bb902">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614500698533554 139.15790695635937 0 35.61455702127402 139.15792356398907 0 35.61455882308646 139.15790732248868 0 35.61450331276476 139.15789366011273 0 35.614500698533554 139.15790695635937 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ab51a8db-7239-419a-8269-7378ce85e816">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615178344787395 139.15818589436753 0 35.615183491540705 139.15816909012898 0 35.61518596681235 139.15814434326265 0 35.61515225933858 139.15814495770587 0 35.615146768097965 139.15814621808184 0 35.615139719243714 139.15816791671747 0 35.61514817467778 139.15817203615268 0 35.615178344787395 139.15818589436753 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f1c0f426-6b39-4f3c-834c-1cc276d5fb71">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615512472455336 139.15505292623268 0 35.6155097597697 139.1550674095231 0 35.61554344329299 139.15507565267697 0 35.61554582003292 139.15506108716662 0 35.615512472455336 139.15505292623268 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a6bc4338-5eb3-4da1-8f4a-12d061b56a92">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6156055800683 139.1542417420571 0 35.61562339620539 139.15424684305032 0 35.61567592458519 139.1542567650917 0 35.61568467454396 139.1541872912436 0 35.615638695267826 139.1541786063006 0 35.615613314267534 139.15420122897714 0 35.6156055800683 139.1542417420571 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ca492881-d51d-4a35-a594-a4f3f8477224">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61623262074998 139.1520903879072 0 35.616234853081494 139.15207072033826 0 35.61621698724654 139.1520677152373 0 35.61621478098956 139.15208738718783 0 35.61623262074998 139.1520903879072 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_934cf4a7-cb81-4bc0-acf9-f4ec9958c289">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61585997566901 139.1519388364016 0 35.61582831772104 139.15193938771114 0 35.61582996743825 139.15207172539763 0 35.61586151168645 139.1520711267408 0 35.61585997566901 139.1519388364016 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_51529b1e-6874-44fe-b817-858d3f68a72b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615830805127466 139.15085604297187 0 35.615846188614235 139.15082887270214 0 35.61577433637153 139.15077870604748 0 35.61577279412815 139.15077695299286 0 35.61575568160176 139.15077930608464 0 35.615764269041215 139.1507995439547 0 35.615830805127466 139.15085604297187 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9d75b987-a279-4cd7-ba76-b0851f2a6b37">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6141031204174 139.16246157171997 0 35.61413874323708 139.16244880100072 0 35.614127651829655 139.16240726898567 0 35.614092440777135 139.16242137119715 0 35.6141031204174 139.16246157171997 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_410e2c85-8eb9-4151-a9f3-3f5e6492a9ad">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61539947649275 139.15425900160102 0 35.61543634677404 139.15429180530137 0 35.61547804248683 139.15431717247955 0 35.615478999900084 139.15431763581617 0 35.61553498353473 139.15434472891076 0 35.61554961039315 139.15434913105952 0 35.61555609913123 139.1543169542722 0 35.61554318788667 139.15431308955166 0 35.6154889588736 139.1542869452165 0 35.61548288820269 139.1542832399376 0 35.61545042834427 139.15426342783334 0 35.615403230767704 139.15422143914236 0 35.61540581970438 139.15421700187787 0 35.61543427823406 139.15413654376886 0 35.615442338117674 139.15411071741585 0 35.615415824187565 139.15409830780223 0 35.615404128266995 139.15409283363135 0 35.615398254142114 139.1540901236846 0 35.61533260806174 139.15414929282565 0 35.615319249197924 139.15422920668777 0 35.615316177144926 139.154247583922 0 35.61538680274431 139.15426529025987 0 35.61539947649275 139.15425900160102 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5da53296-2a2d-4279-8e1b-25b300871cf0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61525865783402 139.15746485552162 0 35.6152280971012 139.157459606713 0 35.61522681508966 139.15747209092024 0 35.61525723099336 139.15747731485934 0 35.61525865783402 139.15746485552162 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_863ddec1-15e2-47a1-85ba-64c2edda32ab">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61547047461631 139.1557164225426 0 35.61547367373736 139.15568653019523 0 35.615475423296694 139.155668725133 0 35.61544082550589 139.1556636265179 0 35.61543613396006 139.15571091067557 0 35.61547047461631 139.1557164225426 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_306d41fe-e04a-4f77-8fd5-03149ddeb1bb">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61534859562923 139.15498719617938 0 35.615338028812104 139.15498236393725 0 35.61533562670483 139.15499024174818 0 35.615346386932224 139.1549951624394 0 35.61534877788671 139.15498727952638 0 35.61534859562923 139.15498719617938 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7d2d27c5-15e9-4094-b35c-878a21ce3101">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61578965705416 139.15320654643548 0 35.615791739407236 139.15318807893917 0 35.61579741225261 139.15313776877403 0 35.61577495261086 139.1531349785432 0 35.615768277872895 139.1531341519779 0 35.61575143855731 139.1531322663496 0 35.61574915106165 139.15316290362588 0 35.61576325318425 139.1532020812785 0 35.61578965705416 139.15320654643548 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_36ceb615-831c-4c22-928e-de38e01420ef">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61615213060578 139.15367863013955 0 35.61616919317828 139.15368255879216 0 35.61618313249314 139.15368576831662 0 35.61618930582051 139.15364564613063 0 35.61617059668667 139.15364133836587 0 35.61615829072695 139.15363850492835 0 35.61615213060578 139.15367863013955 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_01025fa1-49cd-4085-bc8c-c393a20031d8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61525590436548 139.15174722760673 0 35.615259451608665 139.15168138773262 0 35.615245485965865 139.15165048825557 0 35.6151862150113 139.1516295481776 0 35.61517945996737 139.15165822347234 0 35.61517862266169 139.1516616200979 0 35.61517309733738 139.1516840341913 0 35.61515813640132 139.1517447247937 0 35.61515657353862 139.15175054274724 0 35.615206596266326 139.15177069547974 0 35.615238363673186 139.1517458102877 0 35.61525590436548 139.15174722760673 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b1282683-e53f-4d84-b78f-d6403f1d6b0f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6156611816818 139.1509503988394 0 35.615624097106085 139.15099160765612 0 35.61567792848782 139.1510718242015 0 35.615723748655725 139.1510589216759 0 35.615717693212545 139.1510266702293 0 35.6156611816818 139.1509503988394 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9dbdcb04-80c2-4693-8f91-849467b0e829">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615089879777834 139.15721174304673 0 35.615091180345004 139.1572025702228 0 35.61509353152274 139.15718786935233 0 35.61507746017451 139.15718303733067 0 35.61507380037742 139.15720547609695 0 35.61507387421876 139.1572120141507 0 35.615089879777834 139.15721174304673 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_49db63c5-3ceb-4e13-829e-35f2a2205a71">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615398254142114 139.1540901236846 0 35.615392261882995 139.15408244743602 0 35.61538545159191 139.15407356387607 0 35.61537200943253 139.15404350985614 0 35.61536899374066 139.15403676736693 0 35.61530822280438 139.15407753169666 0 35.61530924176661 139.1540816039908 0 35.61531098351806 139.15408677732898 0 35.61533260806174 139.15414929282565 0 35.615398254142114 139.1540901236846 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a43561c0-066a-41cf-9bb9-19e5a028fbb4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615521569774096 139.15245109005005 0 35.615538868044816 139.1525253360467 0 35.61561130686163 139.15253587102646 0 35.61565388017489 139.1525410294762 0 35.615698292381744 139.15254634657094 0 35.61570569869844 139.15245356669598 0 35.6157060377905 139.15244931882458 0 35.61557241952377 139.15243332202758 0 35.615521569774096 139.15245109005005 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5edc417d-db53-471c-b8f6-c7055eb21c3b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615400853154355 139.15630468008317 0 35.61537147941008 139.15629936361788 0 35.61536590517496 139.15629860374017 0 35.61535493713216 139.15641927013635 0 35.615386045903925 139.15642549887303 0 35.61538840355032 139.15640783931823 0 35.615400853154355 139.15630468008317 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_27501c3b-5c74-422e-9d9f-e7b2b1667cde">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61523939989664 139.15470785248695 0 35.61517927200139 139.15469058854544 0 35.61517643877806 139.15471566968657 0 35.61517536925835 139.1547399403045 0 35.615234915711206 139.15474387563336 0 35.6152365573447 139.15473127796147 0 35.61523939989664 139.15470785248695 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ed0a6895-f931-4922-88a6-7a68f134145c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61529983320337 139.15404400494958 0 35.615291819758994 139.15406985046187 0 35.61530063568422 139.1540739498514 0 35.61530497383489 139.15407601047448 0 35.61530822280438 139.15407753169666 0 35.61536899374066 139.15403676736693 0 35.61535552281989 139.15400664907497 0 35.61529983320337 139.15404400494958 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fb8a6cb8-0ff6-41f1-a15d-00c0141d3f4b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61563631065306 139.15281349765672 0 35.615643118708554 139.15286984662174 0 35.61565791465995 139.15287226014794 0 35.61566883681476 139.15287503764117 0 35.61567946507053 139.15288072827576 0 35.615694500161915 139.1528386140303 0 35.61567797246866 139.1528008920259 0 35.61563870625837 139.15279374857317 0 35.61563631065306 139.15281349765672 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_90e4eb64-5dd4-4f6d-a2e1-6221fb156ede">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61508050199576 139.15197895603805 0 35.61513567273142 139.15200419940038 0 35.61515261977193 139.15194865106943 0 35.61517692532551 139.15186344912186 0 35.6151865690659 139.1518333020802 0 35.61514030441297 139.1518111065436 0 35.615136871913116 139.15180981105308 0 35.61507893935746 139.15178460200187 0 35.61504995251283 139.15188450567615 0 35.61503833953882 139.15195083455959 0 35.61508050199576 139.15197895603805 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a2cc109f-fa68-40db-bc56-802912b8ac30">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61526633561951 139.1515873580464 0 35.61527419248163 139.15156447036998 0 35.61520016623507 139.1515263594441 0 35.615193997546946 139.15155124823602 0 35.61520375426373 139.15155513926672 0 35.61526633561951 139.1515873580464 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b7395af7-8320-4b1f-825c-a2cb4953b168">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61471765240828 139.15702523671314 0 35.61465719713022 139.15701740968322 0 35.61465386591087 139.15705599749572 0 35.61473167244079 139.1570660709988 0 35.61473725291338 139.15703327601398 0 35.61472371726632 139.15702982176813 0 35.61471765240828 139.15702523671314 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f25870d9-725e-4b3b-8bfc-576dae51f7bb">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615072392195145 139.15695458500102 0 35.61506358377034 139.15697508020736 0 35.615086629980695 139.15698603497435 0 35.615083787847496 139.1569614432552 0 35.615072392195145 139.15695458500102 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_34550729-0a8c-45e5-8ed1-8f68d3cbae64">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61512433630831 139.15258989134105 0 35.6150758512247 139.15261147053826 0 35.6150964327144 139.15268082354456 0 35.61510043803798 139.15269432021753 0 35.61516091879731 139.15266740217677 0 35.615141465409266 139.15258390612215 0 35.61512433630831 139.15258989134105 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_adf5db7d-568e-4373-bdee-87b98a5deb47">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6146712843466 139.15741960645488 0 35.61461203279965 139.15739822833925 0 35.61460141751386 139.15739711504312 0 35.614599973976865 139.1574177572752 0 35.61460661057175 139.1574278567136 0 35.61466429258144 139.15744866855366 0 35.6146712843466 139.15741960645488 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b2876db7-5377-4439-af60-f8b2cbb7eb84">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61504288243208 139.15633844915774 0 35.61504405167619 139.15626210658925 0 35.61501775275285 139.1562615025267 0 35.615007662946304 139.156262470633 0 35.61499568161111 139.15626367544826 0 35.61498055000253 139.1562656795002 0 35.6149674102866 139.15626838573561 0 35.6149759574518 139.156330623945 0 35.61499123480898 139.15635455890148 0 35.614991067537424 139.15635680837426 0 35.61502570115257 139.15636067073746 0 35.61504288243208 139.15633844915774 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a44b59d9-adbf-4ac4-9c93-7ade6e6d39fa">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61531922062654 139.15362779024233 0 35.61531894065879 139.15362773186223 0 35.61530696588377 139.1535981397875 0 35.615241144717665 139.15362278823682 0 35.61524490586147 139.15363785129105 0 35.615249282935025 139.1536767626835 0 35.61531392783673 139.15366585687704 0 35.61531922062654 139.15362779024233 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0d797110-326e-44ef-b4c7-5650290b72c6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61519590131957 139.1530202248034 0 35.61526062294853 139.15298898989812 0 35.615269106936076 139.15297500962998 0 35.61526112837953 139.15294001111673 0 35.615247663178216 139.15294461479152 0 35.61518296830806 139.1529732523433 0 35.61518834784093 139.15299147849677 0 35.61519590131957 139.1530202248034 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9be81160-df48-482d-9fb7-1af2acbd2d9d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615155298774454 139.1528795066258 0 35.61521811462172 139.15285170076194 0 35.61522299082741 139.15283730950975 0 35.615210900232675 139.1527965448336 0 35.61520375980447 139.15279972100944 0 35.615140070742505 139.15282791344993 0 35.615155298774454 139.1528795066258 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_dcbce4a5-19a6-42c1-94f3-d27a9502cb4f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61507312328179 139.1523285745697 0 35.61500601321207 139.1523392186038 0 35.61500238470325 139.15236088223102 0 35.61500749495107 139.15236216590054 0 35.615075254645035 139.1523513917332 0 35.6150744525623 139.15234382651855 0 35.61507312328179 139.1523285745697 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_88d62611-4a2c-478c-becf-1479a2456483">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6151759903627 139.15157071827983 0 35.615128600709056 139.1515614087498 0 35.6151260540358 139.15158085090272 0 35.615171862220045 139.15158984976955 0 35.6151759903627 139.15157071827983 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0557ff13-4d61-4091-ba96-a068e271aff9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61483659336795 139.15633280601062 0 35.61483180431867 139.15627797145365 0 35.614699634415715 139.15629786115812 0 35.614701503634386 139.1563164895798 0 35.614702740532564 139.15634085494372 0 35.61482229812386 139.1563346784057 0 35.61483659336795 139.15633280601062 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_07f08ffd-4348-4a8b-a620-eb8ad4c76b8c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61505452728318 139.15396294743803 0 35.61506730823026 139.15392028110145 0 35.61507127969749 139.15390745049024 0 35.61501381497818 139.15388077457928 0 35.61499407700764 139.1539189880111 0 35.61504571352589 139.15395898781725 0 35.61505452728318 139.15396294743803 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8248e23b-3b78-40d2-9387-a42422234159">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61529714022327 139.15342227029674 0 35.615173431649964 139.15336749648515 0 35.61516645931651 139.1533932414001 0 35.615116310619676 139.15356310540326 0 35.615109346370836 139.15358409925733 0 35.61516309014379 139.15361083707123 0 35.615174728194866 139.15359671981474 0 35.615189097598694 139.15358743634778 0 35.61520522807925 139.15358674794473 0 35.61522320914584 139.15359454346904 0 35.615305812623724 139.15358425428235 0 35.615304354845705 139.1535667023418 0 35.61530192513677 139.1535194784034 0 35.61529714022327 139.15342227029674 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e611d735-abae-4c08-802f-6b51b323a4a2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61537950611067 139.15034029750362 0 35.61537173190343 139.15038695045294 0 35.61542051128606 139.1504056322927 0 35.6154287922508 139.15035588887704 0 35.61537950611067 139.15034029750362 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ff8e43c3-9834-4f1f-9ef3-a7441e7f8309">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61494736218131 139.152042897436 0 35.614948196994625 139.15201617715732 0 35.61493018040761 139.1520153329819 0 35.61492934000211 139.1520420529924 0 35.61494736218131 139.152042897436 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3398895b-a5e8-46a4-b62b-0e6c8e3cda92">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61538280259402 139.15032051530034 0 35.61537950611067 139.15034029750362 0 35.61542879225312 139.15035588886778 0 35.61543293768126 139.15033926396208 0 35.61538280259402 139.15032051530034 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ce1b5173-5132-4bae-94c3-54595ee4619b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614692871797445 139.1562400665391 0 35.61480078782063 139.15618451704546 0 35.61479568945464 139.15616966289429 0 35.61469061682858 139.15622374878308 0 35.61469031779752 139.15622390270838 0 35.614692871797445 139.1562400665391 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8e0f7afd-3ee3-4da3-907b-48f30433acc8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61472253851085 139.15417770441087 0 35.61470245736371 139.15429160609546 0 35.6147180136037 139.15431697320915 0 35.614735552178026 139.1543582188125 0 35.61473796097438 139.1543857943474 0 35.61478508138605 139.1544252737965 0 35.614824318348035 139.15435504017245 0 35.614836705471575 139.154329878382 0 35.61488682093105 139.15424138276595 0 35.61483043850872 139.1541934970998 0 35.61476488280532 139.1541887528588 0 35.61473157376428 139.15418009336835 0 35.61472253851085 139.15417770441087 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2e3525a2-5d25-483f-b13d-e4fa0e960b99">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61496660440978 139.15184161102945 0 35.61493529684078 139.15183624702982 0 35.614934099493404 139.15188629535555 0 35.614958208971395 139.15188716039424 0 35.61497128268406 139.1518719269096 0 35.61498842395437 139.15187465149157 0 35.614990490015956 139.1518481208639 0 35.61496660440978 139.15184161102945 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b0c0d76f-8b06-4dde-91a9-6241b6ee0793">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6142866322442 139.15598420069003 0 35.6142952685002 139.1559735198552 0 35.61428560495824 139.15596180161018 0 35.61422701846424 139.15596788220597 0 35.614228564879696 139.1559902273929 0 35.6142866322442 139.15598420069003 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a542812a-0708-41f5-89d5-1d673edbb9e0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614558123459375 139.15594007830884 0 35.61457035650068 139.15594781051996 0 35.61458381843784 139.15594664659048 0 35.61458237784791 139.15592165868648 0 35.61458602857228 139.15591368030118 0 35.61458551638164 139.1559055731956 0 35.61457210916804 139.155906843518 0 35.614567928823476 139.15591681326816 0 35.614560761897785 139.15593381812715 0 35.614558123459375 139.15594007830884 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_09b1f83f-a2da-43a4-b5f8-48544167bef1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6146702396821 139.15580216115404 0 35.61466432593923 139.15578466572265 0 35.61458022484104 139.1558272990638 0 35.61457607342265 139.15583087075734 0 35.61458420043748 139.15584503725967 0 35.6145854629042 139.15584513699685 0 35.6146702396821 139.15580216115404 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cef8c053-a30b-44bf-a96b-811af41c05ac">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61454105412441 139.15535342269692 0 35.61454443572748 139.15532966174754 0 35.61448454600727 139.15530665554255 0 35.614483942414445 139.15531151749872 0 35.614482794164324 139.15534773288763 0 35.61454105412441 139.15535342269692 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bf28cef1-ccae-4f79-96c6-032542f71933">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61513498741146 139.15006068074226 0 35.61514510095341 139.1501115921798 0 35.61516073379667 139.15015031444227 0 35.61519320813098 139.1501706801223 0 35.61519487745593 139.15014715409936 0 35.615196472292034 139.1501263883132 0 35.61519412636432 139.15011007140694 0 35.61518890122598 139.1500946620615 0 35.61515191401913 139.15004144033074 0 35.61513498741146 139.15006068074226 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_25b8d8af-e6a1-4b5e-bd48-070c789ac227">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615470720010514 139.15018355330696 0 35.61541827349559 139.1501667096522 0 35.615409652836526 139.15020696645036 0 35.615461753749756 139.15022369913808 0 35.615467859552965 139.15021956299202 0 35.61547706488156 139.15022158202447 0 35.615481972073795 139.15019681415612 0 35.615470720010514 139.15018355330696 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6ecbf1bd-8d81-4cbf-bb95-10e4f5d54d55">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61431100208327 139.15622482721102 0 35.614245497076546 139.1562348959324 0 35.61421113521625 139.1562485081093 0 35.61421841723675 139.15627607620277 0 35.61425503682878 139.15628040367903 0 35.614315786301006 139.1562715058307 0 35.61431100208327 139.15622482721102 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_042ebe47-89eb-4721-a282-a8f20015fca0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615074659163376 139.15051696938124 0 35.61507126985494 139.1505197707508 0 35.615058061729066 139.15053068767767 0 35.6150452540853 139.15057693702863 0 35.61504931113675 139.1506089139009 0 35.61509289056474 139.15058481098868 0 35.615099424582915 139.15056080212352 0 35.615074659163376 139.15051696938124 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a698c76b-62ed-41a0-af56-3b6d1f9f9f7b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614101033701886 139.15536332572054 0 35.61426274945149 139.15545588858956 0 35.61427335590853 139.15543460557228 0 35.61410960188414 139.1553408760773 0 35.614101033701886 139.15536332572054 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_60b81615-fcb9-40f2-8b24-3509fb7cbcb0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61482055418355 139.15157753402653 0 35.61484615874336 139.1515866140252 0 35.61485629775409 139.15159020956622 0 35.6148613201235 139.15159443013266 0 35.614876895655755 139.1515666334218 0 35.61487471500496 139.15156356118257 0 35.614871708802724 139.15155795712343 0 35.61486969779733 139.15155300692152 0 35.61486840971973 139.151548381736 0 35.614867667429365 139.15154463498865 0 35.614866458865 139.15153813260522 0 35.6148657973371 139.15153272941643 0 35.61484283890608 139.1515214443516 0 35.61483021589708 139.1515366740428 0 35.61482055418355 139.15157753402653 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ea688f0e-e38d-4def-9d5c-84dfde895858">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615449693844845 139.15002495978572 0 35.615504536939966 139.15004329807874 0 35.61550752880453 139.15003046801857 0 35.61545294050008 139.15001039786847 0 35.615449693844845 139.15002495978572 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_002b2af4-3e2d-44ab-9879-b95cb92b6e8d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615747226058325 139.15013031454652 0 35.61574375027932 139.15014282668753 0 35.615752816725546 139.15014660397247 0 35.61576316484183 139.15014232075532 0 35.615759560366186 139.150129260385 0 35.615758556928505 139.1501256245542 0 35.615747226058325 139.15013031454652 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_81c56a8b-0588-4e52-aa2e-332646705d97">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61000295277432 139.16235518549706 0 35.61001714525742 139.16231400668738 0 35.60998816071913 139.1622854639248 0 35.609983584562535 139.16229243228383 0 35.60996658797369 139.1623162156813 0 35.61000295277432 139.16235518549706 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0e9df7ac-b19a-4af3-a310-f509aa939d89">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614101033701886 139.15536332572054 0 35.6140978670112 139.15537162281777 0 35.614118713938865 139.15542420984292 0 35.61410613762314 139.15544782747813 0 35.61408827953976 139.15547789186573 0 35.614085547185326 139.15548223273183 0 35.614178482952425 139.15556996273892 0 35.614204007338586 139.15562085466934 0 35.61426614785902 139.1556160303411 0 35.614265774469665 139.1556090745728 0 35.614261324985755 139.15552312380916 0 35.61426274945149 139.15545588858956 0 35.614101033701886 139.15536332572054 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9a17ff13-a5f5-4bbc-8378-2ccb3e1898ba">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614882057338804 139.1512703428199 0 35.61491096985163 139.1512804502553 0 35.614918551542715 139.1512822624131 0 35.614932604391115 139.1512531449852 0 35.61492095291432 139.15124471153428 0 35.614890512529705 139.1512340699888 0 35.614882057338804 139.1512703428199 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0af3fcde-7828-4dfd-abed-ccb7443231f3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60952351436881 139.1622088561963 0 35.60951959635776 139.16224983858572 0 35.60953708136216 139.16224958218254 0 35.60960411340979 139.1622605015242 0 35.60960067312566 139.1622138652401 0 35.60952351436881 139.1622088561963 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3e8a4795-4496-40f4-9459-96fb53788b0e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60933137696344 139.16148694495843 0 35.60933215934056 139.16157877141177 0 35.609332015608956 139.16160920585799 0 35.60936973704174 139.16160947299383 0 35.6094095653162 139.1615906428228 0 35.609404240365436 139.16157375377364 0 35.60942565056545 139.1615661795723 0 35.60942179390717 139.16151890014208 0 35.60941826860837 139.16151933135208 0 35.60938554973126 139.16150326921348 0 35.60937772604951 139.16147040127282 0 35.60933137696344 139.16148694495843 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2329af0f-5f46-4bd4-a8bd-3221240da7a3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61041888679476 139.160911514728 0 35.610421933849416 139.16091325801196 0 35.61043997479085 139.16092357961585 0 35.6104776826348 139.16092889598107 0 35.61048746631544 139.16082483559023 0 35.610455903909305 139.16080919198887 0 35.6104428025304 139.16084883023794 0 35.61041888679476 139.160911514728 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9f37428a-ebb4-42eb-b6d6-ab221d9c8be4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61151128458231 139.15619888512438 0 35.611511977724554 139.15619391222094 0 35.61156501724506 139.15605659499082 0 35.61154838458092 139.15604812561415 0 35.611531751916175 139.1560396562409 0 35.61151511863039 139.15603107649721 0 35.611498485344605 139.15602249675737 0 35.611436256126844 139.1561605536199 0 35.611430638033454 139.1562194329961 0 35.611487036031704 139.15624666287732 0 35.611499555207025 139.1562508966454 0 35.61151128458231 139.15619888512438 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f59b3c8f-7c10-480e-b004-d13abb96c35b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6150178152696 139.1509203538511 0 35.61497249740922 139.15090300543628 0 35.61496869170473 139.1509179147777 0 35.615003635716555 139.15093129191922 0 35.61502261652507 139.15094051332815 0 35.61502878200289 139.1509299904142 0 35.6150178152696 139.1509203538511 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9c9863ef-edee-4616-a7e2-86cbcce4dc54">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60947728881819 139.1621628841859 0 35.609452057375414 139.1621640883214 0 35.60945320436551 139.16219200396185 0 35.60943772401885 139.1622123321286 0 35.60947987885553 139.1622556891078 0 35.60949466135581 139.16227190136323 0 35.60950917177434 139.16225544446922 0 35.60951959635776 139.16224983858572 0 35.60952351436881 139.1622088561963 0 35.609496339128306 139.16220091530954 0 35.60947728881819 139.1621628841859 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4eddf84b-b92c-41a9-afde-67ec0b25ceda">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61047207177848 139.16105432941586 0 35.61043151242497 139.1610508258887 0 35.61043118776304 139.16105646202064 0 35.61042820574691 139.16110822961355 0 35.610429525312526 139.16112620225235 0 35.61046199701953 139.16112262715467 0 35.61047240676802 139.161114372114 0 35.61048493511804 139.16111426730222 0 35.61048467648997 139.16106791080003 0 35.61047207177848 139.16105432941586 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ca8e46cd-c0df-4930-9062-87d3fc8caf24">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61489103486984 139.15114315374385 0 35.6149097004326 139.15115175354143 0 35.61494314445756 139.15116587149535 0 35.61494480981223 139.15115995496993 0 35.6149585241571 139.1511068872285 0 35.614923882282184 139.15109346085472 0 35.61490373901713 139.15110180031192 0 35.61489103486984 139.15114315374385 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c799a2ed-a749-4c56-8014-5d92c8fd53b3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61050539712874 139.16068541973385 0 35.61050612589916 139.16067975336227 0 35.610521328633574 139.1606743279588 0 35.610532557208465 139.16067424863445 0 35.610532351741725 139.1606306364332 0 35.61051364897949 139.16060650989402 0 35.61051346748303 139.16060629065777 0 35.610482775108395 139.16059808147716 0 35.610473947878845 139.16064757167578 0 35.61047836647124 139.1606802065025 0 35.61050539712874 139.16068541973385 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a3886183-6a28-4f1c-afe6-f8a390cee940">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61164565723632 139.1563656879009 0 35.6116747785461 139.15637301048525 0 35.6116872258567 139.15634244090006 0 35.611706021292356 139.15628569069747 0 35.6116696796867 139.15626764114788 0 35.611664256478264 139.1562652870411 0 35.61165347104231 139.15630254722754 0 35.611653560968406 139.15631855147424 0 35.61164565723632 139.1563656879009 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ad3e67a7-469e-4167-85f1-8be25caea18f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60941248186818 139.16203362295116 0 35.60943590640056 139.16202305161485 0 35.60942272430999 139.16197925123407 0 35.60941416390276 139.16195080744362 0 35.609390447391256 139.1619615105685 0 35.609390508272796 139.16197243731145 0 35.609389489739726 139.1619743251446 0 35.60938015934102 139.16199161887008 0 35.60937922444591 139.16199178775136 0 35.60938322988965 139.16202503722616 0 35.60939983509476 139.1620286512953 0 35.60941248186818 139.16203362295116 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8688ee20-6e22-4bd6-be17-18974de0d809">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60925359679864 139.16109902210013 0 35.609291299856736 139.16108893256015 0 35.609281686583785 139.16104607667222 0 35.60924707565465 139.16106248114954 0 35.60925359679864 139.16109902210013 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_139803a8-fdd5-4d4f-a05b-e2a62939c3ca">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610710575516016 139.15897891750984 0 35.610676859788455 139.1589249690638 0 35.6106536109589 139.15892899127965 0 35.6106589329682 139.15897512076225 0 35.61066435926361 139.15900374637442 0 35.61069266894514 139.15899569907853 0 35.610710575516016 139.15897891750984 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c1fdf547-d623-4a21-a8f6-d255aa713f3d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61213620387571 139.15657812144082 0 35.612136497213385 139.15657288179958 0 35.612137918245736 139.15656911690976 0 35.61214078634819 139.15656622287108 0 35.612140520996974 139.15651898245872 0 35.612132769654615 139.15651904775356 0 35.6121225748286 139.15651736755154 0 35.612109254771205 139.1565758258643 0 35.61210938300619 139.15657586968197 0 35.61213620387571 139.15657812144082 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_de9be50e-4555-46d5-b8dd-3cdb47c368b8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61130474074257 139.15609521393972 0 35.61134355474259 139.15612460470854 0 35.61134731818835 139.15611715160978 0 35.61138798048806 139.1559942422637 0 35.61134081720145 139.15597084396174 0 35.611339046828334 139.1559765985898 0 35.61129935283808 139.15609244550367 0 35.61130474074257 139.15609521393972 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e514e4b1-4e51-40cc-be21-b1080965efa4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60940888537037 139.16227358817122 0 35.60941091246312 139.16225350566864 0 35.60942341069877 139.16224799285015 0 35.609420054933636 139.16221502941022 0 35.6093818870184 139.16222085594504 0 35.609377489785075 139.16222083284265 0 35.609377412613114 139.16224285819095 0 35.60938998645779 139.1622509210242 0 35.609392442380646 139.16227109937353 0 35.60940888537037 139.16227358817122 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d002a05c-99d0-4a21-a8e6-bdc49cbbc295">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611545962789926 139.15688459960484 0 35.61154020940465 139.15692616712914 0 35.611550354232584 139.15692827280083 0 35.61157143337083 139.15695811850085 0 35.61159446348152 139.1569662030776 0 35.61162693014561 139.15693723115322 0 35.611631739597115 139.15689480500637 0 35.611610630079284 139.15685955097103 0 35.61158334888913 139.1568488531129 0 35.611545962789926 139.15688459960484 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_04b2cc79-5e4d-4c55-8f64-d897c2ae2553">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60921394690058 139.1607401226878 0 35.609175941367965 139.16075258865214 0 35.60917963659514 139.1607686726161 0 35.60921747696136 139.1607562608344 0 35.60921394690058 139.1607401226878 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b1aec25f-39be-4aee-bbd0-c88a64a1ce47">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61082879011494 139.1574779582318 0 35.61082244737442 139.15752180686746 0 35.61081815935035 139.15755145077014 0 35.61081203396144 139.1575842846124 0 35.61083725753149 139.15759775938278 0 35.61086836495012 139.15756747488305 0 35.61088161069241 139.15751931956112 0 35.610861748668164 139.15751278290645 0 35.61084986126758 139.15748252887116 0 35.61082879011494 139.1574779582318 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fa819971-44ee-457c-a728-9fe4720b9e8b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611055132601706 139.1567336280334 0 35.61103469213945 139.15678503774134 0 35.611010694877955 139.1568455064416 0 35.611033785724956 139.1568644075138 0 35.611067117468814 139.1568450314044 0 35.61109005525592 139.15683667027 0 35.61109987425977 139.15678746912732 0 35.611098415415945 139.15678450118895 0 35.61108109078825 139.15674910516552 0 35.611055132601706 139.1567336280334 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cf6dbad6-74b2-408f-9ca5-4137cb05d727">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61066751065595 139.15570024390743 0 35.61064387970389 139.1556494485818 0 35.6106280045706 139.15566349009273 0 35.61057609588641 139.1556011228796 0 35.61053811586586 139.1555673351596 0 35.61050501210644 139.15562313572931 0 35.61052059662024 139.1556535789307 0 35.61052619820916 139.15568796955858 0 35.61052049419374 139.1557155017321 0 35.61050545630846 139.1557341720137 0 35.61048375858864 139.15575466449243 0 35.61046578185753 139.15576364630112 0 35.61046793690407 139.15586105695422 0 35.61047209768624 139.15586094619132 0 35.610489941324936 139.15586035423428 0 35.61050751580899 139.15585998530182 0 35.61052482051781 139.1558597290215 0 35.610545192814826 139.1558599987661 0 35.610558896590625 139.15586054549127 0 35.610575938350415 139.1558616159621 0 35.61059307272437 139.155863127164 0 35.61061029847134 139.1558648583519 0 35.61062942071202 139.15586723581814 0 35.61064502594595 139.15586931180448 0 35.61065051026068 139.15587013476846 0 35.61066751065595 139.15570024390743 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e4a04985-a867-47ab-b4e3-a72e68c0c4d6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61082879011494 139.1574779582318 0 35.61084986126758 139.15748252887116 0 35.61086714830966 139.15738271188314 0 35.61088407812565 139.15728580127225 0 35.61088470194867 139.15728223033983 0 35.610859388770336 139.15727627710285 0 35.610855670796695 139.15729998366385 0 35.61085438164021 139.15730820358195 0 35.610842281799194 139.15738468712522 0 35.61082879011494 139.1574779582318 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ed2e3009-15a8-4b04-8d00-8f96ff5648e2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6085996937599 139.16179687354185 0 35.608596816167704 139.16178690523685 0 35.608604859482256 139.16175836121732 0 35.60859755618675 139.16172649898888 0 35.60858892458429 139.16172946572004 0 35.60856326955048 139.16173553002014 0 35.60854552583748 139.161737885818 0 35.60854048213291 139.16173859022197 0 35.608528404436534 139.16173869116247 0 35.60852858898067 139.1617718021484 0 35.60857344641818 139.16179868992938 0 35.608582671258965 139.16180424197233 0 35.6085996937599 139.16179687354185 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5a8f143c-a9d3-4a28-8f8d-287f9e815584">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60910317969471 139.16028056818013 0 35.60906844779091 139.16030757004077 0 35.6090794128195 139.16033418915544 0 35.609083389510126 139.16034886115136 0 35.60912033276036 139.16033384644064 0 35.60912263242439 139.16032599049151 0 35.60913224141307 139.16031961858565 0 35.60912846968103 139.1602898486808 0 35.60911649075237 139.1602914942765 0 35.60910317969471 139.16028056818013 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1bb54df2-be32-4817-92d8-4a4d7519dcec">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610909147743456 139.15715900751366 0 35.61086812309205 139.15713876769613 0 35.610836266648164 139.1572040039487 0 35.610813675548584 139.15725026637102 0 35.61080155446825 139.1572747619382 0 35.610785020292774 139.15731596173006 0 35.610775897847006 139.15733981034103 0 35.61077222829999 139.15734940355264 0 35.61075671403208 139.15739567212796 0 35.610720952074686 139.1575260738428 0 35.61069399995957 139.15762435110182 0 35.61072824043364 139.15763841230816 0 35.61075945308891 139.15752445521886 0 35.61079051130244 139.15741106151367 0 35.610805227391694 139.15736711757853 0 35.61081748602827 139.15733500477057 0 35.61082555213323 139.15731502042897 0 35.61083322140783 139.15729601925116 0 35.61084453997487 139.15727307572504 0 35.610867173998905 139.1572266367883 0 35.610859388770336 139.15727627710285 0 35.61088470194867 139.15728223033983 0 35.610889521705595 139.15728308355745 0 35.61090035676416 139.1572850016344 0 35.61090487359373 139.15724673955575 0 35.61089756208921 139.1572288094112 0 35.61090286598767 139.15717810113205 0 35.610909147743456 139.15715900751366 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_34f16a29-a645-46b6-80bb-93ba391356a4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61130110134429 139.15777510059158 0 35.61131794495243 139.1577309579528 0 35.61130420941237 139.15772309843604 0 35.61129772433414 139.15771938765607 0 35.61125205432977 139.15769408307182 0 35.61123696943702 139.15773491002648 0 35.61124914202332 139.15776781093732 0 35.61128311579754 139.15778253681376 0 35.61130110134429 139.15777510059158 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8c3ce1c9-4a86-49fb-9646-3785e31b5b96">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61154064249025 139.15744636413376 0 35.611563054122044 139.1574245412794 0 35.611570923896984 139.15738131679362 0 35.611547097558216 139.15734376754975 0 35.61151921335128 139.15733804167067 0 35.611505105164696 139.15735086820834 0 35.611479754688226 139.15737391572256 0 35.61150174122819 139.15740485767287 0 35.61150750065135 139.15741926889115 0 35.61154064249025 139.15744636413376 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c3de365f-bf19-43d4-b43b-dad5d7b8f9a0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609795793428916 139.1552818720275 0 35.60974907381352 139.15526418533813 0 35.60974433182672 139.1552829685381 0 35.60974221089459 139.15529049205168 0 35.609733389069596 139.15530855789444 0 35.609722867156286 139.155328845612 0 35.60971493173988 139.1553442549269 0 35.609731104435085 139.15539695370495 0 35.60981434282402 139.1553586481394 0 35.609826059342154 139.15535168738666 0 35.609806453764705 139.15530220178002 0 35.609795793428916 139.1552818720275 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7e82d96e-09c4-4c0b-8b7f-4c123d919d71">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61068741027296 139.15765476047545 0 35.61071989139973 139.15766834595192 0 35.61072824043364 139.15763841230816 0 35.61069399995957 139.15762435110182 0 35.6106850407006 139.1576254367531 0 35.61068741027296 139.15765476047545 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fe4af66a-f346-4f99-aa64-3e4f00245fac">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610059330368365 139.15583892921958 0 35.61007133496112 139.15580979880738 0 35.61007510133862 139.15574576089904 0 35.610023226512354 139.15574118579272 0 35.61001931456317 139.15580769876473 0 35.61002176463331 139.15584285500344 0 35.610059330368365 139.15583892921958 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fc2b609c-eb76-4276-98eb-678af95ea42d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60864098932474 139.16211159118996 0 35.60864104253062 139.16209507096383 0 35.60862990037294 139.16209501715528 0 35.6086205411443 139.16208151918235 0 35.608602623521925 139.16207953999265 0 35.608602092353294 139.16208675055063 0 35.608594690337696 139.1621171655581 0 35.60861031916778 139.16214133264245 0 35.60864098932474 139.16211159118996 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7661ca5d-6538-4db3-b82c-02104a1aa038">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60888770469129 139.1600297232799 0 35.6088300945487 139.15997899176344 0 35.608804423403974 139.1600144166485 0 35.608823094829944 139.16003291365496 0 35.60888770469129 139.1600297232799 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_80a830b0-33f8-4b55-ac4f-b672cda8d642">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6111126783822 139.1582420172665 0 35.61110697194264 139.1582618467649 0 35.61108424214427 139.15827517278356 0 35.611079575964226 139.15831897223813 0 35.611154998511246 139.15833102165783 0 35.6111596635744 139.1582872326786 0 35.61114660279581 139.15825665713788 0 35.6111126783822 139.1582420172665 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_684855f2-8dbb-4abd-b5fe-f84e9cac88e2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61209394006023 139.15753375850898 0 35.61210558913914 139.15753797348395 0 35.61211819362155 139.1575514442071 0 35.612124564142206 139.15756231824605 0 35.61212460995092 139.15757048598093 0 35.612167248910936 139.1575833525731 0 35.612173919422304 139.15755020244242 0 35.61219056274977 139.15746749064806 0 35.612144324773524 139.15745353809618 0 35.612138285576584 139.15746959400127 0 35.61211970142108 139.1574802784757 0 35.61210477285476 139.15748886126065 0 35.61209394006023 139.15753375850898 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_49225ef9-a847-440b-9922-968d8f3b4ac3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60833115487973 139.1617330549474 0 35.60833268220304 139.16173215918434 0 35.60834103618746 139.1617270121225 0 35.60834544097043 139.16172487818676 0 35.60834868264891 139.1617242992195 0 35.608351566875 139.16172427511395 0 35.60835499189347 139.1617242464886 0 35.60835968245191 139.1617248695354 0 35.60836275186348 139.16172572688106 0 35.60836988213952 139.1617274332864 0 35.60837347697871 139.161693187029 0 35.608366967783624 139.16168970943767 0 35.60836325883447 139.16168731219057 0 35.60835954742445 139.16168447346485 0 35.60835718984098 139.1616819545483 0 35.608354919313406 139.16167888303002 0 35.60835318588688 139.16167514477354 0 35.608351811758055 139.16167118276437 0 35.60835043762908 139.1616672207553 0 35.608343931202015 139.16164806991682 0 35.6083403314992 139.16163767278928 0 35.60832121423046 139.16164759755148 0 35.608323278346866 139.16166214977315 0 35.60832309346642 139.16167749341713 0 35.60832192020733 139.16169339719607 0 35.60831892031253 139.16170501162398 0 35.60831501725045 139.1617163024749 0 35.60833115487973 139.1617330549474 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1d0f75ce-4152-4074-a6a5-30485c676939">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60859638929469 139.1602825157889 0 35.608597184726 139.1601891110212 0 35.6085770756969 139.16017994034033 0 35.608557030502546 139.16024584907572 0 35.608547190580055 139.16026585592107 0 35.60856931164434 139.16028217000232 0 35.60859638929469 139.1602825157889 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0cf3c230-5ddb-4d8b-be0a-dc1bba1390a7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60856380303176 139.1600241498348 0 35.60856477632129 139.1600289696303 0 35.60856779374098 139.16004391210316 0 35.60859263586779 139.16003638989204 0 35.608592448676184 139.16001757985893 0 35.60858514019647 139.16001768891985 0 35.60856380303176 139.1600241498348 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_615c95a7-9e1e-408a-9337-9be06cbbdb4e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61030348991665 139.15962933117603 0 35.61026688398329 139.1596274305451 0 35.61024780682177 139.15964922447358 0 35.610248141646345 139.15969342743668 0 35.61031368408601 139.15969268297738 0 35.61031328218118 139.15963962456163 0 35.61030348991665 139.15962933117603 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2ea5dfaa-2142-4551-ba38-1a59fd45f12d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610251671262134 139.15790831910988 0 35.610255725764496 139.15789194916772 0 35.61025981058208 139.15788098746384 0 35.610186290748224 139.1578383375628 0 35.61017452904183 139.15783048927184 0 35.610136372479516 139.15779317139385 0 35.610136127046566 139.15781370363 0 35.61012997126331 139.1578411289429 0 35.61011972797995 139.15786295937247 0 35.61016165830826 139.1578981483855 0 35.61018259985966 139.1579034912197 0 35.610251671262134 139.15790831910988 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6f98a38e-0a86-4ce8-b599-4fde7a43ba30">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61144355760243 139.15785542793736 0 35.61147665630652 139.15787337721787 0 35.61149418194442 139.1578249138821 0 35.61145931613971 139.15781185113661 0 35.61144355760243 139.15785542793736 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_97886d0f-241f-46d1-80fe-edc01de7963f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610068974276544 139.15664772919368 0 35.61003553298227 139.1566406885348 0 35.61002529079254 139.15664662477639 0 35.609999796952714 139.15664703849274 0 35.6100001459467 139.15667928739282 0 35.610012704657926 139.15668459011317 0 35.61002114828996 139.15669544634326 0 35.61002549171586 139.1567145050085 0 35.61005721163988 139.1567222182914 0 35.61006693149642 139.15666227879123 0 35.610068974276544 139.15664772919368 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ce2c762e-c351-4710-a2a2-417d0b7c41ed">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61185879723124 139.1514504494214 0 35.61190618384903 139.15134271468435 0 35.61186709260548 139.15130157960274 0 35.611798465364586 139.1513993805286 0 35.61182717547051 139.15142959173758 0 35.61185879723124 139.1514504494214 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c12224db-b372-4422-9ebc-3e5140da77ed">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60855860110672 139.15967073857027 0 35.6085538651864 139.15966331573216 0 35.608539276834954 139.15963352638246 0 35.608531978645345 139.15961791430726 0 35.6084849310274 139.15962985279853 0 35.60848658308797 139.15963961520828 0 35.608488818290105 139.1596528235451 0 35.608500687974924 139.15971160209435 0 35.608519221037255 139.15970599019386 0 35.60852046472641 139.15970343209403 0 35.608521537937825 139.15970122464358 0 35.608525151857236 139.1597027395993 0 35.60855860110672 139.15967073857027 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1ed6816f-451b-4cee-bb60-da9570e483b9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61000147946338 139.15723620582753 0 35.610006869655486 139.15731511318367 0 35.610029112433644 139.15731139398477 0 35.61003798719654 139.15730270990346 0 35.61005284658499 139.15730037734428 0 35.61005769800217 139.15724934227936 0 35.610030476626456 139.157233235504 0 35.61000147946338 139.15723620582753 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4834941e-5007-424d-9988-e2a31fd12ef5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60870341506779 139.15580753561872 0 35.608721450145076 139.15580892881087 0 35.60873866201245 139.15584416956568 0 35.60876543438988 139.1558245623888 0 35.60876755984661 139.15580180714062 0 35.60877616472737 139.155793235683 0 35.60877022776473 139.1557398971686 0 35.608744312266694 139.1557442225998 0 35.60869724232415 139.15575207881005 0 35.60870341506779 139.15580753561872 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d37c1b53-dda1-4ac0-b9ca-a15b58f0db6f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609418191463426 139.15678540301923 0 35.60945976700858 139.15675734851246 0 35.60948364348113 139.15670747810947 0 35.60948229539154 139.15667664343482 0 35.6094195868345 139.15668075455685 0 35.609414191897606 139.1566745509395 0 35.609387389369054 139.15670950275495 0 35.609385330943596 139.15672817367087 0 35.60934209956337 139.15675028179447 0 35.609361959381374 139.1568037574101 0 35.60937193800155 139.15679903759633 0 35.609408345390044 139.156781622749 0 35.609418191463426 139.15678540301923 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7e001b0f-8ba6-4649-92d3-1ff46dfeb2b9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6085259095914 139.1531684965939 0 35.608493807156606 139.1530505614653 0 35.60841531013757 139.1530826013651 0 35.60838780637373 139.15309769643676 0 35.60842608090067 139.15320226694254 0 35.60844491535403 139.15320155565695 0 35.6085259095914 139.1531684965939 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9dbe083c-db94-4f25-926a-07bebbdf9fb1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6117257921042 139.15240532314655 0 35.611744073898066 139.15240251910615 0 35.611748140530004 139.1523672863433 0 35.61173773534315 139.15236548533457 0 35.61171132671389 139.15236570915425 0 35.611711416539215 139.15238160302613 0 35.6117257921042 139.15240532314655 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_469acb99-65f6-443e-a7b7-d90d8d975cad">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61152941949392 139.15180553138765 0 35.61148903217915 139.15180311810454 0 35.611487052456795 139.15185280186216 0 35.611499550474335 139.15191108640454 0 35.61150579903537 139.15194812079284 0 35.61155132902381 139.1519573066752 0 35.61156226711262 139.15187600582826 0 35.61156814137867 139.15183092129485 0 35.61158822563563 139.1517962022461 0 35.61159556034955 139.15178388037205 0 35.61155477991635 139.15174747758755 0 35.61152941949392 139.15180553138765 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cce875a5-3657-4910-b964-10b31eaed7ff">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60843291836574 139.15941744806435 0 35.60844901485719 139.1594176170571 0 35.60849081834776 139.15940733741593 0 35.60848797968124 139.15939002764995 0 35.60848350760743 139.15936089094407 0 35.60844154070519 139.15937054963229 0 35.608433147312894 139.15938474802036 0 35.60843291836574 139.15941744806435 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bc52457b-a261-4681-92df-f2db5365ffde">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609744409881586 139.15813266804892 0 35.60976153968709 139.15812259635848 0 35.60978643016939 139.15810881085838 0 35.609872915940116 139.15827773342002 0 35.60987981763075 139.1582724197311 0 35.609901904896695 139.15825541449027 0 35.60987262552803 139.15819823226852 0 35.609811864980315 139.15807956801928 0 35.60982184761565 139.15807127087282 0 35.60980616157165 139.15804297084333 0 35.60978090482442 139.1580396510434 0 35.60976744066058 139.1580202524835 0 35.60971978147158 139.15806985605747 0 35.609744409881586 139.15813266804892 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_037e08f8-0aa2-473f-a295-3dad1f75934d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609311718255704 139.1565567171147 0 35.609330958719084 139.15654645260892 0 35.6093219745618 139.15652119999083 0 35.609296917878524 139.15652141103752 0 35.60928013783685 139.15651879296973 0 35.60925004512617 139.15656351194343 0 35.609260800273766 139.15657436462843 0 35.60926796223151 139.1565816995065 0 35.609282663894156 139.15659743143826 0 35.609311718255704 139.1565567171147 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_edd7f51b-5e07-40c4-bf3f-bb60b210387d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60917355551787 139.15641516467264 0 35.609175195478706 139.15640223687168 0 35.60916361292498 139.15637816211785 0 35.609134649564275 139.15637288732543 0 35.6091073652065 139.15640178217777 0 35.60912621865397 139.15642847741717 0 35.60914573535654 139.15645112085718 0 35.60917355551787 139.15641516467264 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_420003db-00df-426c-9481-3cf0afec01b5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61138392062303 139.15259939673638 0 35.61141787576159 139.15262103209642 0 35.61144426348445 139.15255892828776 0 35.6114503176158 139.15254563150785 0 35.611458489349715 139.15255615865829 0 35.61148796616953 139.15254852209705 0 35.61148055766827 139.152505638817 0 35.611472190715716 139.1524605646743 0 35.61144601392776 139.1524539522784 0 35.61142439521492 139.1524484912796 0 35.61141048528051 139.15253106784084 0 35.61137302633144 139.15254166875346 0 35.61138392062303 139.15259939673638 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ea2905b6-5ad0-415d-be3f-bf51206967b6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60845091836032 139.15886763904237 0 35.608442342887976 139.15886955098074 0 35.60843023925135 139.15886501682252 0 35.60842296691089 139.15885404036908 0 35.60836646970033 139.1588672143738 0 35.6083756004214 139.15892593039558 0 35.60843536955015 139.15891199348854 0 35.60844007674049 139.15889948161282 0 35.60845445338364 139.15889141395303 0 35.60845091836032 139.15886763904237 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5315ccff-a7e3-4cfa-aa98-17837a2f0dd3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60961740936091 139.15740499555073 0 35.60961517801824 139.15737050622872 0 35.609602618716266 139.15736509305455 0 35.60956061130877 139.15737541865627 0 35.60956524853643 139.15740370806594 0 35.60956812546784 139.15741785710208 0 35.60960699449762 139.15740600594103 0 35.60961740936091 139.15740499555073 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e9e4d29e-e308-491c-b8b0-3a96851beea4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61069387338605 139.15047108440137 0 35.610690897042154 139.15042853663886 0 35.610598653012545 139.15042773143833 0 35.61059898476017 139.15042773965658 0 35.61060022725891 139.1504460906929 0 35.610600260116804 139.150446575987 0 35.6106027267639 139.15048300716074 0 35.61069387338605 139.15047108440137 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_21fe0115-7da4-41cb-8272-6fea11b4b824">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60969757784143 139.15816020352693 0 35.60973679332591 139.15813714629962 0 35.60971479655282 139.15808104599512 0 35.60970434371758 139.15808157534207 0 35.6097032795218 139.1580802864664 0 35.60968615764106 139.15810148558973 0 35.609690485382416 139.15811778496888 0 35.60968632587205 139.15813150662683 0 35.60969757784143 139.15816020352693 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ddbe5cb6-2a67-4f11-ad14-291c2ab233ce">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60831773905711 139.15852512374613 0 35.60830317052198 139.15853023709676 0 35.60830824451093 139.15855191417063 0 35.60831790594097 139.1585549235354 0 35.60836498295694 139.15854287380674 0 35.60836143824569 139.15852210778468 0 35.60831773905711 139.15852512374613 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fc7726ef-372e-4884-86a1-35df9aa46c33">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6091887329471 139.1585970357792 0 35.60918007796877 139.15857439457562 0 35.609178845063504 139.15856347770819 0 35.60918599381508 139.15855238008015 0 35.60917205649361 139.15853110680843 0 35.60914035004875 139.1585622556998 0 35.609102656671105 139.15859339924754 0 35.609114141110865 139.1586142420693 0 35.60912861713361 139.15860782909326 0 35.609144227891925 139.15861089891524 0 35.60915390662532 139.15861699869785 0 35.6091887329471 139.1585970357792 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3eaf5777-a6e6-4515-a522-762bfe828227">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60966434980469 139.15755574605907 0 35.609639202986784 139.15755595754382 0 35.60959834002 139.15756645584185 0 35.609608254699886 139.15761815364672 0 35.60965416994553 139.15760494926278 0 35.60966454850196 139.157591175284 0 35.60966434980469 139.15755574605907 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0ad76ef6-f1b0-4219-9314-ee05b7d08546">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609294730525775 139.15194539906747 0 35.60928359108423 139.1519816449325 0 35.609278552799736 139.15199923744564 0 35.60928877007091 139.15210107193565 0 35.6092984095273 139.1520996216878 0 35.609379384687855 139.15207354867147 0 35.609450184972786 139.15205095165217 0 35.60942880465006 139.15195050165835 0 35.60936303526165 139.15194233314946 0 35.60935517289854 139.15196812396013 0 35.609349056413926 139.15197038334756 0 35.609331072738605 139.15196214725327 0 35.609294730525775 139.15194539906747 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_68c35072-6147-41c6-a4cd-be29ef7f6f41">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61050381538959 139.15023717791388 0 35.61050416218354 139.15023704020373 0 35.61055038920191 139.15024865111647 0 35.61055091929477 139.15024878426084 0 35.61057906789064 139.1502851904011 0 35.61067872836553 139.15027886436815 0 35.61067653616865 139.15022707568156 0 35.61067677281957 139.15018932440756 0 35.61067860115065 139.1501620455066 0 35.61068336502426 139.1501278982104 0 35.61069048671004 139.1500962695548 0 35.610691583732255 139.15009234899233 0 35.61060300190767 139.15005518024358 0 35.610575173720996 139.15008160077957 0 35.610568395661524 139.15008803597655 0 35.61051671974442 139.15011493510315 0 35.61051244306197 139.15011716126457 0 35.61046985077486 139.15013933201163 0 35.61050381538959 139.15023717791388 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_56a7fa41-3fa2-4fdb-a44a-424e1b65af5f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61108751950889 139.15318404433575 0 35.61106350244458 139.15322595457448 0 35.61108959522675 139.15324837745905 0 35.61111125313473 139.15327773135067 0 35.611143282046896 139.15324229374013 0 35.61114716872934 139.1532282427569 0 35.611168397903874 139.15320466279078 0 35.61117040680529 139.1532009276004 0 35.61114029753018 139.1531766437236 0 35.611113497423105 139.1531873565508 0 35.61108751950889 139.15318404433575 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b6a2442e-afa1-4dad-a46d-d80ba7be9be3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610581795650795 139.15063537800688 0 35.61059509627322 139.1506481972703 0 35.61069618590456 139.1506504091601 0 35.61069726479175 139.1505764665471 0 35.61060411094222 139.15060065819804 0 35.610581795650795 139.15063537800688 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f1c69262-97f8-432c-a375-96201ff6f7f3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61044375161251 139.15051658352004 0 35.61046798302304 139.15046947202282 0 35.610490060879116 139.15041275724212 0 35.610408080750474 139.15036490163155 0 35.610391843259 139.15036261133938 0 35.61034292147398 139.1504087306996 0 35.610379636320936 139.15046713226013 0 35.61044375161251 139.15051658352004 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_02031c77-b3ea-4d12-8943-82eeae5e78f5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6092350892769 139.15891753325383 0 35.60927405465657 139.15890616861037 0 35.609299132780166 139.15886147654678 0 35.60929077504561 139.15881446381812 0 35.60927599706393 139.1588184033089 0 35.609252577498786 139.15880513401663 0 35.60921297597253 139.1588183773993 0 35.6092350892769 139.15891753325383 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_28f125a0-dbf3-46b6-9de1-9d1de14a8519">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6091956364286 139.15779132838856 0 35.609173325962864 139.15780369599406 0 35.609160339532075 139.15785071493866 0 35.60917534660994 139.1578908803604 0 35.609200955428236 139.15787653262356 0 35.609222682293655 139.15786448854942 0 35.6091956364286 139.15779132838856 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fac2674c-0cd1-4036-9903-b28c1d4de2ad">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610088007406866 139.15189935733113 0 35.610105646859246 139.1518565707743 0 35.610103633994974 139.15185128974073 0 35.610116498320444 139.15184372519505 0 35.61006691160927 139.15171727221718 0 35.610042532079646 139.151725646929 0 35.61001264201918 139.151731860838 0 35.609988136069155 139.15173165603449 0 35.60998795105473 139.15176485225876 0 35.61001076392592 139.1518720326017 0 35.61002134773793 139.1518686545584 0 35.610051499218734 139.1518767875071 0 35.610088007406866 139.15189935733113 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_52dbba2e-fd1d-4752-95f4-e7033321e1a3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61031410538178 139.15032526364294 0 35.610366515112915 139.15029902620026 0 35.6103461448852 139.15020372502363 0 35.61029080397747 139.15022868495626 0 35.61031410538178 139.15032526364294 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f2eafcdf-8170-44e1-a181-547946be0b01">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61121389753183 139.15330031694228 0 35.61119471635878 139.15330024872063 0 35.61117366206167 139.15329093434727 0 35.611146754566505 139.15332055954096 0 35.611147786502286 139.1533217282268 0 35.61115986747601 139.15333818278043 0 35.611172405958506 139.1533558476325 0 35.6111831405554 139.15337330699813 0 35.611213796231965 139.15334302456117 0 35.61121389753183 139.15330031694228 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4379d54a-758e-48de-bc5e-e1cf4f2dd221">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610440544831015 139.15236352517533 0 35.61047400789747 139.15234628305495 0 35.610481403509056 139.15233937888 0 35.610459528767436 139.1523042414945 0 35.61042609407356 139.15232146900837 0 35.610440544831015 139.15236352517533 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ba22f276-3288-4b7d-92a3-c6923cdf41c9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61061286242339 139.15105759278447 0 35.61062261218235 139.15101850206247 0 35.61053634709981 139.15097507403547 0 35.61052348198312 139.1510133956653 0 35.61060668608461 139.151055282755 0 35.61061286242339 139.15105759278447 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0e804030-9dcb-4d9a-88b2-813b0a5706a7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60910274190838 139.15763568021197 0 35.609108613954724 139.1576439742622 0 35.60912887183507 139.15768927129128 0 35.60913462896354 139.15770214435778 0 35.609157169780495 139.15768727483544 0 35.609134734618934 139.15761076672416 0 35.6091201813313 139.15761716603268 0 35.60910274190838 139.15763568021197 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e23f78b5-dad9-496e-a894-76cfcf2f34b0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60939302660193 139.15140202683486 0 35.60937400678028 139.1514255757073 0 35.609369034999176 139.15144101009312 0 35.60940390479447 139.15145785329338 0 35.60940890554478 139.15146026881325 0 35.609421718387885 139.1514308000051 0 35.6094051436817 139.1514167021281 0 35.60939302660193 139.15140202683486 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_47e580cc-b8a5-440f-be11-306346c154f1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61039698293734 139.15213037501002 0 35.61043334332752 139.15209992456 0 35.61041009584512 139.15205829764832 0 35.610391023462995 139.1520647508786 0 35.61037262470764 139.1520628097002 0 35.610355439745796 139.15205235916142 0 35.61034829559229 139.1520458221385 0 35.61032461536093 139.15208462998456 0 35.61034496963726 139.1521135970791 0 35.61036972573668 139.15215588255555 0 35.61039698293734 139.15213037501002 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bfb66f83-03f2-4940-b4df-9a8f0fb76b7b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609596800012554 139.15062555268855 0 35.60961403014873 139.15063792594054 0 35.60961951949009 139.15062646342332 0 35.60963379044624 139.15062265068585 0 35.60961390806114 139.15051105727866 0 35.60960230334735 139.15051022688445 0 35.609596800012554 139.15062555268855 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7eeed973-17f3-4658-841b-f125f7b21f78">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60852636806067 139.15718408077194 0 35.608515490288916 139.15717313479595 0 35.60851300408103 139.15716377383762 0 35.6085153849998 139.15715437192432 0 35.60850282376008 139.15711933434326 0 35.60848396798621 139.157129470788 0 35.60844254953496 139.1571678840631 0 35.60846164244093 139.15719875338584 0 35.60848208505927 139.15719549088016 0 35.608501291841336 139.15719687452224 0 35.608516828604415 139.15720281442168 0 35.60852636806067 139.15718408077194 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6c85eb1e-eeaf-45a1-a985-3fe904991aff">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61046895409969 139.15142080898744 0 35.610470960891384 139.1514220415165 0 35.61048712548814 139.1513825744642 0 35.6104112507942 139.15132240035985 0 35.6103919129724 139.1513579296373 0 35.61046895409969 139.15142080898744 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4dd76cc2-a5e1-4373-a45f-74a65822f4ad">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61042819906553 139.15122733174806 0 35.61044458165672 139.15123933421663 0 35.610523632691255 139.1512826380139 0 35.61053878210871 139.15124116722714 0 35.61046301526047 139.1511996625298 0 35.61044003414251 139.1512002991353 0 35.61042819906553 139.15122733174806 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_80c3c161-965f-465f-860b-f507cb3c4d9a">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610540873535406 139.14997137994362 0 35.610523777267495 139.14997570373356 0 35.610498659972684 139.149982056105 0 35.6105066816705 139.15002961903946 0 35.610495757568955 139.15004240537363 0 35.61051439683575 139.1500913726317 0 35.61051972948814 139.1500893328178 0 35.61055513439949 139.15007015716014 0 35.61058776712953 139.15003897387504 0 35.61059785206284 139.15002192647498 0 35.610540873535406 139.14997137994362 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_27132867-8263-4f69-88ad-5bdd87d57983">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614963681771634 139.16245774273744 0 35.61499134466901 139.16240083914127 0 35.61498467568434 139.16236866271726 0 35.61493824742408 139.1623348314637 0 35.61491197314638 139.16234299854852 0 35.614884319978465 139.1623998821465 0 35.614963681771634 139.16245774273744 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_dc19eedc-f557-4d4e-935d-ad8485cb5362">
+			<tran:function codeSpace="../../codelists/Road_function.xml">1</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.617658646878034 139.16431452713041 0 35.61759075993565 139.1644078917696 0 35.6176043670533 139.16442273105645 0 35.617623291511876 139.1644421854415 0 35.61768847044443 139.16434709072584 0 35.61770015205112 139.16434059095545 0 35.617771436784274 139.16424134990737 0 35.61774553005793 139.1642134746312 0 35.61766899396903 139.16413043829314 0 35.61755234477803 139.16399828271662 0 35.617488378590664 139.16392264837776 0 35.617382559732825 139.16379305242373 0 35.61733373931808 139.16373418139935 0 35.617254202719565 139.16363030779235 0 35.617169094957426 139.16351334479245 0 35.61707766547663 139.16337800015611 0 35.617031667700175 139.1633080673849 0 35.616960642317935 139.16319496149308 0 35.616899141477916 139.16309270460735 0 35.61684444221044 139.1629978974058 0 35.61676250779122 139.1628519879452 0 35.6167120055737 139.1627544571343 0 35.616686699712986 139.16270558609398 0 35.61661668079813 139.16256288931174 0 35.616562408205404 139.162447657806 0 35.61651612182678 139.1623421841106 0 35.6164806993919 139.16226145663654 0 35.61644214478036 139.162168612945 0 35.61639991225283 139.16206277453747 0 35.61637301000996 139.16199058619904 0 35.616352741078295 139.16193480077658 0 35.616343900269044 139.161910468579 0 35.616315884362585 139.16183254958992 0 35.616292059389615 139.1617626537806 0 35.61628765122639 139.16174800932617 0 35.61628572276979 139.16174162307422 0 35.61628104329181 139.16174298682338 0 35.616266716901016 139.16169541995768 0 35.616253343850616 139.16164917203335 0 35.61624649712701 139.1616254940878 0 35.61622689100389 139.16155247232305 0 35.616207211939205 139.16148254200226 0 35.61619396025858 139.16143375199687 0 35.616174806526665 139.16136105770013 0 35.61616686654715 139.16134346242166 0 35.616156198225575 139.16130535825337 0 35.61613547830806 139.1612266059202 0 35.61611326511541 139.16113870412528 0 35.616099317706265 139.1610783295799 0 35.61608484692648 139.1610049339502 0 35.616070323124724 139.16092204564245 0 35.61605747955376 139.1608495195301 0 35.61604652333672 139.16075986790122 0 35.616037718510796 139.16066810096052 0 35.616021745544884 139.16051943521305 0 35.61601300095029 139.1604384855899 0 35.61600311429722 139.16034672778736 0 35.61599056935096 139.160247044536 0 35.615978476303916 139.16013146204384 0 35.61597024918893 139.1600621519553 0 35.61596258533908 139.15999758746003 0 35.61595157918927 139.15988298940363 0 35.6159459517192 139.15981150692312 0 35.6159416669941 139.1597061249183 0 35.615937340836524 139.15957723121315 0 35.61593739458495 139.15949013679477 0 35.61593794461808 139.15941120672244 0 35.6159405095681 139.15930576728235 0 35.61594333319005 139.15924657709067 0 35.6159476427043 139.15917909553093 0 35.615953485658366 139.15911182186514 0 35.615954789352806 139.1590709683711 0 35.61595401629313 139.15902946999566 0 35.615956348412055 139.15897911473357 0 35.61596123069626 139.15891736837602 0 35.61596907168159 139.15882060503205 0 35.615978844193506 139.15871466346937 0 35.61598925506812 139.1586261574009 0 35.615999646094856 139.158534119146 0 35.61601346006793 139.15842560469417 0 35.61601826892501 139.15839907180793 0 35.61602274631133 139.1583777298157 0 35.61606321675299 139.1582489011631 0 35.616144369233275 139.15801298764137 0 35.61615069311606 139.157999467445 0 35.61615560891625 139.15799203028877 0 35.61618694841975 139.15795489804367 0 35.616196514568415 139.15794090903464 0 35.616202480390434 139.15792783337662 0 35.61620842455372 139.15791089440214 0 35.61625006860547 139.15773425835323 0 35.61626619996109 139.15766171220116 0 35.616316710849055 139.15743455248264 0 35.616324310817745 139.15739143808824 0 35.61632661061563 139.15736757540986 0 35.61632754852191 139.15734195801767 0 35.61632671074526 139.15730509621832 0 35.616324121108306 139.15727730079615 0 35.61632036718342 139.15725083980354 0 35.61631561189166 139.157222621069 0 35.61629363768708 139.1571296404534 0 35.61628776856927 139.15709569105402 0 35.616284611452095 139.1570631538438 0 35.61628578127497 139.15703069059515 0 35.616291187286414 139.15699819168108 0 35.616314574295664 139.15689323870308 0 35.616357621513444 139.15672597288017 0 35.6164089885852 139.1565154759086 0 35.61646719266463 139.15627059101615 0 35.61649590087233 139.15614206158898 0 35.616521265690125 139.15602850025263 0 35.61652330849096 139.1560192198689 0 35.61656819955484 139.15581528015053 0 35.61659894551923 139.15567273311254 0 35.61664280052173 139.15547311608313 0 35.616688148806745 139.155265129225 0 35.61669736675002 139.15522285151732 0 35.616737711428314 139.15504026313684 0 35.616762059577574 139.15493022312782 0 35.616766186942634 139.15491133980137 0 35.61667015870766 139.15487997649655 0 35.61663980530821 139.15502099952087 0 35.61661019104763 139.1551427614953 0 35.61660227595818 139.15517530507054 0 35.61657609823336 139.1552806136273 0 35.61653425774648 139.15543771496638 0 35.61649588075602 139.1555696189162 0 35.61643560595146 139.15578262032784 0 35.6164126107264 139.15586361854596 0 35.61640573166456 139.15588784925828 0 35.616387940078056 139.15595232299304 0 35.61636271183814 139.15604374565163 0 35.61631082564397 139.15622587803512 0 35.616270353458965 139.15637005171453 0 35.61619807410276 139.1566285215431 0 35.61617313449675 139.1567162719484 0 35.6161681984491 139.15673363947823 0 35.616132898761286 139.15686805517018 0 35.61609938668849 139.15699980644413 0 35.61605286389122 139.15719028177028 0 35.61602378311773 139.1573086388634 0 35.615991513481376 139.15745307363593 0 35.61596585683955 139.15757129135696 0 35.61594193982151 139.15769435132353 0 35.615924616708725 139.15778777253087 0 35.61589918847249 139.15793071441158 0 35.61588099807584 139.15804633022884 0 35.615873375242394 139.15809783994274 0 35.615865018184756 139.15815431084152 0 35.61585037409487 139.15825941017363 0 35.61583893384884 139.15835719713243 0 35.61582931024389 139.15844139143562 0 35.615817040982016 139.1585682165846 0 35.61580752601252 139.15867183770095 0 35.615799990147515 139.15877477986513 0 35.61579250184941 139.1589023374781 0 35.6157882198021 139.1590069080665 0 35.61578606310039 139.15908861110302 0 35.61578473358854 139.15917317720513 0 35.61578423942167 139.1593587386116 0 35.61578677984078 139.1594745112152 0 35.6157885479091 139.1595270152349 0 35.6157905628611 139.1595868514691 0 35.61579230710707 139.1596258864748 0 35.615795508234605 139.1596975262119 0 35.61580113753948 139.15980157213085 0 35.61581059727278 139.15992976028957 0 35.61582212188564 139.16005649616798 0 35.61583294214632 139.16015398592944 0 35.615846440177314 139.16027904956675 0 35.61586155872694 139.16038765228421 0 35.61588187311878 139.16052281435657 0 35.61589993914831 139.16064276216522 0 35.615916410135895 139.16073534784377 0 35.61593952888791 139.16085624692502 0 35.61595815240685 139.16094693812803 0 35.61598708188775 139.16107540529714 0 35.61601062655724 139.16117576934283 0 35.616032844032084 139.16126444369831 0 35.61606322108284 139.16137777619 0 35.61608905969141 139.16146929039812 0 35.616115624210025 139.16156168167953 0 35.616130938135846 139.16161032127863 0 35.616147098242564 139.16166164857768 0 35.6161887269582 139.1617884647558 0 35.61618723778089 139.1617962041975 0 35.616220971685614 139.16189736663205 0 35.61625073062364 139.16198368583724 0 35.616254137037636 139.16199356654633 0 35.616285696274964 139.16207653367 0 35.61632693118943 139.1621812764118 0 35.61636356904271 139.1622698309399 0 35.61641617785562 139.16239379642582 0 35.6164609061329 139.1624946468202 0 35.616511550666075 139.16260582422044 0 35.616567253546464 139.1627189464852 0 35.61661601414961 139.16281556891866 0 35.61667313253632 139.16292393305298 0 35.616722856228826 139.16301624193534 0 35.61673096635552 139.1630312978946 0 35.616791748032846 139.1631338916801 0 35.61685452234973 139.1632382351839 0 35.616917366453315 139.1633389355098 0 35.616977299860416 139.16343491363682 0 35.61703111396164 139.16351648225978 0 35.61710334689955 139.16361986442323 0 35.617166212723916 139.16370831222363 0 35.61724430469083 139.16381175628797 0 35.61732936126378 139.16391955800339 0 35.6173804575783 139.1639824945033 0 35.61750056920154 139.16412135456702 0 35.61759236026544 139.16422457496762 0 35.61767010852763 139.16430824367862 0 35.617658646878034 139.16431452713041 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7b553829-cb75-446c-b2d5-295ba38ab70b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61705655997024 139.16391068221614 0 35.61706599073187 139.1639208696038 0 35.617078891890266 139.1639391967028 0 35.61714838923815 139.16403697236726 0 35.61718191282363 139.16408438024453 0 35.61720010415032 139.16411392280122 0 35.61721858425835 139.16414677457718 0 35.61723816494595 139.16418303919994 0 35.617254102949296 139.1642126005687 0 35.617262203774665 139.16422677303035 0 35.617275488095814 139.16424918135553 0 35.617289562146574 139.16426771956046 0 35.61730136144148 139.1642824131665 0 35.61731352187549 139.16429721415633 0 35.61733155069322 139.1643137324724 0 35.6173452163985 139.16432366389853 0 35.617361684162155 139.1643350070266 0 35.61738338509564 139.16434730006367 0 35.617404716919445 139.16435805075884 0 35.6174300151622 139.1643688788162 0 35.617456384568804 139.1643778213747 0 35.61749231777016 139.16438845049635 0 35.617511804663216 139.16439159984526 0 35.617528670375 139.16439344637334 0 35.617528916980824 139.16434045832915 0 35.61759678405751 139.1642471062393 0 35.61754557506018 139.16419129647417 0 35.617405692722905 139.16403063387463 0 35.61728109522418 139.1638793377458 0 35.617183494279324 139.163752543743 0 35.61707967403448 139.16360957502826 0 35.61698117509058 139.1634672246299 0 35.616893058957935 139.16332798919424 0 35.61677387979952 139.16313006683916 0 35.61672390492911 139.16304154379293 0 35.61666545918967 139.16293801614762 0 35.616575819077305 139.16276799682137 0 35.61648179012848 139.16257063878408 0 35.616409426174194 139.16241151456327 0 35.616344398973794 139.16225884210567 0 35.61629047590815 139.16212550501024 0 35.61624000780671 139.16198882437666 0 35.61623968394301 139.1619879472721 0 35.616210191528964 139.16190385910016 0 35.616174471650744 139.16180216134944 0 35.616142327748626 139.16171136196277 0 35.61611031985013 139.1616037771845 0 35.61610999395346 139.1616026817844 0 35.616065441693614 139.16145270933407 0 35.616025688405685 139.16130667078036 0 35.615986048082895 139.16114859942545 0 35.61594613920741 139.1609747453805 0 35.615913396098904 139.1608090000287 0 35.61587905103433 139.1606146784648 0 35.615854422258 139.16046553359436 0 35.61583457583924 139.16031734221838 0 35.615814604045156 139.16014674379377 0 35.61580108374247 139.16000159033266 0 35.61579092709239 139.15987771303958 0 35.61578147717757 139.15975129099712 0 35.615776751659034 139.15961544663787 0 35.615776586595864 139.1596104448326 0 35.6157762455425 139.15960011012652 0 35.61577597777188 139.15959199607641 0 35.615772953232614 139.15950034690516 0 35.615770703609265 139.1593882145868 0 35.61577004784971 139.15927099119116 0 35.61577151675582 139.15911467366894 0 35.61577480305813 139.15899322255586 0 35.615780385706984 139.15886336289202 0 35.61578993700894 139.1587179055937 0 35.6158010896115 139.15858479793945 0 35.615813065619236 139.15845389103367 0 35.61582545534578 139.15834858995566 0 35.615846391986935 139.1581761028688 0 35.615867852238864 139.1580327529719 0 35.615882594819986 139.15794249061204 0 35.61589051002315 139.15789402910863 0 35.61591074112343 139.15777265605294 0 35.615936253978276 139.15764483616937 0 35.615977676864894 139.15744491114955 0 35.61599588830763 139.15736528049877 0 35.61604922981087 139.15713699621182 0 35.61608484819562 139.15699507188322 0 35.61612010030645 139.15685215704474 0 35.61614012328843 139.15677416664732 0 35.61616827987925 139.15666695663015 0 35.61618504203507 139.15660313225177 0 35.616228716461116 139.15645131525153 0 35.61626368616431 139.15632242128413 0 35.616300368233205 139.1561935127718 0 35.616354597961084 139.15599535469093 0 35.61637382623328 139.1559275183139 0 35.61639587281117 139.15584973888912 0 35.6163977942602 139.15584279196645 0 35.616430943790824 139.15572294087357 0 35.61646981455294 139.1555826436042 0 35.61650781674706 139.15544820398782 0 35.616550559187864 139.15529120547936 0 35.616577369709056 139.15518622277605 0 35.61659381290358 139.15511705331622 0 35.6166079234497 139.15505769615038 0 35.61663658739151 139.15492973731787 0 35.616649049829135 139.1548730823805 0 35.616514615832045 139.15482917499452 0 35.616513115539405 139.15483628959026 0 35.61650055736848 139.15489512100646 0 35.6164876799118 139.15495046066658 0 35.616460690312884 139.1550664455182 0 35.61643681323874 139.15516411787385 0 35.61639729582965 139.15531755665882 0 35.61636286675834 139.1554462259367 0 35.616325503557626 139.15558209493412 0 35.61630334364375 139.1556646296446 0 35.61629413043094 139.15569707856278 0 35.61627701181129 139.155757370207 0 35.61627541387183 139.1557629981304 0 35.616254891855924 139.15583227264742 0 35.6162343499397 139.1558980149567 0 35.616209523236506 139.15597118919678 0 35.61619028792449 139.15602886227066 0 35.61616198818845 139.15610957192536 0 35.61613965713021 139.15617775765074 0 35.61612422483522 139.1562194359433 0 35.61611337573924 139.15624873626996 0 35.616075392271654 139.15635458486906 0 35.61605618592067 139.1564174456254 0 35.61602128972762 139.15652735231828 0 35.61598690980605 139.15664895540962 0 35.61596864057095 139.15671821048056 0 35.615968656687556 139.15672108036208 0 35.61597082977005 139.15672282822408 0 35.61597535557877 139.15672621205016 0 35.61598025555178 139.15673202120175 0 35.615982454668014 139.1567384050276 0 35.615981675713506 139.1567441516235 0 35.61595333653423 139.15685002899042 0 35.6159502407949 139.1568605416581 0 35.615946502103064 139.1568655628371 0 35.615945857179796 139.15686642898896 0 35.61594054931573 139.1568682398479 0 35.61588653499673 139.15689629096758 0 35.61581766474466 139.15694334298018 0 35.61580278920655 139.15691068386477 0 35.61576687279046 139.15693527097946 0 35.61575227198373 139.15690338226764 0 35.615710662666494 139.1569093622498 0 35.615608518624555 139.15732339255143 0 35.61559096363227 139.15748790318733 0 35.61569541784529 139.15772655969866 0 35.61570357659627 139.15776700235202 0 35.61569874520309 139.1578055673161 0 35.61569598351734 139.15782744675116 0 35.615693311340635 139.15784921504718 0 35.615690549646935 139.15787109447936 0 35.61568778733044 139.1578928635304 0 35.61568511576065 139.15791474220197 0 35.61568235343622 139.15793651125014 0 35.6156795917266 139.1579583906766 0 35.61567682939426 139.15798015972194 0 35.61567415780855 139.15800203838785 0 35.615671395468276 139.15802380743034 0 35.61566863374274 139.15804568685104 0 35.61566587139454 139.15806745589063 0 35.6156631090424 139.15808922492883 0 35.61566051952698 139.15810966789445 0 35.61565758494484 139.15813287338057 0 35.61565482319939 139.15815475279408 0 35.615652060831415 139.1581765218265 0 35.6156493892099 139.15819840047968 0 35.615646717584376 139.15822027913148 0 35.615644135468294 139.15824204664486 0 35.61564155396671 139.1582639245365 0 35.61563906259301 139.15828580166948 0 35.61563666134723 139.15830767804383 0 35.615634260097465 139.15832955441692 0 35.61563203910751 139.1583514292742 0 35.61563102059799 139.15836269708407 0 35.61562795826153 139.15839528633603 0 35.61562609840547 139.15841726854077 0 35.6156243286773 139.15843924998737 0 35.615622649076975 139.15846123067587 0 35.615621059604536 139.15848321060645 0 35.615619651010114 139.15850529940155 0 35.615618331925326 139.15852727705925 0 35.61561710296839 139.15854925395925 0 35.61561596475753 139.15857134048122 0 35.61561468089494 139.15859960977508 0 35.615614048233084 139.15861540011593 0 35.615613270537665 139.1586374836085 0 35.61561258297009 139.15865956634372 0 35.61561198553038 139.15868164832173 0 35.61561156835041 139.15870372878572 0 35.61561115116638 139.15872580924955 0 35.61561091424212 139.15874788819949 0 35.61561076744568 139.15876996639258 0 35.615610710777126 139.15879204382892 0 35.61561074423643 139.15881412050845 0 35.61561086782358 139.1588361964314 0 35.61561129949443 139.15886500324086 0 35.61561156564524 139.15888034449415 0 35.6156120497479 139.15890241739095 0 35.61561253384651 139.15892449028803 0 35.615613198204876 139.15894656167225 0 35.6156139526911 139.15896863230026 0 35.615614707173314 139.1589907029288 0 35.615615551165604 139.15901266242167 0 35.61561639577164 139.15903473229463 0 35.61561724037363 139.15905680216818 0 35.61561817510352 139.15907887128577 0 35.61561900610839 139.15909851280847 0 35.61562004455115 139.1591230095227 0 35.61562097865128 139.15914496826238 0 35.61562191336503 139.1591670373823 0 35.61562293820663 139.15918910574644 0 35.615623963044214 139.1592111741112 0 35.615624987260205 139.15923313209694 0 35.615626102221654 139.15925519970676 0 35.61562730731094 139.1592772665609 0 35.61562851177873 139.15929922303616 0 35.61563010764414 139.15932669547 0 35.615631102201064 139.15934335523585 0 35.61563151007388 139.15934982212215 0 35.615632486920646 139.15936531020105 0 35.61563396176813 139.15938726441095 0 35.615635527360965 139.1594093282453 0 35.61563709233238 139.15943128170088 0 35.61563865791715 139.15945334553706 0 35.61564031301249 139.1594752982385 0 35.615641968103816 139.1594972509409 0 35.61564293687655 139.1595101005164 0 35.61564362319115 139.15951920364427 0 35.615645278891776 139.15954126672824 0 35.61565549277164 139.15959471772467 0 35.61566370797431 139.1596901412114 0 35.61568807448759 139.15997317512517 0 35.61570222752933 139.1600057304387 0 35.61570366895118 139.16002172417384 0 35.61571676218504 139.16013884326193 0 35.61573165105572 139.160270849317 0 35.61574795723339 139.16039842815002 0 35.615763747896374 139.16051442092555 0 35.615784015924554 139.1606413043761 0 35.61580732163746 139.16077953212437 0 35.615822924037495 139.16086185918078 0 35.615840270920195 139.16094991169567 0 35.61586542861759 139.16106472247964 0 35.615912925449 139.1612577199457 0 35.615960160457874 139.1614361489719 0 35.61599666191918 139.16156770304391 0 35.6160049570031 139.16159759925247 0 35.61603443271936 139.16169482309957 0 35.61608240661713 139.1618442151015 0 35.61611851343568 139.161950656099 0 35.616140966024325 139.1620169205597 0 35.61614692271406 139.1620334321268 0 35.616172093033505 139.16210320275596 0 35.616202379280296 139.16218419353262 0 35.61624388449703 139.16228893396462 0 35.616296429587756 139.16241764640014 0 35.616340532451794 139.1625194953536 0 35.616411983884724 139.16267664020862 0 35.61645110329655 139.1627576680974 0 35.616500594137875 139.1628559401122 0 35.61658267333932 139.1630116722664 0 35.61663157160553 139.16310067709895 0 35.61669126979853 139.16320294869107 0 35.61673352702368 139.16327370084306 0 35.616749590144536 139.16330059569842 0 35.6168314687901 139.16343657127655 0 35.616909016584984 139.16355558369986 0 35.61703923220909 139.16374458408688 0 35.617109980520084 139.16384036214416 0 35.61720004032092 139.1639564010482 0 35.6172722900506 139.16404664761757 0 35.61735150133394 139.16414069990893 0 35.617434139398924 139.16423505500455 0 35.617523203729725 139.1643342138236 0 35.61752891698036 139.16434045832958 0 35.617498166040775 139.16433784434938 0 35.61747533506951 139.1643330670525 0 35.61744057419207 139.16432253858187 0 35.617416545761195 139.16431313499757 0 35.61738853068241 139.16430001145355 0 35.61736070444752 139.16428843176706 0 35.617342345746955 139.16427743555946 0 35.617331662361885 139.16426891433608 0 35.61731743440588 139.1642551240523 0 35.61730863153089 139.16424437942808 0 35.61729562373491 139.1642230726628 0 35.61728132833999 139.16419714036985 0 35.61726930708307 139.16417494230467 0 35.617243187848146 139.16411367427042 0 35.617227568654755 139.16407660394916 0 35.61721333392825 139.16404537262076 0 35.617198026808126 139.16401580604395 0 35.617177929195044 139.16398385088027 0 35.61715566595314 139.1639514722303 0 35.61712995438253 139.16391492763026 0 35.61710814852881 139.16388375946283 0 35.6170968143809 139.16386780151024 0 35.61705655997024 139.16391068221614 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b0068180-f11b-4e92-95a3-047c44169cdb">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613365861572206 139.1614304495806 0 35.61330162833371 139.16147460866287 0 35.61331543890295 139.16151047759777 0 35.61332260828517 139.1615353639073 0 35.61332641244453 139.16155332955535 0 35.61332834785841 139.16156246981006 0 35.61333180918966 139.16158283444662 0 35.61333198239049 139.16158385346898 0 35.61333359893967 139.161598962245 0 35.61333405484735 139.16161606759596 0 35.61333353406858 139.16163583027318 0 35.61333101992256 139.16165373312623 0 35.61332697537589 139.1616719799173 0 35.613319160664794 139.16169301776574 0 35.61331315721977 139.1617045112973 0 35.61329802395131 139.16173348376174 0 35.61328368926951 139.16176528311397 0 35.613278517597436 139.16177537106998 0 35.61323754716111 139.16186368763147 0 35.61320966737969 139.16192341627882 0 35.61317823517836 139.16199266737624 0 35.61320754628014 139.16202131719 0 35.61323038839482 139.16198627098632 0 35.6132368191317 139.16199184671103 0 35.61328731256949 139.16191404726786 0 35.61331333035141 139.16187214094336 0 35.61334028782131 139.16182872102814 0 35.61337252526465 139.16177458529523 0 35.61338421751114 139.1617538461739 0 35.6133993701449 139.16172325414166 0 35.61341102546612 139.16169589240653 0 35.613417630313194 139.16166802097626 0 35.613419732246335 139.16164084947823 0 35.61341865617043 139.16160951004022 0 35.613417145426354 139.16158104416448 0 35.61341339553016 139.16155513579383 0 35.613408053408435 139.16153464944736 0 35.613406947823115 139.16153035380188 0 35.613401816117786 139.1615152744068 0 35.61339952466077 139.1615084498971 0 35.61339920411025 139.16150760806093 0 35.613388547572576 139.1614796216637 0 35.613369752652595 139.16143893758797 0 35.613365861572206 139.1614304495806 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_55a44d18-39d5-428d-a082-eed1671ea776">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61310218700233 139.16194121628433 0 35.61317660665248 139.16199157716918 0 35.61320117188119 139.16193551885854 0 35.61322001415294 139.16188767657601 0 35.61323031630263 139.16186010547202 0 35.61323866322346 139.16183751787298 0 35.61325388418115 139.16178683589257 0 35.61327148884672 139.16172719305712 0 35.6132810339032 139.16167700001142 0 35.61328976098205 139.16162559959463 0 35.61328999326934 139.16162416852967 0 35.613290370984494 139.16162184151915 0 35.613291038703906 139.1616158996277 0 35.61320743741271 139.16158803384747 0 35.61320527067849 139.16160356737936 0 35.61319547617649 139.16165751544256 0 35.61319250922842 139.1616701877627 0 35.61318063465816 139.16172090592687 0 35.61318006916642 139.16172332122858 0 35.613163084967496 139.16178108232575 0 35.61313574323475 139.16185648061094 0 35.61310784282556 139.16192868245346 0 35.61310218700233 139.16194121628433 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9ed5fd13-1b86-4663-be50-6c5251b91cca">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6132095156699 139.16238161126728 0 35.61325126309997 139.16231944894423 0 35.61329449786343 139.1622492162733 0 35.61331368533128 139.1622165483927 0 35.61332655277485 139.16219464073674 0 35.613352521110556 139.1621477323434 0 35.61339848652544 139.16206610735313 0 35.61342685762474 139.1620136597084 0 35.61345246536028 139.16196675421128 0 35.61348350654583 139.1619082131779 0 35.61350444336902 139.16186421658193 0 35.613522445805394 139.16182741931615 0 35.6135388313912 139.16179162898612 0 35.613559215689726 139.16174553969006 0 35.6135789604325 139.16169791036867 0 35.61359265247977 139.1616640190003 0 35.613607471313316 139.1616220603088 0 35.61362334004475 139.16159057912222 0 35.6136425104193 139.16155310968242 0 35.61366419955387 139.1615147361059 0 35.61362007933029 139.1616200784025 0 35.613581526277684 139.1617216210567 0 35.61353691982666 139.16183679119163 0 35.6134749986343 139.1619827920549 0 35.6134710281802 139.16199816831445 0 35.61347210819068 139.16201405428177 0 35.61347524155589 139.1620263908722 0 35.61347871761393 139.16203552352525 0 35.61348435745413 139.16204474848192 0 35.61349388280849 139.16205570708632 0 35.6135301237747 139.16208918116826 0 35.61354102210526 139.16207153937987 0 35.61351520042974 139.1620476918554 0 35.61350550649492 139.1620388319144 0 35.61349779546333 139.16202995540738 0 35.6134942477221 139.16202413480886 0 35.613492051960506 139.16201830291422 0 35.613489932185985 139.16200993160103 0 35.613489339734755 139.1620006644709 0 35.61349172102363 139.16199126211046 0 35.61355310881551 139.16184659026507 0 35.613597803561866 139.1617310882279 0 35.61363626772085 139.16162976706485 0 35.61368030028255 139.16152486701347 0 35.613664199555004 139.16151473610643 0 35.613644516132744 139.1614990290268 0 35.61363786193639 139.1615115344946 0 35.613601483797595 139.16158281435398 0 35.613582410929524 139.16162160753663 0 35.61356659756755 139.16166302261936 0 35.61354474196771 139.16172005205624 0 35.613530145508236 139.16175339904495 0 35.61350743684522 139.1618029295901 0 35.61348969927594 139.1618387312035 0 35.613466978890315 139.16188616454193 0 35.613445030309755 139.1619265269655 0 35.61342308786564 139.16196799313394 0 35.61338784611431 139.16203297134066 0 35.6133476116613 139.16210781517532 0 35.61331363717545 139.16216977074376 0 35.613306565972756 139.1621826657117 0 35.61330103066341 139.16219220477336 0 35.613266122881676 139.16225243358457 0 35.61323189493959 139.1623052611009 0 35.61319181019928 139.16236326028843 0 35.6132095156699 139.16238161126728 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a2e377e6-0a45-434b-a762-22cc656404b0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61661510485149 139.15041680579125 0 35.61658844368838 139.15042113217794 0 35.61659106259775 139.15045412252132 0 35.61661775797789 139.15044979862284 0 35.61661510485149 139.15041680579125 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_28a8fa8b-7d81-4604-ac29-0773378013f6">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61320743741271 139.16158803384747 0 35.613291038703956 139.1616158996272 0 35.613294493021755 139.16158516035222 0 35.613295345147826 139.16157308964029 0 35.613296247332045 139.16156030981492 0 35.61329733501885 139.1615290627153 0 35.61329910463808 139.1614746297669 0 35.61321138919178 139.16147632935812 0 35.61321190432841 139.16151620012985 0 35.61320986429375 139.1615706352793 0 35.61320743741271 139.16158803384747 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9c1ab96d-944c-4ae0-b347-918b3431f108">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61314306695867 139.16053559522095 0 35.613138150539065 139.160591379007 0 35.61313649194704 139.1606333378329 0 35.61313771739631 139.16069138819833 0 35.6131366938312 139.1607502300629 0 35.6131374823013 139.16079459679256 0 35.61313925216102 139.16085330489355 0 35.613141361156714 139.16089203112116 0 35.61314494058614 139.1609358225905 0 35.61314950098075 139.16097772937027 0 35.613154966375944 139.16102029087057 0 35.613161555217445 139.16107034891525 0 35.61317539316415 139.16114341604492 0 35.61318231662191 139.16118883529114 0 35.6131892905491 139.1612433054056 0 35.61319006849106 139.161249677148 0 35.613282162442864 139.1612328149292 0 35.61326599196953 139.1611778697835 0 35.613257124398025 139.16113942079653 0 35.613249712473944 139.16110338803344 0 35.61324170370483 139.16105731554876 0 35.61323431845124 139.16100991327716 0 35.61322300658262 139.16093726650305 0 35.61321680797588 139.16087638777563 0 35.61321372003113 139.16082376163422 0 35.61321239527121 139.1607640563199 0 35.61321243988354 139.16069131452406 0 35.613217467565484 139.16059594681843 0 35.613220671818176 139.16053516612013 0 35.61314306695867 139.16053559522095 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d63c5e91-0c48-45d9-8d92-183709cfa0e0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61575841527454 139.15645649210214 0 35.61578552219426 139.15647897989467 0 35.61578790181626 139.15647467796057 0 35.61581369753674 139.15642953390088 0 35.61584245332701 139.15638182601182 0 35.6158646063241 139.15634609532563 0 35.615885882801486 139.156314787413 0 35.61591439420131 139.15627171767807 0 35.615949352276125 139.1562209769947 0 35.61598197992869 139.15617257400186 0 35.615988216445764 139.15616252884934 0 35.61599252056866 139.1561555962007 0 35.61600019187673 139.1561412918301 0 35.616007125377095 139.15612401327243 0 35.616020048861074 139.15608195789886 0 35.61605317800094 139.1559784682694 0 35.61608995080423 139.1558817917255 0 35.6160907713145 139.15587961941918 0 35.6161101115719 139.1558284159177 0 35.616194946412094 139.15562304559018 0 35.61619725200282 139.1556171956357 0 35.61621152876896 139.15558097130238 0 35.6162122756231 139.1555790763138 0 35.61622834980267 139.15553633184942 0 35.61624313107122 139.1554880789948 0 35.61625807208929 139.15543618204754 0 35.616290589685754 139.15532022342376 0 35.61635510052632 139.15509129074016 0 35.61637990993354 139.15499912988213 0 35.616390585317895 139.15495808659108 0 35.61640303659867 139.15491228169984 0 35.61641972394005 139.15484379335527 0 35.61642171379763 139.15483562655024 0 35.6164256360851 139.15482786641022 0 35.61639806879643 139.15479840545026 0 35.616396834302904 139.15480327285485 0 35.61639622828298 139.15480691339707 0 35.616393172469394 139.15482527056784 0 35.61638042595874 139.15488266847237 0 35.61636098974747 139.15496860238872 0 35.61635189882389 139.15500289875092 0 35.61632908974499 139.15508212755316 0 35.61630372581377 139.15517186452266 0 35.61627067564547 139.15528926273333 0 35.616260159291535 139.15532655146475 0 35.61625424096034 139.1553480162326 0 35.61624214196506 139.15539238298612 0 35.616237900725615 139.15540754161046 0 35.616221284476495 139.15546607582272 0 35.61621536301517 139.15548698866843 0 35.61620926252847 139.1555081237928 0 35.61619700938415 139.15554112208312 0 35.61619213256669 139.15555370750246 0 35.61617957159079 139.15558612311753 0 35.616174264725544 139.15559981832547 0 35.61615558539166 139.15564413012248 0 35.616131051703 139.15570526987713 0 35.61610927110037 139.15575910093355 0 35.616085131878044 139.15582233574057 0 35.61607240764403 139.1558556679353 0 35.61607036440341 139.15586098366606 0 35.61604886529652 139.15591679920308 0 35.616034561346815 139.1559537885311 0 35.61602495246132 139.1559761673934 0 35.61600284239199 139.15601951447798 0 35.6159952283484 139.15604434666037 0 35.615977527557654 139.1561020753334 0 35.61597264785978 139.15611591462954 0 35.61596524260733 139.15612944405797 0 35.6159594435962 139.15614008992716 0 35.61591426263448 139.15620018917684 0 35.61590648567893 139.15621173478718 0 35.61588780258236 139.15623937816682 0 35.615845519434195 139.15630188135765 0 35.61582613882993 139.15633372520637 0 35.615804279798844 139.15637364803342 0 35.61578455539183 139.15640847514103 0 35.61576221784634 139.15644950713605 0 35.61575841527454 139.15645649210214 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4955e87f-09b5-49c5-b1fa-f5c7fcdeeda6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61367392593461 139.1614324200645 0 35.61369592737048 139.1614338917993 0 35.61369661149507 139.16142726314658 0 35.61369818981614 139.16140318662872 0 35.61369943530494 139.16138408009246 0 35.613721785573375 139.16138345163463 0 35.61372284898723 139.16133133257406 0 35.61367777115689 139.16132995325754 0 35.613676192073285 139.16140237716434 0 35.61367512192127 139.16142059917115 0 35.61367392593461 139.1614324200645 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8673922c-585a-45bb-8a8b-c764a2ce8b48">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61547556094867 139.15959634818267 0 35.615471102043934 139.15955133756904 0 35.61547542343786 139.15955041824867 0 35.61546813697625 139.15948855359284 0 35.615463572348894 139.1594459834222 0 35.615459752223174 139.15940760162582 0 35.61545788387188 139.15938515385037 0 35.61545588701227 139.15936116213604 0 35.615451990909115 139.15930920368064 0 35.61544832812689 139.1592506201978 0 35.61544436836376 139.15918729267582 0 35.61543992635885 139.15910222344718 0 35.61543493422979 139.15902030098914 0 35.61543407053916 139.15900612763932 0 35.61542899593622 139.15885637839486 0 35.61542667598109 139.15874788986008 0 35.6154236406538 139.15867263308806 0 35.61542296045371 139.15859945384815 0 35.61542259387907 139.15853399889346 0 35.6154244669646 139.15846609666548 0 35.615426714142565 139.1584006197518 0 35.61542890051485 139.1583725637079 0 35.61542985795642 139.15836648451352 0 35.61543145188622 139.15836139343236 0 35.61543538367984 139.15835528924762 0 35.615439685894614 139.15835094810308 0 35.615445629652804 139.15835001508762 0 35.61545023008826 139.15835063874238 0 35.61545260227817 139.1583235745879 0 35.61544834567349 139.15831996766318 0 35.615442519102494 139.15830964047035 0 35.615438317378405 139.15829974116443 0 35.61543517311766 139.1582855279763 0 35.61543418521786 139.15827008243946 0 35.61543451527929 139.1582485546775 0 35.61543779072834 139.15817357603677 0 35.6154408493694 139.15809208652328 0 35.615448847085915 139.15794300012624 0 35.61545484217504 139.1578547524449 0 35.61546303108136 139.15775588938186 0 35.61547895358701 139.15759627473224 0 35.61547933078775 139.15759249346888 0 35.61548902969456 139.15750575995648 0 35.6154947861909 139.15745537613745 0 35.61550545877112 139.15738154940365 0 35.615514676478725 139.15732153297566 0 35.61552400286911 139.15726482715965 0 35.615533789802654 139.15720988360965 0 35.61554885453345 139.15713171483603 0 35.615560695852764 139.15707344241815 0 35.61557540525405 139.15701227583494 0 35.61559181349715 139.15694866646152 0 35.61560630015631 139.15689600133592 0 35.61562967168804 139.15682041171786 0 35.615645990059285 139.15677291920582 0 35.61566419312249 139.15672397579817 0 35.61568046595627 139.15668443134143 0 35.61570121933251 139.1566402129619 0 35.61571868741146 139.15660485302908 0 35.61572891196355 139.15658434546378 0 35.61573687033461 139.1565683832094 0 35.61574694859225 139.1565493120929 0 35.6157547971118 139.15653445438576 0 35.61575551134625 139.15653323413378 0 35.6157630745926 139.1565195611468 0 35.61578552219426 139.15647897989467 0 35.61575841527445 139.1564564921023 0 35.615740030857395 139.15645708854154 0 35.615724975214604 139.15648995466276 0 35.61573900774387 139.15649959537208 0 35.61572351143645 139.15653295179624 0 35.61571085469838 139.15655833657192 0 35.61570274074014 139.15657407958392 0 35.61568446148345 139.1566094463493 0 35.615657562170476 139.1566667419077 0 35.61563676390258 139.15671901872642 0 35.61563472000331 139.15672422402724 0 35.61561357109958 139.1567782699259 0 35.61559300944425 139.1568405897083 0 35.61557144363505 139.15691671600578 0 35.615557488463125 139.15696772085937 0 35.615548239005 139.1570059918393 0 35.615545354821116 139.1570381380679 0 35.61552417079013 139.1571341302952 0 35.61550894623422 139.15721594308286 0 35.615506592576466 139.15723020251093 0 35.615496732223754 139.1572881270429 0 35.615486287366295 139.1573543353256 0 35.61547693024698 139.1574216382858 0 35.615468378085225 139.1574878306129 0 35.61546176916583 139.15754694196613 0 35.6154591877901 139.15756881982833 0 35.615456776150026 139.1575888197235 0 35.61545609223873 139.15759544855104 0 35.61544813771988 139.15767179119712 0 35.61544797045486 139.15767411067986 0 35.61544483921664 139.15771045353694 0 35.615441261021545 139.15774746245728 0 35.61544110160504 139.15774951079362 0 35.61543781379321 139.15779175565393 0 35.6154339647771 139.15784477260493 0 35.615430187305954 139.157894477413 0 35.61542680313487 139.15795002929096 0 35.615423639838795 139.15799674854455 0 35.61542088387831 139.15803573745313 0 35.61541967994317 139.15807824561898 0 35.61541700004099 139.15813081118114 0 35.61541500591518 139.1581770790586 0 35.615411997603005 139.1582353873698 0 35.615409309592636 139.15828651799163 0 35.61540701486207 139.15834349568533 0 35.61540471453965 139.15839947996236 0 35.61540278708417 139.15845766879428 0 35.615401178089215 139.15850834880186 0 35.61540007660425 139.15856917991988 0 35.61540009993893 139.15863772850557 0 35.615402148060845 139.15869765009631 0 35.61540468284059 139.15879620218573 0 35.615406545058825 139.1588551318847 0 35.61540908759936 139.1589228866375 0 35.61541143060861 139.15898090195222 0 35.61541170355363 139.15898766039638 0 35.61541432441491 139.15905331719472 0 35.615417606381875 139.1591082611492 0 35.61542086114834 139.15915834841664 0 35.61542261943582 139.15919873440546 0 35.615427464483204 139.15927530062942 0 35.61543195387716 139.15933663677728 0 35.61543392939569 139.15936897998145 0 35.615434831350846 139.15938374684555 0 35.61543877989371 139.15942897139502 0 35.61544353405083 139.15947319573044 0 35.61544778074023 139.1595072689458 0 35.6154508939854 139.15953207936576 0 35.615453999201044 139.1595554548553 0 35.615453758420735 139.15957687148568 0 35.6154528046052 139.15959972909542 0 35.61547556094867 139.15959634818267 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_010e7eac-0187-4177-8eb5-c0d0ab26b2af">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61651001766616 139.15433439058012 0 35.616518019559095 139.15434679656607 0 35.61649071935855 139.15446072486827 0 35.61646759360364 139.15453167768885 0 35.616415850805026 139.15470685574795 0 35.61641136039523 139.1547257696652 0 35.61640185120914 139.15476580967368 0 35.61644612205526 139.1547202878833 0 35.61644651054294 139.15470924600947 0 35.61644762878832 139.15469974337375 0 35.61645034888821 139.15468658447003 0 35.61649499367374 139.15453144616444 0 35.61651779310792 139.15446656730802 0 35.61654148941104 139.1543849021557 0 35.61654478261244 139.15437747845723 0 35.61654650680808 139.15434754926375 0 35.6165624582714 139.1543470832823 0 35.616561833303244 139.1543294390975 0 35.61651001766616 139.15433439058012 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e1ec5029-78c1-432c-be6c-2093bdddf39c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613246660523615 139.16041132113557 0 35.61325307653737 139.1604142477001 0 35.61325740128006 139.16038164891214 0 35.61326843720714 139.16034027375912 0 35.61328401312699 139.1602887054547 0 35.613297288755746 139.16024488311604 0 35.61330623978057 139.1602175438607 0 35.61332447695773 139.1601744525995 0 35.613347763359094 139.16013165015588 0 35.6133578674814 139.16011710548767 0 35.61337297890381 139.16009534404446 0 35.61339585779084 139.16006027169084 0 35.61341785508538 139.16002873892293 0 35.61343358631226 139.16000498537966 0 35.61344039555453 139.1600137588598 0 35.613515924023666 139.15993210554757 0 35.61352823502172 139.159941495209 0 35.61356137965108 139.15990468096655 0 35.61360383006993 139.15987176244212 0 35.61361952794796 139.15984204846038 0 35.61366685534604 139.1598108551082 0 35.61370082592026 139.159788100367 0 35.61370690611161 139.15978402762863 0 35.6137342099662 139.1597665790979 0 35.61375477798729 139.15975349193633 0 35.61376457953836 139.15974932561681 0 35.613765641214165 139.15974888763154 0 35.613771953697345 139.1597462834704 0 35.61379947730276 139.15973589753844 0 35.61390646954964 139.15970376225843 0 35.61391547287038 139.15970192064964 0 35.61392323100578 139.15970306980805 0 35.613932254073895 139.15970476027329 0 35.61396853648345 139.15971328666436 0 35.61406366452306 139.15973555904353 0 35.61406532812737 139.15971569581407 0 35.61405859125367 139.15971484963586 0 35.614037563358664 139.1597101691076 0 35.61400714261105 139.15970214547616 0 35.61397112442561 139.1596925130453 0 35.61392878898058 139.1596814986196 0 35.61392174387791 139.15967890851212 0 35.61391345667608 139.15967986105932 0 35.61390247292144 139.15968216080603 0 35.61383167484568 139.1597070385567 0 35.61376287238576 139.15972956007772 0 35.61376176697555 139.15972992191797 0 35.61372070502566 139.15975322569 0 35.61370519768279 139.15976377668412 0 35.61361968605279 139.1598219575975 0 35.61354902737497 139.15987178029178 0 35.61354133469458 139.15986621529447 0 35.613424400329485 139.1599902712024 0 35.61342976191005 139.1599980633765 0 35.61339238898538 139.16005246365418 0 35.61335770210902 139.160103640304 0 35.61333832047114 139.16013548225607 0 35.61331655952832 139.16017705771418 0 35.61329221115225 139.16023951695473 0 35.61327592591248 139.16029318846637 0 35.6132556141785 139.16036830770986 0 35.613246660523615 139.16041132113557 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8799000c-cae5-4115-9081-acd814a58871">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61545260227817 139.1583235745879 0 35.61545023008975 139.15835063874258 0 35.61545311616552 139.15835094564778 0 35.61545467716839 139.15832388830916 0 35.61545260227817 139.1583235745879 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">6</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0b7c0663-b991-4d02-ae2d-3cc6d5bc01c5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61640185120914 139.15476580967368 0 35.61636374004347 139.15475591829642 0 35.61632358880678 139.15474549744894 0 35.61626075945714 139.15472869762195 0 35.616184471846935 139.15469092786626 0 35.616171000105865 139.15468425217657 0 35.61602195348768 139.15461039484669 0 35.61600950780433 139.15459316950074 0 35.615922632264464 139.15455407896948 0 35.615910865042146 139.15458715903628 0 35.615928668890426 139.15459550827413 0 35.615982079188605 139.15462033524986 0 35.61606928707215 139.1546605514554 0 35.616152162397526 139.15469970049125 0 35.61616647617568 139.1547062976715 0 35.61620837297711 139.15472560780418 0 35.61620780422392 139.1547366511679 0 35.61623952939254 139.15475216832692 0 35.61625696399872 139.15475897535418 0 35.616295061170426 139.1547695817375 0 35.616387101453675 139.15479258748005 0 35.616387761444194 139.1547927524468 0 35.61639588947025 139.1547955538256 0 35.61640185120914 139.15476580967368 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_76754f90-0b7a-4ca5-ad31-5d6e919ff4d8">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61651001766616 139.15433439058012 0 35.616561833303244 139.1543294390975 0 35.616559671295455 139.15426840156775 0 35.61653858916314 139.15427012518114 0 35.616500364117776 139.1542729353715 0 35.61651001766616 139.15433439058012 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4b11372b-8529-44b7-bf8f-286ca0336ce1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616357453859514 139.15045862047506 0 35.616354714110386 139.15045906511673 0 35.61635327705292 139.15045929673752 0 35.61630410386744 139.1504672223238 0 35.61631108510045 139.15053803060275 0 35.61633798211758 139.15053403283625 0 35.61633419088282 139.1504957772513 0 35.61635832491834 139.15049181899647 0 35.6163602178233 139.15049151240794 0 35.616357453859514 139.15045862047506 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_df50f3e0-40bd-4e01-b77b-b61d038fa438">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61314765487628 139.16048555401366 0 35.6132217931391 139.16050998974038 0 35.6132331847551 139.16038703968104 0 35.61324100711684 139.1603028634151 0 35.613246687111165 139.1602385737635 0 35.61325345676927 139.1601595942241 0 35.613261101704644 139.16009208702187 0 35.613263934823216 139.16006678589818 0 35.61326993751656 139.16001187594364 0 35.61328358809079 139.159890010625 0 35.61329089887706 139.15982725258382 0 35.61329898683642 139.1597745327446 0 35.6133070623919 139.15973572108598 0 35.613316233711544 139.15969943901035 0 35.61333092161301 139.15965030639603 0 35.61334757388133 139.15959784584032 0 35.61335617595831 139.15957260667565 0 35.613286035077586 139.1595380050392 0 35.613278389015235 139.15955659137742 0 35.613267550307704 139.15958482957822 0 35.61325337113179 139.159628218058 0 35.61323790599253 139.15968342813068 0 35.61322851364745 139.15972854254855 0 35.61321880518352 139.15978160707581 0 35.613210460397944 139.1598367574078 0 35.613202247669456 139.1598994125637 0 35.61319816624294 139.15994326822766 0 35.613189591539985 139.16003793702754 0 35.61317431813758 139.16020816285808 0 35.61316933157912 139.16025136378602 0 35.61316481724423 139.16029842410373 0 35.61315846178144 139.16037088757042 0 35.61315256384957 139.16042844570012 0 35.61314765487628 139.16048555401366 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2e89cc55-9240-48e5-81db-c47d13942ddf">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61386006112156 139.1604079914055 0 35.61391051188736 139.1604271751087 0 35.613911486694825 139.1604241866174 0 35.613953887415555 139.16028552216568 0 35.61402194579952 139.16006065451242 0 35.614085391552486 139.15984918145665 0 35.614112631757216 139.15975734022996 0 35.61406366452306 139.15973555904353 0 35.6140187907195 139.15988318569399 0 35.61401516193895 139.15989513743452 0 35.61394887135068 139.16011369858924 0 35.61391470819582 139.16022635422567 0 35.61388063629937 139.16033922976732 0 35.61386006112156 139.1604079914055 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5b5f9b99-e813-4b7d-aa64-c1dd880d58d1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613651564365 139.16122592115275 0 35.61358756677195 139.16122076723752 0 35.61358478857938 139.16127211812577 0 35.613607657242575 139.16127493098566 0 35.61364864881033 139.16127997297835 0 35.613651564365 139.16122592115275 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ee3b6897-2480-4372-8a3b-582de76a30e9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61369054573092 139.16108314223175 0 35.61368418717603 139.16112282263578 0 35.61368220443434 139.16115518120074 0 35.61368163756687 139.1611923531315 0 35.613681544489644 139.16119845653233 0 35.61372583976964 139.1612002863141 0 35.61372716551099 139.16115215586223 0 35.61372727761323 139.16114140897596 0 35.613727341692005 139.16113526590675 0 35.61373571438439 139.16106885612714 0 35.61369054573092 139.16108314223175 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e4b8007d-c01a-48be-821d-b48b90d69d16">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61651001766616 139.15433439058012 0 35.616500364117776 139.1542729353715 0 35.61644867059442 139.15427673571912 0 35.61643793371229 139.15427483953113 0 35.61643915065707 139.1543364886175 0 35.61651001766616 139.15433439058012 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ce530e6d-bb79-43bf-99d5-a896ec8412d2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61548605082776 139.1596778233729 0 35.61545606096704 139.15968237984885 0 35.61546216704336 139.15971047672159 0 35.61546490861127 139.1597333033476 0 35.61546636179342 139.15975139423932 0 35.61546645065263 139.1597672888783 0 35.61546653025389 139.1597815278258 0 35.61546530291858 139.1598038358071 0 35.61546345761301 139.15982846704532 0 35.615467350943135 139.15982877572466 0 35.61549745400745 139.1598311624214 0 35.61549872734473 139.15980662300868 0 35.61549948825971 139.15979195881403 0 35.61549802895214 139.15975664795926 0 35.615495258384655 139.1597286334876 0 35.61548605082776 139.1596778233729 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8c8205fb-8ff9-4599-a11a-67dfc37b054f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614646291079104 139.15978326492376 0 35.61463034042163 139.15983048409763 0 35.61465012312169 139.1598381554821 0 35.61467190476612 139.15984868008482 0 35.614699384464735 139.15986268920074 0 35.61484754873209 139.15993981962774 0 35.61486627081689 139.15995125299798 0 35.614922272222444 139.1599883141187 0 35.614939462059766 139.15999976035278 0 35.61499404206986 139.16008893468396 0 35.61500000117766 139.16010687733336 0 35.61500829014491 139.1601223720144 0 35.615020380973455 139.16014434820073 0 35.61502267777171 139.16014852284312 0 35.6150647786364 139.16014982582385 0 35.61521341492041 139.16013400961438 0 35.615260660879436 139.16010436186227 0 35.61527726020373 139.16005852363716 0 35.61527346269322 139.15997576720156 0 35.6152734064643 139.15996570610616 0 35.61527335967342 139.159957333879 0 35.615276062584066 139.15990874210922 0 35.615278534566016 139.15986721687082 0 35.615280266919235 139.159838502416 0 35.615299111278844 139.1598395586655 0 35.615306756707184 139.15973992784973 0 35.615311637442645 139.15972619926154 0 35.61531716514505 139.15971533524134 0 35.61532369910862 139.15970711200814 0 35.61533358955225 139.1597027240842 0 35.615345112244455 139.15970008862368 0 35.61541748697338 139.15968314484246 0 35.61544710211292 139.15967605266587 0 35.61543774140384 139.1596462169405 0 35.61543260943898 139.15964725343707 0 35.61541396879523 139.15965039013554 0 35.61526850325328 139.15966905068964 0 35.61525842732142 139.1598014859867 0 35.61524947483904 139.15992530185827 0 35.615245269052785 139.15998557186293 0 35.61524463459451 139.15999466377573 0 35.61523758603749 139.1600721022458 0 35.6152121817853 139.16007463321333 0 35.61516569652923 139.16007910699216 0 35.61510456573492 139.16008491187873 0 35.61503182523694 139.16009181919227 0 35.61499974537226 139.16002883800866 0 35.61497769102471 139.1599856419544 0 35.614965693059446 139.15996774993445 0 35.61495553042554 139.15995569288373 0 35.61494393061476 139.15994453095342 0 35.61492853230658 139.1599310828042 0 35.614913587124285 139.1599180723973 0 35.614906161140915 139.15991184276461 0 35.614901255766675 139.15990504008508 0 35.61479968403285 139.15985875765858 0 35.61467341864519 139.15979700790564 0 35.614646291079104 139.15978326492376 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f46952b4-b0a8-4844-b7e5-100d912868fe">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61580158300413 139.154372610763 0 35.61578042864588 139.15453748397522 0 35.615781434398805 139.15454001433224 0 35.61579968517859 139.15454769746032 0 35.61583510080187 139.15456230020638 0 35.61584502599267 139.15456621595953 0 35.615877559142085 139.15457905116398 0 35.615883809842785 139.15453661045544 0 35.61584124768391 139.15451743192457 0 35.61584487187404 139.15437425408916 0 35.61580158300413 139.154372610763 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a03ecae1-e3c0-4eae-8ee8-8d7a3d56d1f3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61634118531182 139.15056635487628 0 35.61631433285825 139.15057034601116 0 35.61632848480571 139.15071361679443 0 35.6163319672664 139.15073963823625 0 35.61633845220869 139.15077060152788 0 35.616370756964976 139.15087243390244 0 35.61637811193047 139.15089787053927 0 35.6163840260331 139.15092354019203 0 35.61640281965075 139.15102703284379 0 35.61648190922752 139.15141624425755 0 35.616510511058856 139.1514866062382 0 35.61651710158828 139.15150281930192 0 35.61653617016801 139.15154086784838 0 35.616555938073574 139.15158031184092 0 35.616563584976305 139.15163634059797 0 35.61657671964981 139.1517325786497 0 35.616616432680736 139.1517336815322 0 35.61660130288342 139.15160090021126 0 35.616587317472025 139.15159836962937 0 35.61657951932514 139.15158180608728 0 35.61656268360864 139.1515460464523 0 35.616550117172494 139.15151935493847 0 35.61649973407314 139.15141233982726 0 35.616429278377645 139.15101974342403 0 35.61641020998187 139.1509154803733 0 35.616409008259815 139.15091019206127 0 35.61640392409657 139.15088782692612 0 35.616396109716796 139.15086084878345 0 35.61636426373861 139.15076044749873 0 35.61635851923379 139.15073289986532 0 35.61635531904909 139.15070897334616 0 35.61634118531182 139.15056635487628 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_428bab54-e723-42f8-8628-690201da9e62">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6163143328578 139.1505703460112 0 35.61630014458854 139.15054887185224 0 35.61627164669323 139.15057711116972 0 35.61625463988082 139.15059811859294 0 35.6162495505335 139.15060666153835 0 35.61624491434613 139.15061564217393 0 35.6162388691993 139.1506304852194 0 35.61623418415747 139.15064675171715 0 35.61622933448544 139.1506657792518 0 35.61620685825643 139.15083508093178 0 35.61619114365984 139.15098876072685 0 35.616185013335745 139.15100448754234 0 35.61618059312943 139.15100386277257 0 35.6160588953798 139.1509854685977 0 35.61605488703442 139.15098471806394 0 35.61604914642293 139.15103069901025 0 35.61605365738601 139.1510314333951 0 35.61617629082553 139.15105589089555 0 35.616180800538274 139.15105640452242 0 35.616184940973156 139.15105537588812 0 35.61619105493059 139.15105267470952 0 35.61619698362385 139.15104909201955 0 35.61620290169078 139.15104363286477 0 35.61620612330595 139.1510395212374 0 35.616211124546375 139.15101541470682 0 35.616229234689 139.15083908548064 0 35.61625127402348 139.15067221595078 0 35.61625559604006 139.1506555109935 0 35.61625966141884 139.15064123669927 0 35.616264640622404 139.15062916235053 0 35.61626820648819 139.15062217775107 0 35.616271867489026 139.15061607542773 0 35.61628681566067 139.15059762437 0 35.6163143328578 139.1505703460112 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_25eb2990-f892-44c8-b9e8-becc4a18863d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61347357664888 139.15961351482173 0 35.61345653661986 139.15959571790532 0 35.61341165343238 139.15954818859115 0 35.61338708171792 139.15958344719155 0 35.61344925992789 139.1596484310633 0 35.61347357664888 139.15961351482173 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_51836143-cacc-4384-bb99-1e47200e836e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61411850053772 139.15973755340835 0 35.61412838735223 139.15970421959753 0 35.61408486136898 139.15968049122853 0 35.61408179164013 139.15968893594123 0 35.61407094858622 139.15971640176625 0 35.61411850053772 139.15973755340835 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7d9b6ab4-4312-4008-9629-73203911df7d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613893023897525 139.16049145378756 0 35.61384199923303 139.1604703255307 0 35.613827755128604 139.16052191401835 0 35.61382103946247 139.1605460336114 0 35.61380999237519 139.16058542223388 0 35.61379840633192 139.16062514650537 0 35.61378150787098 139.16068202450066 0 35.6138309474673 139.16070622584235 0 35.61384509806599 139.16065764950326 0 35.613846424779894 139.16065311271703 0 35.61387899108091 139.16054013570732 0 35.613893023897525 139.16049145378756 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8886f9c8-50fc-4d07-911f-2237d94896e1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613697233603006 139.16102171377273 0 35.613753923937004 139.1610369136644 0 35.613762974103416 139.1609950030493 0 35.613764896030155 139.1609840591198 0 35.6137696962229 139.1609558714653 0 35.61377536138562 139.16092116401282 0 35.613778456120365 139.1609015663721 0 35.61378258731116 139.1608754052616 0 35.6137882918783 139.16084776193628 0 35.61382740688772 139.16071784563277 0 35.61377016031942 139.16069989105506 0 35.61373575744931 139.16083429350275 0 35.61372385689522 139.16089767991207 0 35.61371641241472 139.16093733165366 0 35.613711452288285 139.1609691632418 0 35.613697233603006 139.16102171377273 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e28be48e-0b9d-401c-8b74-8d2819981e74">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61375233029294 139.16105823077757 0 35.61375470636466 139.16106406115537 0 35.61375864855144 139.1610759494543 0 35.613763633302746 139.16109699076029 0 35.61376431322065 139.16110006917285 0 35.61377103106731 139.1611304850783 0 35.61377686517492 139.16115836298738 0 35.613779365856644 139.16117037373667 0 35.613783277628244 139.1611929693829 0 35.613792718367726 139.16125337991406 0 35.61379597124954 139.16128712969487 0 35.613798581501264 139.16131878758944 0 35.61380033079686 139.16137385374194 0 35.61381350809125 139.16138942832 0 35.61382555491897 139.1614036667774 0 35.61386094521506 139.16144619917202 0 35.61387220734336 139.16142987782843 0 35.613843109725806 139.16139976695808 0 35.61384516306361 139.16139621754846 0 35.61382056924796 139.161366288854 0 35.61382020785263 139.16136253921997 0 35.61381731638818 139.1613325390593 0 35.61381292468007 139.16128853323497 0 35.613807576598504 139.16125082720947 0 35.61380001238541 139.1612036468483 0 35.61379155422349 139.161157798563 0 35.6137811909565 139.16110975858155 0 35.613776125135665 139.1610868844919 0 35.61377240671901 139.16107009445412 0 35.613765678661856 139.16104354862102 0 35.61376429404079 139.16103770994675 0 35.61375233029294 139.16105823077757 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ee9b5959-ad3e-43c3-bc00-86a1fc70f3e7">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61637821862799 139.1542828505294 0 35.616262480013006 139.1542902272676 0 35.61620405940831 139.15429395076217 0 35.61611664748232 139.15429952203547 0 35.61607149590153 139.1543032564549 0 35.61606313158161 139.15430394825472 0 35.615940665465295 139.15430906764692 0 35.615908019637565 139.15429013656058 0 35.61584858795528 139.15428632622363 0 35.61584493391982 139.15437180284025 0 35.61589233840966 139.15437090119957 0 35.615938935805126 139.1543700149084 0 35.616073376393544 139.15436247631087 0 35.616108071877335 139.15435903064807 0 35.61620477301999 139.15434942708893 0 35.61624856863573 139.15434507766165 0 35.61629084323907 139.15434087928412 0 35.616379312404895 139.15433826014177 0 35.61637821862799 139.1542828505294 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6644d60d-6ca6-4524-af08-873d026aeddb">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616601280086265 139.15399053911602 0 35.61656175911101 139.15412708974276 0 35.616552880242466 139.15413500222255 0 35.6165444414543 139.154141034417 0 35.61653806325253 139.15414484146794 0 35.61646440210707 139.15417328149994 0 35.61647509979395 139.15421184472572 0 35.616550162872194 139.15418061463967 0 35.61655923569603 139.15417512901897 0 35.616570009823924 139.1541676420641 0 35.61657996529842 139.15415883739527 0 35.61658901447634 139.15414915729767 0 35.61659634990475 139.1541392709149 0 35.61661242428745 139.15411264233614 0 35.616625114626096 139.15407732185332 0 35.61664768324818 139.15401950943195 0 35.616601280086265 139.15399053911602 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5e1a7fba-9106-438d-8d0e-57e4bfc1e010">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6133957464083 139.15950825341199 0 35.61341759045383 139.1594815785788 0 35.6134377651992 139.15946264445947 0 35.613457423843165 139.15944812993334 0 35.61347996917687 139.15943403271456 0 35.613516884378825 139.1594106532532 0 35.61355873348025 139.159390021243 0 35.61358891128615 139.1593751432792 0 35.613620975021256 139.15935933551964 0 35.613670325945144 139.159335410129 0 35.61372759118529 139.15930832760992 0 35.613781432022215 139.159281384164 0 35.61388471141393 139.15923007289544 0 35.613951944835016 139.15919639401633 0 35.61396854865857 139.15918810753817 0 35.61403427964796 139.1591553031046 0 35.614103052699626 139.1591229357706 0 35.614149623685876 139.1591015722207 0 35.61425820841914 139.15904800829287 0 35.61421728657511 139.15896825110974 0 35.61421146054202 139.15897334028153 0 35.6141933311144 139.15898729031278 0 35.61415891931142 139.15900700652557 0 35.61407308114426 139.15905022432887 0 35.61404185906699 139.1590655872308 0 35.61389734881976 139.1591366936906 0 35.61376538531425 139.15920038782428 0 35.61369248469253 139.15923610104826 0 35.61364754469676 139.1592589960598 0 35.61360781135403 139.15927809437298 0 35.613578671588506 139.15928959781476 0 35.613535484947235 139.15930623654714 0 35.613508966290226 139.15931645351264 0 35.613492258762385 139.15932401292358 0 35.613483612061906 139.15932792516844 0 35.61346025802317 139.15934247072914 0 35.61343636689531 139.15935768307773 0 35.613408174127905 139.1593773467729 0 35.613384747854745 139.15939509398186 0 35.61336089870028 139.15941781190472 0 35.61333903614833 139.159441175441 0 35.6133957464083 139.15950825341199 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9b519fc1-1067-45ef-a0f2-53f217e2d599">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61407170031364 139.16093381384596 0 35.6141094604771 139.16094706729976 0 35.61413291523555 139.16083748166102 0 35.61414990486733 139.16075891509726 0 35.61416287821826 139.1606989211717 0 35.61416985646124 139.1606572484186 0 35.61417622225419 139.16061889227197 0 35.61418424815561 139.16057113967528 0 35.61411910215337 139.16054287529707 0 35.614066753046686 139.16051927082933 0 35.61402729263602 139.16050147795903 0 35.613943896196716 139.1604655293791 0 35.61392717185575 139.16045672846508 0 35.61391225713676 139.16049758451425 0 35.61395607653599 139.1605160929537 0 35.613975783240626 139.16052630388148 0 35.61400416171902 139.1605398640554 0 35.614032811824394 139.16055364272944 0 35.61405187154858 139.16056280784807 0 35.614064173282685 139.1605687233009 0 35.614125543597865 139.1605987854218 0 35.61413469976998 139.16062431755918 0 35.61413784005644 139.16063786834832 0 35.61413826837154 139.16065000686922 0 35.61413520433947 139.16066625879387 0 35.61413090310617 139.16068693638712 0 35.61412711263422 139.16068608506032 0 35.614104483673756 139.16079098258726 0 35.61409688789469 139.1608261930418 0 35.61407170031364 139.16093381384596 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f14a8497-c45b-4ff8-8ecd-22763493414c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61421122793523 139.15962195317974 0 35.614196076503156 139.1596714202502 0 35.61433463269946 139.15973555667597 0 35.61435042852917 139.15974286843934 0 35.61436425512308 139.15974926511652 0 35.61451399186283 139.15981744079215 0 35.61453504504999 139.15982664687917 0 35.61454603819992 139.15977765489788 0 35.61449353085556 139.15975292772524 0 35.61439746945152 139.1597088071783 0 35.614369451411676 139.15969524421237 0 35.61436800559795 139.15969459403672 0 35.61435129287867 139.15968681464753 0 35.61426597633216 139.15964710179705 0 35.61421122793523 139.15962195317974 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_588588c7-b958-43e5-9550-1bbd90416618">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61458168649027 139.1597414752961 0 35.614609330606726 139.15976454055044 0 35.61463064073417 139.15972296808698 0 35.614657935378105 139.15967163167252 0 35.61468195004804 139.15963014686304 0 35.61470362189032 139.15958879205985 0 35.61470710185376 139.15958247101264 0 35.61476259787192 139.15948078380325 0 35.614764561019925 139.15947723506045 0 35.614807810724216 139.15936163170912 0 35.61481420328463 139.15934424783836 0 35.614826455633555 139.15931091954684 0 35.614847497648945 139.15925367460676 0 35.61484856379369 139.15925090606734 0 35.6148640750362 139.15920397319744 0 35.61486939401923 139.1591880333 0 35.614886583773306 139.15913501521047 0 35.61489021556441 139.15912361519966 0 35.61490119612164 139.15908853137555 0 35.61491049257693 139.1590585393333 0 35.61491589425967 139.15904127411684 0 35.61492135531103 139.1590228967396 0 35.61493703856788 139.1589701198158 0 35.614940050540255 139.1589607119032 0 35.614958302622604 139.15890426289977 0 35.614998148912356 139.15877654530428 0 35.61500841263801 139.15874224009315 0 35.61501552444717 139.15871839230152 0 35.61502283406236 139.1586938811925 0 35.61502779059522 139.1586776131219 0 35.615035046053634 139.1586533780944 0 35.615051149041555 139.15859948583756 0 35.61505477892693 139.15858775464338 0 35.61507356169767 139.15852698874596 0 35.615048785842205 139.15851550343967 0 35.61501485999382 139.15862197779808 0 35.61498282002212 139.158727222008 0 35.61498235803949 139.15872873145565 0 35.614956264942045 139.15881398597276 0 35.61494661543544 139.15884530563076 0 35.61491784774783 139.1589393734258 0 35.61490960757578 139.15896483088042 0 35.614902961355064 139.15898519729436 0 35.61489835665906 139.15899991699416 0 35.61489643375166 139.159006070161 0 35.614871171692165 139.15908690683258 0 35.61486585889933 139.15910395052282 0 35.61484470211904 139.15915678112768 0 35.6148422136295 139.159163093884 0 35.614822264974066 139.1592224269601 0 35.61479396491731 139.15930346527813 0 35.614784907922854 139.15932793605626 0 35.614772293188906 139.15936093621698 0 35.61474785759443 139.15942383910684 0 35.61472489309452 139.15947580164422 0 35.61470608082164 139.15951271716241 0 35.61466433362685 139.15959077729394 0 35.61464301922531 139.15963157716138 0 35.61461321139557 139.15968481117136 0 35.61458168649027 139.1597414752961 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ff899784-82ce-4033-a4a5-09f9882342a3">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615787568409274 139.15436489187215 0 35.61579551946979 139.15429079018753 0 35.615674100132324 139.15427125103963 0 35.615672996500166 139.15434731553336 0 35.615787568409274 139.15436489187215 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_59abff77-e072-4e69-bd03-358507736111">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61641815578064 139.15417212707428 0 35.61642033163966 139.15411040297184 0 35.61638426647313 139.15410850018588 0 35.616382124442104 139.15417025257676 0 35.616410635489736 139.15417173583793 0 35.61641815578064 139.15417212707428 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_33c11e6c-026b-4c3f-b0e1-27cb7c02d5ee">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616622721819226 139.15215275932024 0 35.616654148301 139.1521492203626 0 35.61665113847086 139.15210913681258 0 35.616645634110924 139.15204527533425 0 35.61662808413059 139.15184166347598 0 35.61662605747623 139.15181815084256 0 35.61662391926785 139.15179938541155 0 35.616585067104225 139.15180602496028 0 35.61659273736975 139.15187381551712 0 35.61661729345815 139.15209084697878 0 35.61661979258895 139.15211293498152 0 35.616622721819226 139.15215275932024 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_36ed81cf-42d7-4d48-8c0e-34630f896877">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616250983273396 139.15192653029894 0 35.61627055813481 139.15196771870225 0 35.61635335022688 139.15190870664142 0 35.61635372622858 139.15190843863678 0 35.6164212072893 139.15187110774207 0 35.61650168479215 139.15183675733746 0 35.61650542843648 139.15183537753683 0 35.616569387134625 139.15181180416147 0 35.61658506710497 139.15180602496002 0 35.61656468721724 139.1517379839005 0 35.61652923212468 139.1517539111489 0 35.61647503414968 139.15177825810423 0 35.61638969516795 139.15181364327066 0 35.616343898419295 139.15184416710275 0 35.61631295256357 139.15187521769468 0 35.61628420654658 139.15190406097338 0 35.616250983273396 139.15192653029894 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_890e5b51-7b94-48dc-a66d-0bdc73abbbe2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.616250983273396 139.15192653029894 0 35.61625621973498 139.15188023430005 0 35.6162438808829 139.1518500933067 0 35.61624627572477 139.1518199438673 0 35.616257428002314 139.1516795429585 0 35.616269518539134 139.15148878565117 0 35.61627406040768 139.15141712549996 0 35.6162818309161 139.15129752060827 0 35.616288404158794 139.15119634277235 0 35.616287720880564 139.15117118063998 0 35.61628337996067 139.15112088163553 0 35.61628225775424 139.15111371609703 0 35.616280505875146 139.1511067766775 0 35.616278586857675 139.1511021567766 0 35.61627558313388 139.15109699415945 0 35.6162706853931 139.15109162685638 0 35.61626634281836 139.15108879370905 0 35.61626218425727 139.15108662131308 0 35.61625956543629 139.15108576046856 0 35.61624874962646 139.1510858523229 0 35.61619440018186 139.15108631389026 0 35.61619437255302 139.15109735267964 0 35.616248812129484 139.1510968903543 0 35.61625854635835 139.1510968076867 0 35.616259269287404 139.1510971327042 0 35.61626243327397 139.15109876161875 0 35.616265418872075 139.1511007232054 0 35.61626886512923 139.15110444705044 0 35.61627086740322 139.1511078520016 0 35.61627214674809 139.1511109319353 0 35.616273529349805 139.151116329091 0 35.61627446566759 139.15112250273643 0 35.61627871145537 139.1511719194579 0 35.61627938848407 139.15119597778386 0 35.61627323967315 139.15129041691003 0 35.61626504223439 139.15141631896535 0 35.61626055811767 139.15148703551415 0 35.61624840920592 139.15167862601425 0 35.61623773883079 139.15181286695315 0 35.61623486146325 139.1518490659631 0 35.616238355540865 139.15187718465398 0 35.616233157644956 139.15192353199544 0 35.616250983273396 139.15192653029894 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_17a08993-a000-4848-938e-1633f122358b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615947282939466 139.1506760217555 0 35.61604882922536 139.15070418185144 0 35.6160121274438 139.15095145468914 0 35.61603015232745 139.150955467157 0 35.616070425897206 139.15068192126347 0 35.61595225206729 139.15064914757644 0 35.615947282939466 139.1506760217555 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9b46d496-6092-464f-a46e-4ccf63039550">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6135154654372 139.15970494337816 0 35.613590479168344 139.15975696665754 0 35.61361026446456 139.15971673209302 0 35.613533873842194 139.15966453832397 0 35.6135154654372 139.15970494337816 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c4253de0-77f6-49bc-80aa-9322504172c5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61348415320542 139.15971480913743 0 35.6134514729366 139.1596944548852 0 35.613398759062974 139.15982138122516 0 35.613432224495476 139.15984196284867 0 35.61348415320542 139.15971480913743 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_41d64270-1f7c-499c-b471-c67cfb7e4187">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61430642540934 139.15906618431498 0 35.614267952550605 139.1590496926391 0 35.61426698766084 139.15905444720443 0 35.61425779183541 139.15908631467119 0 35.61423607303501 139.15916585996746 0 35.61422643609372 139.1592011552734 0 35.61420147709845 139.15928326879165 0 35.61417373137564 139.15938284612423 0 35.61416782095371 139.15940585533215 0 35.61414550280491 139.15949280342102 0 35.6141420617349 139.15950607821694 0 35.614119976690375 139.15957844790367 0 35.61415907066445 139.15959799482715 0 35.61416863147486 139.15956689707613 0 35.61416537870103 139.1595654893784 0 35.614197725626774 139.15945053030657 0 35.61420709317004 139.15941711610395 0 35.614235737152676 139.15931697929094 0 35.61426170673588 139.1592221632289 0 35.61428407594985 139.15914437629917 0 35.61429064442136 139.15912139581926 0 35.61430642540934 139.15906618431498 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2476e31e-2b2f-45ad-b032-d1e5d05f6642">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6137701603202 139.16069989105503 0 35.61377508053652 139.16067967817972 0 35.61371972881755 139.16065947185376 0 35.613649093409684 139.16063279887322 0 35.61360771128673 139.16061493232252 0 35.613602783450354 139.16063638770305 0 35.61367323797771 139.1606629518043 0 35.6137701603202 139.16069989105503 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3b0e498f-e795-4343-beab-b3865b93f91b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61392256862671 139.16145292624745 0 35.61392926305779 139.1614290704601 0 35.613935978285475 139.16140484052792 0 35.61395128795448 139.16135393651777 0 35.61396316433414 139.16131774208682 0 35.61397098821136 139.16129835969457 0 35.613971700032444 139.16129669800182 0 35.613984691224964 139.16126645488728 0 35.613996894002966 139.16124030251484 0 35.61399956840843 139.16123498177706 0 35.61401018205314 139.16121480335102 0 35.61405477944338 139.16113042903652 0 35.61406295519631 139.16110949830212 0 35.61406375529924 139.16110750471904 0 35.614072895402686 139.1610817090718 0 35.61408307705234 139.16104872982646 0 35.61409811001403 139.16099672414418 0 35.61406022619978 139.16098417128674 0 35.61405359015733 139.16101420602567 0 35.61404449995456 139.16104894225268 0 35.61403056971242 139.16108857580718 0 35.614023815136576 139.16110574163432 0 35.6139805128609 139.1611960657538 0 35.61393304880703 139.1612997808733 0 35.61390802311903 139.16137019346434 0 35.6138920868276 139.16142187536167 0 35.613886406401065 139.16143770755875 0 35.61392256862671 139.16145292624745 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4e3664c8-8eec-401e-8b07-95cd0be5121d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61386616248222 139.16147662108952 0 35.613861377554066 139.16150756818075 0 35.61385711556245 139.16153530980566 0 35.61384876874703 139.1615902396534 0 35.613846751094975 139.16160019093903 0 35.61384615770831 139.1616069292266 0 35.613847007048335 139.16161376583415 0 35.613853457815964 139.16163909985457 0 35.613860361699466 139.16166487162064 0 35.61386952564516 139.16169183870414 0 35.61387282454108 139.16170152478026 0 35.61388523261477 139.16172835437084 0 35.61390210575222 139.1617638668617 0 35.61391608358251 139.16179741668296 0 35.61393419177609 139.16184428827899 0 35.61394818803763 139.1618811494499 0 35.613955060500224 139.1619012920201 0 35.6139891808671 139.16187771613946 0 35.613969511530016 139.1618256695714 0 35.61396082288121 139.16180311376857 0 35.61395533560282 139.1617889202849 0 35.61394720188906 139.16176889864974 0 35.61394400358922 139.16176108822404 0 35.613930846780676 139.1617292976546 0 35.61392901891569 139.16172478725136 0 35.613910937133575 139.16168266191187 0 35.61390263421397 139.16166462859778 0 35.613894316523826 139.16164394623172 0 35.61389016889972 139.16162753392123 0 35.61388839854943 139.1616171727716 0 35.61388755967065 139.16161221257477 0 35.61388721912336 139.16159963182218 0 35.61388795277396 139.16158571749872 0 35.61389065148 139.16156858565327 0 35.61389461757002 139.16155243665148 0 35.61390937666285 139.16149977117962 0 35.61391026136526 139.1614967834541 0 35.61386616248222 139.16147662108952 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e1abaade-560b-423e-aef9-c08f4eea91f7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61658842648598 139.15396492785004 0 35.61659444889477 139.15390029043735 0 35.61645076163093 139.15388021181187 0 35.61639438892302 139.15388951947187 0 35.61636515014841 139.15388541126342 0 35.61626322710789 139.15387109053853 0 35.61619844500851 139.1538575553648 0 35.616191123405336 139.1538560256354 0 35.616185074047294 139.15389721407337 0 35.61619899475325 139.15390028043157 0 35.6162962319061 139.1539216991976 0 35.61635331288988 139.15393208447892 0 35.61637797908026 139.15393657223586 0 35.61658842648598 139.15396492785004 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8ab21a45-c9aa-4620-94a3-10dc0b16c656">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61601224053612 139.1510395121277 0 35.61599947893742 139.15103667128759 0 35.61599777745454 139.15104813463037 0 35.61599637027295 139.15106148750357 0 35.615957756340904 139.15142789291895 0 35.61595509251921 139.15145316936855 0 35.61594178852876 139.1515675312146 0 35.615904292646555 139.1518898426791 0 35.61586085972571 139.15188499132213 0 35.6158595658289 139.15190236443337 0 35.61590465793332 139.1519066181242 0 35.615905829646294 139.15190660818539 0 35.615907360013566 139.15190626404893 0 35.61590960768927 139.15190525151706 0 35.615910596641626 139.15190480158785 0 35.615911763984656 139.1519040189899 0 35.615912839947356 139.15190301639677 0 35.61591427456428 139.15190167960586 0 35.6159157930701 139.15189923825164 0 35.61591712382088 139.15189547386788 0 35.615918089050126 139.1518908295031 0 35.61595427816385 139.15157788477944 0 35.61596844513823 139.15145537412238 0 35.61597106552897 139.15143049243193 0 35.616008840444415 139.15107179842084 0 35.61601224053612 139.1510395121277 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2d1bce2b-13c5-4eed-a3ff-f0828e8075d3">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614500698533554 139.15790695635937 0 35.61445861747505 139.15812098376603 0 35.61445019614764 139.15816233786057 0 35.6144122194316 139.15838231948618 0 35.614395028466284 139.15847534537212 0 35.61436384038777 139.15864411307717 0 35.61434385457763 139.15874506065077 0 35.61433073328588 139.15880025196435 0 35.614323170323615 139.15881786636498 0 35.614311856420635 139.15884169370244 0 35.614295173523615 139.1588725202353 0 35.614273370398486 139.15890648046098 0 35.61433302159649 139.1589542012364 0 35.61434507910054 139.15893159774623 0 35.61436448813816 139.158888606181 0 35.614376371802976 139.15885384612358 0 35.61438183578396 139.15883161324584 0 35.61438341614033 139.15882409392592 0 35.614403178589036 139.15873153731593 0 35.614414278008674 139.15866940878124 0 35.61443939670462 139.15853541341588 0 35.61444115050611 139.15852667841293 0 35.614460702783404 139.15842882503586 0 35.61446087810095 139.15842794049732 0 35.614478414930865 139.15833598249412 0 35.61448548356317 139.15829891653937 0 35.614487671309845 139.15828719753227 0 35.61451525822115 139.15814335707194 0 35.61451849784472 139.1581263308178 0 35.61455702127402 139.15792356398907 0 35.614500698533554 139.15790695635937 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bb156268-ac5f-43c8-8607-657ec7eb707e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61410946047774 139.1609470673004 0 35.614098110013984 139.16099672414435 0 35.614144569649405 139.16101995726396 0 35.61418099445414 139.16103786562184 0 35.61419166205202 139.16104351626385 0 35.61419935529481 139.16104919179656 0 35.614227960785136 139.16107113939435 0 35.61427358066998 139.16110541791832 0 35.61431368094237 139.16113587925628 0 35.614344549568635 139.16115957411014 0 35.61438755375429 139.16119354346725 0 35.6145599460287 139.1611866924091 0 35.61472863919258 139.16117920996234 0 35.61473430439067 139.16116704756254 0 35.614795173957496 139.1610363687124 0 35.61491468709214 139.16077662881966 0 35.61495893673221 139.1606784582275 0 35.615009470405404 139.16055959309884 0 35.614975092066366 139.16053692113235 0 35.61495078543145 139.1606068873195 0 35.61494411797843 139.16062350073548 0 35.614940209486264 139.16063379916525 0 35.61491358787469 139.1606927462892 0 35.61487949989572 139.16077052112942 0 35.61485215716037 139.1608294742001 0 35.614813435823 139.16091689108765 0 35.61476607201604 139.16102237275328 0 35.61471889392124 139.16112884619332 0 35.61471559229247 139.1611348345322 0 35.614713626631925 139.16113794171932 0 35.614710661514316 139.16113962228218 0 35.61470444487235 139.1611401158309 0 35.614658411330296 139.16114296052143 0 35.614617673658515 139.1611454779451 0 35.61461605189903 139.1611456018976 0 35.614568378865414 139.1611472149879 0 35.61452286222475 139.1611475958171 0 35.61438567544463 139.16113152385884 0 35.614366578776455 139.16111755460182 0 35.61436069618186 139.16111329888128 0 35.61422123746057 139.16101313424244 0 35.61419916457619 139.1609988587996 0 35.61419280398084 139.16099518644626 0 35.61410946047774 139.1609470673004 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_23d43a2c-3042-4a8a-8858-672299e3b421">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6150477733722 139.15851175888795 0 35.61504981907515 139.1584907687382 0 35.61499271413314 139.15846597049662 0 35.61493958302731 139.15844257389736 0 35.61484109935146 139.15840057232603 0 35.614746021903834 139.15836116385148 0 35.61472807659761 139.15835372574577 0 35.61471828561069 139.15835976871907 0 35.614668144914006 139.1583392171133 0 35.61466874321313 139.15834947775244 0 35.61474180041872 139.15838048338142 0 35.6148342661613 139.15841972611807 0 35.6149379071337 139.15846521667032 0 35.6150477733722 139.15851175888795 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ac0906e9-bb66-4720-bae9-94e4b3db0c8c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615053782406044 139.15849029390984 0 35.615081003580265 139.15850291278042 0 35.61510054995263 139.15843967629485 0 35.615127041453384 139.15835178866695 0 35.615128336306235 139.15834749288427 0 35.615169594421715 139.15821446444016 0 35.615178344787395 139.15818589436753 0 35.61514817468171 139.15817203615458 0 35.61513757409524 139.15821053892572 0 35.6151234288286 139.15825988911757 0 35.61511186918394 139.15830073976005 0 35.61510645868672 139.1583198599019 0 35.615092588098925 139.15836998043656 0 35.61507424737434 139.15842665116705 0 35.615053782406044 139.15849029390984 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_af09097e-c65d-4158-84cf-7a5d22d86144">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61562838802702 139.15433290099307 0 35.61562227791077 139.1543842815609 0 35.615607742125185 139.15447602376358 0 35.61559628933432 139.15453903984985 0 35.61558827703414 139.15458878068222 0 35.61558520090096 139.15460685062575 0 35.615578679646575 139.15464515797945 0 35.615565941932964 139.15472010642233 0 35.61555845118139 139.1547655533263 0 35.615553042557565 139.15479836774807 0 35.615533594565484 139.15491421514025 0 35.61552659905791 139.1549524673071 0 35.61552198738148 139.15498186856672 0 35.61551677460344 139.15501657336134 0 35.615512472455336 139.15505292623268 0 35.61554582003292 139.15506108716662 0 35.61556085348631 139.15496895652964 0 35.61557811909368 139.15486571140121 0 35.615589187255026 139.15480217248 0 35.61559217655042 139.15478501181548 0 35.61561012388452 139.15467480660882 0 35.61562288178062 139.15460095764047 0 35.61562801829557 139.1545712248885 0 35.61563360390892 139.15453872456365 0 35.61566334250543 139.15436163677123 0 35.61562838802702 139.15433290099307 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_af6d1f41-bdba-4b06-84c5-f99b7c922b6f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61567592458519 139.1542567650917 0 35.61562339620539 139.15424684305032 0 35.6156224270116 139.15425183862797 0 35.61562234510814 139.15425226078946 0 35.61567410013243 139.15427125103258 0 35.61567592458519 139.1542567650917 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_54ec3f02-2ddf-42b6-ba50-acc21b3ea080">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61623262074998 139.1520903879072 0 35.616371131533604 139.15211725131235 0 35.61638150916852 139.15211937102833 0 35.61639378393907 139.1521222473584 0 35.616412756284355 139.1521280292231 0 35.61649915430738 139.15215435924887 0 35.61656944767215 139.15216778265395 0 35.616577747689796 139.15216936764855 0 35.61662427752249 139.1521728366268 0 35.61662272183516 139.15215275953963 0 35.61658070152326 139.15214968655891 0 35.61657943861892 139.15214959420172 0 35.616502289214736 139.15213490473462 0 35.616419151747934 139.15210956622346 0 35.61639727999275 139.15210290019184 0 35.6163843730512 139.15209980845378 0 35.616373725020644 139.15209769103322 0 35.616234853081494 139.15207072033826 0 35.61623262074998 139.1520903879072 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cec54821-f83f-44fa-88ad-1753f10679d3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61624334794713 139.1519949237622 0 35.61622548787459 139.15199191964754 0 35.61622113457146 139.1520307357968 0 35.61621698724654 139.1520677152373 0 35.61623485308112 139.15207072033812 0 35.61623963869417 139.15202802012087 0 35.61624334794713 139.1519949237622 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_10e4ff1f-6a63-4fb3-8ad2-be6f75945f49">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615918287339085 139.15066798091428 0 35.615854634481316 139.15062213061495 0 35.61584014068354 139.15065230799067 0 35.61580396495599 139.15072635259222 0 35.61577433637298 139.1507787060485 0 35.615846188614235 139.15082887270214 0 35.615886715199665 139.15074320070187 0 35.615918287339085 139.15066798091428 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3de7d8eb-4314-4c0d-96ee-352e8eb1c707">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6139981921811 139.1619096517836 0 35.614039893764875 139.16190400490865 0 35.61406664389591 139.16190035948748 0 35.61409799998431 139.16189833131133 0 35.61411153392886 139.16190075700732 0 35.614121203884885 139.16190531226923 0 35.61412944034026 139.16191142487133 0 35.6141338869465 139.16191679646727 0 35.61416668722287 139.16196365582476 0 35.614214495026566 139.1619538737696 0 35.61425876799984 139.16194058898725 0 35.614227153249416 139.1619123743924 0 35.6142137961638 139.16192551120295 0 35.61420615893326 139.16192987996038 0 35.614199316898585 139.16193137211656 0 35.61419444546608 139.1619306401467 0 35.614188933268586 139.16192814740583 0 35.61418124252661 139.1619229132999 0 35.6141693811099 139.16191329873595 0 35.61415288544046 139.1618969895524 0 35.614143834721034 139.16189033184116 0 35.614136688459965 139.16188575548802 0 35.61412710002361 139.16187965418726 0 35.61411879004292 139.16187652253802 0 35.61410841932896 139.16187561576749 0 35.61403884051424 139.16187674919263 0 35.61399777537203 139.16187754879184 0 35.6139981921811 139.1619096517836 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ae4bb037-55cc-4136-9243-881dea368ef4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.613998192180745 139.1619096517838 0 35.613962059781954 139.16192539036723 0 35.61398410067066 139.16200127671598 0 35.61399948725856 139.16206119628643 0 35.61400475145883 139.16208389112225 0 35.61405485185126 139.16227531764747 0 35.614092440777135 139.16242137119715 0 35.614127651829655 139.16240726898567 0 35.614114624654306 139.16235848852864 0 35.61408461890664 139.16224692141802 0 35.61408139420161 139.16223436472313 0 35.614070244766346 139.16219074630249 0 35.61403818032344 139.16206561944975 0 35.614028873440965 139.16202916055283 0 35.61402832157943 139.16202717827633 0 35.613998192180745 139.1619096517838 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f19ac6d6-9d21-4ec1-a252-ca62d420da0d">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61543426561404 139.15413658420727 0 35.61540581970438 139.15421700187787 0 35.61545274502068 139.15425866171526 0 35.61548354611726 139.15427742002427 0 35.61549082302549 139.15428185176793 0 35.61554460013636 139.15430777915049 0 35.61562838802702 139.15433290099304 0 35.61562234510784 139.15425226078975 0 35.61557413446238 139.15423842868432 0 35.61555887667748 139.15423403188788 0 35.61552779854096 139.15422137959249 0 35.61549246366957 139.15419853508683 0 35.61548229425184 139.15419196041532 0 35.61546553400393 139.1541768690307 0 35.615444559869545 139.15414978136195 0 35.61543426561404 139.15413658420727 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e3b1e0e2-9222-4014-a9f0-87b8c8af1c7f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61612098706514 139.15388309744347 0 35.616126439143436 139.15384597573453 0 35.61591960057077 139.15380224650892 0 35.61591439996325 139.1538390487651 0 35.61611429152778 139.15388162259887 0 35.61612098706514 139.15388309744347 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b0d6e408-eb34-442f-b665-4df5de601ba0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61665420178575 139.15326011226145 0 35.616529747074445 139.15323641195002 0 35.61651931707747 139.15323442573535 0 35.61641637141009 139.15321664205268 0 35.616229643863136 139.15317484135858 0 35.61622539710648 139.1532209081117 0 35.61643912139404 139.153270869697 0 35.61651694890095 139.15328687524567 0 35.616647397254624 139.15331370255728 0 35.61665420178575 139.15326011226145 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3ab172f2-0544-41d6-87d6-c74e9cdbf255">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61623262074998 139.1520903879072 0 35.61621478098956 139.15208738718783 0 35.61619845402221 139.15223296463196 0 35.616213344828225 139.15225215586005 0 35.616362198863726 139.15227398254024 0 35.616392684023516 139.15227845263243 0 35.61639481377465 139.15225657818212 0 35.61636951806806 139.1522528529029 0 35.616221878922815 139.15223111024457 0 35.61621743001865 139.1522254079133 0 35.61623262074998 139.1520903879072 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e3d5ae3b-09eb-428f-9879-6b698ba03936">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6145588230868 139.15790732248888 0 35.61455702127399 139.15792356398933 0 35.61463403805077 139.15794686972126 0 35.614689394706645 139.15796527993848 0 35.61469859986221 139.157967987134 0 35.61472442527967 139.15797558227828 0 35.6147559413263 139.1579860245544 0 35.614799464093736 139.15799978780274 0 35.61482267814586 139.15801034548437 0 35.61482901394039 139.1580132269859 0 35.61484519704346 139.15802192165162 0 35.61489166712887 139.1580469193083 0 35.61492846092775 139.1580662583641 0 35.61497664722156 139.15809190395044 0 35.61502690221349 139.15811675949243 0 35.61506180351849 139.15813228851906 0 35.6151169925823 139.15815684443325 0 35.615139719243714 139.15816791671747 0 35.61514676809703 139.15814621808207 0 35.61510827232094 139.1581287697729 0 35.615063722859134 139.15810872314285 0 35.61505329278907 139.15810365336668 0 35.61500813771166 139.15808170471598 0 35.614951823460636 139.15805325746376 0 35.6149501060055 139.15805238882865 0 35.61491874238983 139.15803697794814 0 35.61487029373145 139.1580127696073 0 35.61484670434511 139.15800137760462 0 35.6148330566888 139.15799475892035 0 35.61482662152289 139.15799229841895 0 35.61480198325963 139.15798287792262 0 35.614765953812174 139.15797125936353 0 35.614708569738546 139.1579513243736 0 35.61469894230001 139.15794797984412 0 35.61464585688266 139.15793275166337 0 35.6145588230868 139.15790732248888 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_30f3f293-3c18-4424-a47e-5c325b20e6c5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61522681508819 139.15747209091998 0 35.61521981654904 139.15752601731432 0 35.61521436730778 139.15756690532587 0 35.61519812015468 139.1576914450139 0 35.61518126692216 139.1578365212109 0 35.61517161603526 139.15793186391565 0 35.615162446664996 139.15803272175958 0 35.61515225933858 139.15814495770587 0 35.61518596681235 139.15814434326265 0 35.61519902146103 139.15801298669504 0 35.61521060312759 139.15789223935784 0 35.61522218343495 139.15777127122968 0 35.61522723655195 139.15774010037424 0 35.61524003856204 139.15762806305162 0 35.61524922951892 139.1575471844427 0 35.61525723099336 139.15747731485934 0 35.61522681508819 139.15747209091998 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2bcbd164-87ae-4a81-9d42-ab5ead65cead">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615440825515584 139.15566362642025 0 35.615475423296694 139.155668725133 0 35.615477169237316 139.15565095687055 0 35.615477852359696 139.15563173254577 0 35.61547810305628 139.15562467745923 0 35.615478427677694 139.15560226664755 0 35.615485211461724 139.15555838672998 0 35.61549244030015 139.15551350958853 0 35.61549883930493 139.1554653279024 0 35.61551125009213 139.15534821546294 0 35.615517041025925 139.15528742744334 0 35.61552103756863 139.15524547513576 0 35.61552880158491 139.15516758841525 0 35.61553924523708 139.15510137983287 0 35.61554344329299 139.15507565267697 0 35.61550975976751 139.15506740953478 0 35.6154988250058 139.1551584587713 0 35.615493341109854 139.15520906121787 0 35.61548633054214 139.1552606700049 0 35.615483226122635 139.15528426980373 0 35.61547829178884 139.1553217805359 0 35.61546907065691 139.1553970302594 0 35.615463978321486 139.155437142833 0 35.61545882068072 139.15548167133548 0 35.615454400843944 139.15552917399063 0 35.61544647805975 139.15561092540457 0 35.61544222632462 139.15565056611686 0 35.615440825515584 139.15566362642025 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f7c39dd2-0021-448a-a3a0-71162cee4fa3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615512472455336 139.15505292623268 0 35.61548510782618 139.15504344342656 0 35.615412938380835 139.15501667740196 0 35.615406760323445 139.15500800919074 0 35.61539474171785 139.155002591446 0 35.615393146687836 139.15500746183068 0 35.61534877788671 139.15498727952638 0 35.615346386932224 139.1549951624394 0 35.61539129369059 139.15501454208277 0 35.61539058568578 139.15501686613467 0 35.61540332472403 139.15502216741396 0 35.6154018322533 139.1550292446225 0 35.6155097597697 139.1550674095231 0 35.615512472455336 139.15505292623268 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5bbb8514-9cef-43bf-ba93-7ab3273a521d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6156055800683 139.1542417420571 0 35.61561331426689 139.15420122897774 0 35.61554553870378 139.15417045267654 0 35.615506366652056 139.1541450642183 0 35.61549507782325 139.1541387756364 0 35.61545717814063 139.1541176631629 0 35.615442338117674 139.15411071741585 0 35.61543427823406 139.15413654376886 0 35.61544008367725 139.15413922228933 0 35.615443969923255 139.15414106597086 0 35.615450865985736 139.15414917612597 0 35.61547146030495 139.15417284508572 0 35.615485053496066 139.15418575555216 0 35.615486445199096 139.15418663180915 0 35.61549304958957 139.15419079012716 0 35.61551415232012 139.15420407703076 0 35.61552259321217 139.1542093916683 0 35.615532543797435 139.1542157098615 0 35.61554222087615 139.1542214784449 0 35.61556010866005 139.15422872300815 0 35.615588363791495 139.15423681281393 0 35.6156055800683 139.1542417420571 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4ed0a593-9d6a-4aea-8a2c-a9e2c00f03e8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61578965705416 139.15320654643548 0 35.61576325318426 139.15320208127855 0 35.615761494914764 139.15321898868882 0 35.61574581203035 139.1533697932871 0 35.615728241724206 139.1535146566381 0 35.61570190865933 139.1537396830844 0 35.61568963177952 139.15384459259377 0 35.6156826501815 139.1538692674695 0 35.61566625823379 139.15398343365138 0 35.615638695267826 139.15417860630058 0 35.61568467454396 139.1541872912436 0 35.61569316687893 139.15411986258474 0 35.615721014191365 139.15381529592543 0 35.615725486379425 139.1537756358243 0 35.61578965705416 139.15320654643548 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_861b7bcc-12ff-4c6e-a2eb-abe5de9bbfd3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61615213060578 139.15367863013955 0 35.61613404207489 139.1537964529507 0 35.616165048767975 139.15380359228038 0 35.61618313249314 139.15368576831662 0 35.61616919317828 139.15368255879216 0 35.61615213060578 139.15367863013955 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a4d42dfd-70f8-4000-a08a-e80b692d9caf">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61525590436548 139.15174722760673 0 35.61527668903475 139.15174890704557 0 35.61538829964603 139.15175281704978 0 35.61540184064203 139.15175645523937 0 35.61541837284535 139.15176304843402 0 35.61549441370825 139.15179332665406 0 35.615535633619984 139.15180973976928 0 35.61554676821531 139.15176767455836 0 35.61551500941132 139.151755066882 0 35.615429492792956 139.15172111836742 0 35.61541133446888 139.15171387667053 0 35.6153951752791 139.15170948801082 0 35.61525945160943 139.15168138773276 0 35.61525590436548 139.15174722760673 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cb772eba-cfc8-4aa1-bca9-623c79ee7730">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615830805127466 139.15085604297187 0 35.61576426904137 139.15079954395506 0 35.6157374115901 139.15084736931234 0 35.615723845149745 139.1508715271959 0 35.61568457490493 139.15092440398672 0 35.6156611816818 139.1509503988394 0 35.61571769321266 139.1510266702291 0 35.61576365274325 139.15096126314873 0 35.61579823677747 139.15090853651589 0 35.6158028611929 139.15090148570354 0 35.61581905866678 139.1508767895222 0 35.615830805127466 139.15085604297187 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_04419def-36f7-43a7-8308-a9b71ace6f41">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6141031204174 139.16246157171997 0 35.61409244077637 139.1624213711972 0 35.614007325260175 139.1624489049577 0 35.61401602505987 139.16248967388654 0 35.6141031204174 139.16246157171997 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_070a0e92-1fe9-470f-b24c-af42f29a8fef">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61522681508819 139.15747209091998 0 35.61522809709987 139.15745960671276 0 35.61520957548313 139.15745181486866 0 35.61519085131045 139.15744005090022 0 35.615169400269345 139.15742422566427 0 35.61514503899829 139.15740378878772 0 35.61512909095129 139.15738880034237 0 35.61511494801713 139.15737423825115 0 35.615104394874805 139.15735688635766 0 35.6150962136461 139.15734459217845 0 35.615092628522895 139.1573321489438 0 35.615090506564925 139.1573234464569 0 35.61508953220622 139.15727830756896 0 35.615089154220065 139.1572521312973 0 35.61508894251411 139.15723747042392 0 35.61508958614557 139.15722366699796 0 35.615089879777834 139.15721174304673 0 35.61507387421876 139.1572120141507 0 35.61507465815509 139.15728142729944 0 35.615075054377364 139.15731651190106 0 35.61507812100555 139.15733293332127 0 35.61508341677659 139.1573450310076 0 35.61509267834926 139.1573570953266 0 35.61510594721397 139.1573765216655 0 35.615121005089975 139.157393504508 0 35.61514311863866 139.15741495374397 0 35.61517155318022 139.15743844711145 0 35.61519951167144 139.1574574187471 0 35.61522681508819 139.15747209091998 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7b2b03d7-a00a-4f84-90ec-4bb3ab1b99d7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61574613631978 139.152210643629 0 35.61559669705574 139.15218364675908 0 35.61557897407566 139.15236547537762 0 35.61557642054131 139.15239167308155 0 35.61557241952377 139.15243332202758 0 35.6157060377905 139.15244931882458 0 35.6157078557799 139.15242654448937 0 35.6157254529687 139.15238235175994 0 35.61574613631978 139.152210643629 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_62aea1c0-2225-4c18-8aaf-efaef37c69ed">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615420511286835 139.150405632293 0 35.61543847503186 139.15041033650445 0 35.6154680121848 139.15042341495752 0 35.615551970794364 139.15046059018445 0 35.61558322712913 139.15047361108694 0 35.6156654496454 139.15050786375764 0 35.615693234841274 139.15054976668176 0 35.615739180129275 139.15061905699807 0 35.615742957723384 139.15071307285032 0 35.61575568160176 139.15077930608464 0 35.61577279412806 139.1507769529928 0 35.61576179150669 139.15071225050838 0 35.61575938131564 139.15066866893406 0 35.615767195466226 139.15061605929267 0 35.61574968495306 139.15059589727446 0 35.61570889927155 139.15053338782687 0 35.615671397814225 139.15047591198632 0 35.615639393583756 139.15045896399667 0 35.61559510765994 139.15043792580042 0 35.61559942589205 139.15042055869165 0 35.615590698597465 139.1504172510573 0 35.61544915779909 139.15036360736514 0 35.61542879225149 139.15035588887756 0 35.615420511286835 139.150405632293 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9188ae03-6d64-40b0-8c8f-8916f370d2c8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615386045903925 139.15642549887303 0 35.61535493713216 139.15641927013635 0 35.615353293461254 139.15643153665766 0 35.61534317093473 139.15650690412053 0 35.615334605015306 139.15657055770495 0 35.61532657923334 139.156634096342 0 35.61531915954547 139.1566932144863 0 35.61531424270147 139.1567325527376 0 35.61530352224059 139.15681889864774 0 35.61529854774131 139.15685896462702 0 35.615297944706064 139.15686393700096 0 35.615277689476045 139.15702902174812 0 35.61526967646106 139.15709487825944 0 35.61526246654388 139.15715929300245 0 35.6152538621754 139.15723221906083 0 35.61524536647413 139.15730845571818 0 35.615237372502754 139.1573777339287 0 35.6152280971012 139.157459606713 0 35.61525865783402 139.15746485552162 0 35.61526237639628 139.15743238455076 0 35.615270892611996 139.1573597903998 0 35.615288646903004 139.15719870063145 0 35.61529930166732 139.1571056673257 0 35.615320959453655 139.1569335061428 0 35.61533524062616 139.15682818955977 0 35.61534736515347 139.1567302924891 0 35.61534843330527 139.15672166787874 0 35.61537516960635 139.15650696569037 0 35.615386045903925 139.15642549887303 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_60784cb7-7740-4826-864c-7d19b5105a71">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61547047461631 139.1557164225426 0 35.615436133959264 139.15571091067568 0 35.61543451084629 139.15572681973967 0 35.615428677356356 139.1557794119788 0 35.61542176460875 139.15584846060577 0 35.61541303600573 139.15593121221198 0 35.6154097953043 139.15596402373572 0 35.61540859923649 139.15597573457788 0 35.615404288730375 139.15601065242316 0 35.615401876728825 139.15603054196788 0 35.615397156497664 139.15607274863777 0 35.615395528993695 139.15608788503272 0 35.61539017595815 139.15612976587693 0 35.61538754379199 139.1561585984131 0 35.61537902644186 139.15623086164734 0 35.61537856044586 139.15623509135298 0 35.61537147941008 139.15629936361788 0 35.615400853154355 139.15630468008317 0 35.61540192537123 139.15629579550188 0 35.61541814117964 139.15618106606343 0 35.615421950586686 139.15615411377993 0 35.61543807234367 139.15603961949677 0 35.61544827927326 139.1559472519545 0 35.61545883500231 139.15583677837813 0 35.61546802177057 139.15573934170098 0 35.61547047461631 139.1557164225426 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a273daef-c93f-4629-a175-8bd39411dddd">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61544082550511 139.1556636265178 0 35.61542679806077 139.15565872220543 0 35.61525369545703 139.15559820175616 0 35.61524886486411 139.15562076090103 0 35.615224618600074 139.15573300545086 0 35.61521021116067 139.15573555542232 0 35.615165513953094 139.15572136170536 0 35.61512894412997 139.15570985905458 0 35.61505183060812 139.1556854523109 0 35.61504392856718 139.15572282875655 0 35.615207567344214 139.15577461724834 0 35.61520835911225 139.15577486782806 0 35.61525464405367 139.15576686094903 0 35.61525880291276 139.15574753192647 0 35.615279151431814 139.15565295839963 0 35.61537250817078 139.15568742230585 0 35.61543613396006 139.15571091067557 0 35.61544082550511 139.1556636265178 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0a313482-2abb-4751-ba87-9a0a62aab05c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61533562670483 139.15499024174818 0 35.61533412838118 139.1549951555619 0 35.615329248809445 139.1550089948117 0 35.61532259456293 139.15502781634098 0 35.615314608188996 139.15506618714744 0 35.61526890378756 139.1552642564161 0 35.61526744565017 139.15527057552237 0 35.61526470250008 139.15527965018777 0 35.61526132283582 139.15528773676604 0 35.615227050110086 139.15534807505867 0 35.61517090682644 139.15544623885646 0 35.61515429010388 139.1554726504958 0 35.61514010445138 139.15549860007596 0 35.615132252953806 139.15551290587308 0 35.61512117471548 139.15553044003036 0 35.61511447071159 139.15554043116012 0 35.61510667022235 139.15554778232087 0 35.61510074759929 139.15555246841947 0 35.61509436748665 139.1555559441523 0 35.615086533466794 139.15555733485334 0 35.615054850519826 139.15556532902957 0 35.61503253631733 139.15557236108936 0 35.61499924775988 139.15558334916554 0 35.6149877301306 139.15558686823238 0 35.614979548621534 139.15559057992206 0 35.61497281480988 139.1555952728532 0 35.61496806265702 139.15559972829845 0 35.61496592743209 139.1556047135864 0 35.61496516901955 139.15561410261512 0 35.61496104745947 139.1556665697299 0 35.61496104932193 139.15566690086584 0 35.614950943158334 139.15577714921832 0 35.61494577221948 139.15583536512665 0 35.61495271547576 139.15583585849313 0 35.6149656558652 139.15568463381564 0 35.61497185181484 139.15561636430215 0 35.61497289117798 139.15560884942894 0 35.61497557278204 139.15560485298658 0 35.61498131328105 139.15559983728392 0 35.61498706433488 139.15559669801814 0 35.6150308722426 139.15558098507867 0 35.615048058864645 139.15557576242355 0 35.61506182916877 139.155572113964 0 35.61508406379479 139.1555669591017 0 35.61509666548907 139.15556387241816 0 35.61510664715043 139.15555970399677 0 35.615115086014434 139.15555367206068 0 35.615130304111865 139.1555349991394 0 35.6151411218906 139.15551923332436 0 35.61514890002323 139.1555079085171 0 35.61516292404371 139.15548527182435 0 35.61519561048689 139.15543134930786 0 35.61526049164435 139.15531622292949 0 35.61527182658055 139.15529625809086 0 35.615275660010404 139.1552887196037 0 35.61527866796608 139.15527864924348 0 35.61528195116391 139.15526547477535 0 35.61528580775629 139.1552499994415 0 35.61530165191166 139.15518242087091 0 35.61530667076241 139.1551612950929 0 35.615321981532745 139.15509504560322 0 35.61533290374049 139.15504980617672 0 35.615346386932224 139.1549951624394 0 35.61533562670483 139.15499024174818 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a1b0cb0b-b343-4610-b014-dd3625273e60">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61523939989664 139.15470785248695 0 35.61524354903532 139.15467635792234 0 35.61525109519601 139.15463986736387 0 35.61526082067616 139.15460622837819 0 35.6152710987525 139.15457468201737 0 35.61528371216389 139.15454168092052 0 35.615308715207 139.15448395941345 0 35.615333999812755 139.1544282224102 0 35.61535282600134 139.15437805917531 0 35.61535911995555 139.15435716955565 0 35.61538680274431 139.15426529025987 0 35.615316177144926 139.154247583922 0 35.61530470530788 139.15431620908598 0 35.615288340072546 139.15437120841662 0 35.61521764553376 139.15454223913468 0 35.615209393238814 139.15456537916225 0 35.61519699179579 139.15460400802823 0 35.6151892411332 139.15463619530948 0 35.61518300902478 139.15466594130424 0 35.615179272001406 139.15469058854535 0 35.61523939989664 139.15470785248695 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4add713e-843e-440f-ac54-24d21da7817f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61569450016257 139.15283861403066 0 35.61567946507053 139.15288072827576 0 35.615766659873664 139.152927414621 0 35.615764737688025 139.1529541440639 0 35.61575143855731 139.1531322663496 0 35.615768277872895 139.1531341519779 0 35.6157881313012 139.1528988638225 0 35.61578166586665 139.1528872177746 0 35.61569450016257 139.15283861403066 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b179ce9d-90ff-43a2-aeda-20b2ee4f1330">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61577495261088 139.15313497854305 0 35.61579741225261 139.15313776877403 0 35.61581836446585 139.1528895561773 0 35.61580133464866 139.15285868222915 0 35.61579084632063 139.15285292066403 0 35.61578359000367 139.15282891819916 0 35.61573593469034 139.15280172564252 0 35.61571561665255 139.15281105970496 0 35.61570794582954 139.15279346310146 0 35.61571193179684 139.15274379180642 0 35.6157182192462 139.1526654399683 0 35.61573359121625 139.15247295593593 0 35.6157349711097 139.1524556770572 0 35.615747051887325 139.15245612659263 0 35.61574761699531 139.1524285255672 0 35.61571462065392 139.15242737023124 0 35.61571216748841 139.1524580634174 0 35.61568949223505 139.15274176387342 0 35.615684903264594 139.15279917754185 0 35.6156993317434 139.1528322811657 0 35.61578622518504 139.15288055605708 0 35.615795059604956 139.1528967078253 0 35.61577495261088 139.15313497854305 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3f12b46a-84b4-477e-94fa-e1a5f0faa88f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61617059668667 139.15364133836587 0 35.61618930582051 139.15364564613063 0 35.61619522307546 139.15360717682233 0 35.616205304075365 139.15354163794234 0 35.61619434722101 139.15353912058762 0 35.61617425701096 139.1535345048317 0 35.61615829072695 139.15363850492835 0 35.61617059668667 139.15364133836587 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_57c99ce2-6632-47de-9a1e-da30ef4ab95b">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61515657353862 139.15175054274724 0 35.61514030441305 139.15181110654328 0 35.6151865690659 139.1518333020802 0 35.61519989117735 139.1517916561291 0 35.615206596266326 139.15177069547974 0 35.61515657353862 139.15175054274724 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_df04f0b5-9f13-40f0-9a32-bf7286cb308c">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615245485965865 139.15165048825557 0 35.6152547174857 139.15162188765038 0 35.61525841912809 139.15161041941045 0 35.61526633561951 139.1515873580464 0 35.61520375426373 139.15155513926672 0 35.61520296181541 139.15155845751744 0 35.6151862150113 139.1516295481776 0 35.615245485965865 139.15165048825557 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e20399c9-dfcd-4584-a0b2-32a2664bc9fa">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61571769321272 139.15102667022947 0 35.615723748655725 139.1510589216759 0 35.61574866266386 139.1510519061205 0 35.61576154400415 139.15105047210153 0 35.6157729006053 139.15105037565118 0 35.61578156200459 139.1510518474806 0 35.615786979285765 139.15105345724712 0 35.61585842664 139.15107989479992 0 35.615866178845145 139.15104814844128 0 35.61579409993696 139.1510216058933 0 35.61578669600628 139.15101935069202 0 35.615774695981166 139.1510172449122 0 35.615760184768696 139.1510173681603 0 35.615744330956204 139.15101915858529 0 35.61571769321272 139.15102667022947 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f0cb3dc8-8791-4490-b517-0de412dc7b9e">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615624097106085 139.15099160765612 0 35.615617306050815 139.15099915395072 0 35.61551201503828 139.15110844592186 0 35.615437174996536 139.15118325985762 0 35.615386327148784 139.1512356055195 0 35.61531046103248 139.15131370623843 0 35.615262394990005 139.15138917559568 0 35.61524207109661 139.15142930721052 0 35.615226461081384 139.15145824998982 0 35.615212132892694 139.151490714173 0 35.61520016623507 139.1515263594441 0 35.61527419248163 139.15156447036998 0 35.61528182918014 139.15154222403137 0 35.615296544952805 139.15149860772343 0 35.61533270475051 139.1514375894278 0 35.61538392839191 139.15137854050892 0 35.61548242012923 139.15127785454334 0 35.61551916120035 139.15124029485716 0 35.615548271552754 139.15120781537618 0 35.615650209658 139.15110158688887 0 35.615668524655995 139.15108250100778 0 35.61567792848782 139.1510718242015 0 35.615624097106085 139.15099160765612 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_dd496562-0254-44c7-a778-58b98abd5af3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61507380037742 139.15720547609695 0 35.615077460173744 139.15718303733067 0 35.61497783626432 139.15716279246732 0 35.61498082207345 139.1571166268566 0 35.61498074835324 139.1571034917901 0 35.61497935239003 139.15709566628186 0 35.61497553215833 139.15708951693887 0 35.61497145701868 139.15708612933994 0 35.61496612746689 139.15708407690727 0 35.614915150914484 139.15707523376116 0 35.61490042405399 139.15707197836306 0 35.61481317054677 139.1570526908479 0 35.61480615668097 139.15705089444347 0 35.614768940252084 139.15704136250724 0 35.61473725291338 139.15703327601398 0 35.61473167244078 139.15706607099887 0 35.61480818295701 139.15707944568499 0 35.61481145383909 139.15708015320843 0 35.61490083868006 139.15709948803507 0 35.61494129536965 139.15710823923175 0 35.61495443945097 139.15712148504562 0 35.61495070687453 139.15717913685 0 35.61507380037742 139.15720547609695 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f4e4c469-a318-463d-ba59-ca6229b65795">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61509353152274 139.15718786935233 0 35.61509558938366 139.15716908673892 0 35.61509584646243 139.15715065043335 0 35.615096441764585 139.1571282374539 0 35.61509558937698 139.15710484320306 0 35.61509307743934 139.15707483987742 0 35.61509064881094 139.15704362162768 0 35.615086629980695 139.15698603497435 0 35.615063583770215 139.1569750802082 0 35.61507049980246 139.15700283876185 0 35.61507579749658 139.15704738932078 0 35.6150790236812 139.1570761724021 0 35.615080795358814 139.15710276004756 0 35.615081566907136 139.1571278107355 0 35.61508124076173 139.15715000067723 0 35.615079997187905 139.15716932835474 0 35.61507746017451 139.15718303733067 0 35.61509353152274 139.15718786935233 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f86ef346-3863-4c58-8809-a5c932582ef6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615338028812104 139.15498236393725 0 35.615348595484214 139.15498719611304 0 35.61536659706119 139.1549186057606 0 35.61539105204091 139.15482755282764 0 35.615391277059715 139.15481949286075 0 35.61538621040746 139.15481611373457 0 35.61533818878439 139.15478781937583 0 35.615336421200766 139.15478677567714 0 35.61532362845041 139.15477922198974 0 35.61529595734978 139.15476333959518 0 35.61527959189076 139.15475431592796 0 35.61523655734543 139.15473127796184 0 35.61523491571118 139.15474387563356 0 35.61527287551932 139.15476209956017 0 35.615295202111575 139.15477328056483 0 35.61533176463749 139.1547936189654 0 35.615342310609044 139.15479948530876 0 35.615377767852216 139.15482148349315 0 35.615380302110694 139.15482333862502 0 35.61538094919505 139.15482620315575 0 35.61538034002799 139.15483007175663 0 35.61537786171268 139.15483815075285 0 35.61534350959138 139.15496438948512 0 35.615338028812104 139.15498236393725 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_63a782fb-5006-4e7f-8c56-8746762468b3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61567797246866 139.1528008920259 0 35.615682741316995 139.15274115377215 0 35.615698292381744 139.15254634657094 0 35.6156538802489 139.15254102948518 0 35.61564814070289 139.15265786525066 0 35.61564306750543 139.15273756832954 0 35.61564035856253 139.1527801271591 0 35.61563870625837 139.15279374857317 0 35.61567797246866 139.1528008920259 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_92208fba-eb2c-4aea-83da-b749f95559ea">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61516091879731 139.15266740217677 0 35.61522037057329 139.15264471123848 0 35.61522667576708 139.1526279897968 0 35.615389548580694 139.1525744347503 0 35.615538868044816 139.1525253360467 0 35.615521569774096 139.15245109005005 0 35.615372705021485 139.1525031065345 0 35.615141465409266 139.15258390612215 0 35.61516091879731 139.15266740217677 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e127e234-9c0f-4b87-a538-ed05bc3c2d9f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61516091879731 139.15266740217677 0 35.61510043803798 139.15269432021753 0 35.61513771403772 139.15281992884914 0 35.615140070742505 139.15282791344993 0 35.61520375980447 139.15279972100944 0 35.61516787419329 139.1526888845887 0 35.61516091879731 139.15266740217677 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ffca3200-fac9-4ab6-bf18-02859b1decca">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6151759903634 139.15157071828028 0 35.61517186222 139.15158984976986 0 35.615181621433095 139.15159418231937 0 35.615187102178346 139.15157514973342 0 35.615193997546946 139.15155124823602 0 35.61520016623507 139.1515263594441 0 35.61519158247967 139.1515226792307 0 35.61517843079093 139.15157191179563 0 35.6151759903634 139.15157071828028 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_581c164b-55a8-4e55-8f9f-30bcef671efc">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6146712843466 139.15741960645488 0 35.6146727794916 139.15741339170336 0 35.61467925605144 139.15737889755812 0 35.61468703999137 139.1573364447932 0 35.61469225530189 139.1573020716324 0 35.61469752605079 139.1572615165226 0 35.61470040100772 139.15722771496596 0 35.61470296126412 139.1572020844376 0 35.61470611155553 139.1571691636277 0 35.614707789683884 139.15714696241048 0 35.61472491969769 139.15714770130145 0 35.61473167244079 139.1570660709988 0 35.61465386591087 139.15705599749572 0 35.614650783888635 139.15709169855555 0 35.61464659075311 139.1571475878839 0 35.614642345561116 139.15719420543417 0 35.61464016565416 139.15722336501304 0 35.61463488129203 139.1572614917748 0 35.614630289772364 139.157310651046 0 35.61461203279965 139.15739822833925 0 35.6146712843466 139.15741960645488 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_116d5905-f20f-47f1-91e3-5569f27a03f8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61504288243208 139.15633844915774 0 35.61512397237772 139.1563486938524 0 35.61515672559531 139.15635470974684 0 35.615263936732106 139.15639154524447 0 35.61533797869915 139.15641698456972 0 35.61535493713216 139.15641927013635 0 35.61536590517496 139.15629860374017 0 35.61533510514304 139.15629440509267 0 35.615222009348166 139.15627898794742 0 35.615191427975844 139.15627449915473 0 35.61516518285689 139.15627173996725 0 35.615130461621064 139.15626838991108 0 35.61511242532426 139.15626677577052 0 35.61509339695661 139.15626505960742 0 35.61507048919713 139.1562627138355 0 35.61504405167619 139.15626210658925 0 35.61504288243208 139.15633844915774 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0bf65d22-eeb6-4a24-bd42-b91ab6aab0f9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61523491571044 139.15474387563924 0 35.61517536925835 139.1547399403045 0 35.61517380137076 139.15477552018623 0 35.61517368886832 139.15480355871622 0 35.61517272663418 139.1548247606041 0 35.615171558026454 139.15484132809925 0 35.615169506744934 139.15486121457343 0 35.61515485624914 139.15491664075836 0 35.6152093810084 139.1549473086705 0 35.61521647844386 139.15492715880808 0 35.61522458660405 139.1548944166031 0 35.61522729864798 139.1548798229797 0 35.6152305309697 139.15486158228117 0 35.61523168590539 139.154842586436 0 35.61523205700172 139.1548124484009 0 35.61523251324923 139.15478142657236 0 35.61523491571044 139.15474387563924 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_40fadc53-08fa-4a2a-a887-de1b235a0265">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61529983320337 139.15404400494958 0 35.61535552281989 139.15400664907497 0 35.6153518580391 139.15399845536075 0 35.61532641311847 139.1537859598328 0 35.61531576856464 139.15368356380063 0 35.61531392783673 139.15366585687704 0 35.615249282935025 139.1536767626835 0 35.61525708477821 139.15374611994574 0 35.61527280477207 139.1538858695444 0 35.61527922284081 139.15392746443837 0 35.61529282554116 139.1540156225761 0 35.615296700692994 139.15403148515284 0 35.61529983320337 139.15404400494958 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1982e3fa-27b6-40fc-a2f7-ad29ddb0e6ea">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61563631065306 139.15281349765672 0 35.61556768633781 139.1528240135893 0 35.61545711448108 139.15286038365252 0 35.61544287300772 139.1528662263067 0 35.615387109278245 139.15288910370631 0 35.615272492803335 139.15293612568436 0 35.61526112837953 139.15294001111673 0 35.615269106936076 139.15297500962998 0 35.615377852433106 139.1529328411757 0 35.61544804328497 139.15290562306618 0 35.61550366825318 139.15288405317494 0 35.615517166827296 139.15288018576484 0 35.615532384762545 139.15287751802143 0 35.61557579275349 139.15287085842382 0 35.6156266196033 139.1528691032941 0 35.615643118708554 139.15286984662174 0 35.61563631065306 139.15281349765672 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7cb75d6b-a598-497a-84cc-76c2d4f838b8">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61508050199576 139.15197895603805 0 35.615053350213266 139.15207091540833 0 35.61502831819229 139.15217113553987 0 35.61501391755539 139.15225459750843 0 35.615011360441585 139.15228197313238 0 35.61500601321207 139.1523392186038 0 35.61507312328179 139.1523285745697 0 35.61507078985437 139.15230180125698 0 35.615071744443064 139.1522633795281 0 35.615072272967225 139.15225711335214 0 35.61507427868159 139.15223333359134 0 35.615080024585126 139.15219741006993 0 35.615085462993136 139.15217087179337 0 35.61509447796034 139.15213922552138 0 35.61513567273142 139.15200419940038 0 35.61508050199576 139.15197895603805 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_641c1436-c5f3-4072-a8e2-8663d2aa9f84">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615136871913116 139.15180981105308 0 35.61514697089119 139.1517308007401 0 35.61515711888272 139.15167862820056 0 35.61516142299587 139.1516564999882 0 35.61516549357614 139.1516305110099 0 35.615171862220045 139.15158984976955 0 35.6151260540358 139.15158085090272 0 35.615120234428126 139.15162527963355 0 35.61510954248258 139.15167912739795 0 35.61508982728702 139.1517470764666 0 35.61507893935746 139.15178460200187 0 35.615136871913116 139.15180981105308 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_61d409a7-9df8-438e-a2fe-16a836e5f3c9">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61471765240828 139.15702523671314 0 35.614724148924175 139.1569461473877 0 35.61473000055734 139.15688064065995 0 35.614731270733714 139.15686605933254 0 35.61473813236713 139.1568038555959 0 35.61474641996268 139.15673876986625 0 35.614747989970084 139.15672961441027 0 35.614758987980494 139.15666547968365 0 35.61477579339144 139.15659237455168 0 35.61477852362223 139.15658098203815 0 35.614784776819235 139.1565486102701 0 35.614786319059725 139.15654062633814 0 35.614793851303304 139.15651760308276 0 35.61480647499465 139.15645424688537 0 35.614810622112515 139.15642231105946 0 35.61481209358157 139.15641148105993 0 35.61482229812386 139.1563346784057 0 35.614702740532564 139.15634085494372 0 35.61470363208008 139.15635841738776 0 35.61470524762631 139.15640531677903 0 35.61470477647912 139.1564498053155 0 35.614704094835986 139.1564871659336 0 35.61470381164836 139.15650268715973 0 35.614701984996465 139.1565305192 0 35.61470115249979 139.1565427787857 0 35.61469958902683 139.15655327839238 0 35.61469587765354 139.1565825612923 0 35.6146912076797 139.15661770259092 0 35.61467433765018 139.15672745550677 0 35.61469022503445 139.15673162666252 0 35.61468333394987 139.15677252659782 0 35.61467838918637 139.15680689750974 0 35.614673393944244 139.15684833338656 0 35.614668128292145 139.15688977153513 0 35.6146644880979 139.15693174791056 0 35.61465958575421 139.15698974051298 0 35.61465719713022 139.15701740968322 0 35.61471765240828 139.15702523671314 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9ca8f67c-e4a9-4f63-9fd3-54d65efec236">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61506667613645 139.156953364261 0 35.61506358377034 139.15697508020736 0 35.61507239219391 139.1569545850011 0 35.61506667613645 139.156953364261 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ff9d0a3e-2b93-4944-a2fa-4dfbf17bc21f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61506667613645 139.156953364261 0 35.614999294285845 139.15693897398336 0 35.61499617160822 139.15696074591125 0 35.61506358377034 139.15697508020736 0 35.61506667613645 139.156953364261 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_994b7d69-a1a2-4432-9196-8d357b096422">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615086629986585 139.15698603497717 0 35.615134424988696 139.1570061640471 0 35.61514025720683 139.15698536272944 0 35.615083787847496 139.1569614432552 0 35.615086629986585 139.15698603497717 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_16f771e6-e1c1-4485-a9db-e096027bf467">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61523885479798 139.1539972733677 0 35.615226238381 139.15404008961647 0 35.61526587153807 139.15405789508497 0 35.615272891163414 139.1540610487019 0 35.615291819758994 139.15406985046187 0 35.61529983320337 139.15404400494958 0 35.61529667279291 139.15404252382234 0 35.61529531770409 139.1540419833586 0 35.61528915378538 139.1540198482282 0 35.61524830424888 139.1540015144058 0 35.61523885479798 139.1539972733677 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">6</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7191cc51-b0d7-4f55-bb9d-7c66c33c3fb8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61531922062654 139.15362779024233 0 35.61531392783673 139.15366585687704 0 35.615329353628354 139.15366908228302 0 35.615417436043494 139.15368749961385 0 35.61542271926722 139.1536493722634 0 35.6153600940324 139.15363631334975 0 35.61531922062654 139.15362779024233 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_043b5f62-41a4-4b8d-8028-df6fc36bc687">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614503312764775 139.15789366011265 0 35.61455882308713 139.15790732248584 0 35.61456921670749 139.1578640752125 0 35.61458058319848 139.15781750824365 0 35.61458137458255 139.15781396932127 0 35.6146210777328 139.1576448592126 0 35.614638463282176 139.15756258770003 0 35.61464432356201 139.15753623111303 0 35.61465710195325 139.15747876024156 0 35.61465886248834 139.15747123935412 0 35.61466429258144 139.15744866855366 0 35.61460661057182 139.15742785671372 0 35.6145863379513 139.15751852318704 0 35.61455473161366 139.1576598774295 0 35.61453925091447 139.15772822451865 0 35.614503312764775 139.15789366011265 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4d4380ac-f4cf-4b26-a2e3-4426afcb9974">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61461203279965 139.15739822833925 0 35.61461496882203 139.15735923828848 0 35.61461581440676 139.15734929666553 0 35.61461603092533 139.1573396914858 0 35.614614826388696 139.1573338512996 0 35.614610392586016 139.15733079787128 0 35.6146060643974 139.15733050313995 0 35.614583698683575 139.1573283732817 0 35.614576852994965 139.1573292035674 0 35.61457235692835 139.15733111791607 0 35.61456903195702 139.15733291202721 0 35.61456698369494 139.15733734459624 0 35.614557973545395 139.15737009388 0 35.61455487218457 139.1573796129417 0 35.614566531399156 139.1573852547789 0 35.61457051054783 139.15737153376276 0 35.61457927197684 139.15734264998488 0 35.61460506394086 139.15734497178477 0 35.61460141751386 139.15739711504312 0 35.61461203279965 139.15739822833925 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a820a163-a4f0-4b2a-af3c-5acc98790d6b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61508378784744 139.15696144325477 0 35.61507292748333 139.15684121607566 0 35.6150724448641 139.15681947448212 0 35.61507272977949 139.15680600522896 0 35.6150811724769 139.15672038648657 0 35.61507043748634 139.15671882113688 0 35.615061908376695 139.15680510289988 0 35.615061628419504 139.15681945518173 0 35.61506211599667 139.1568420798029 0 35.615072392195145 139.15695458500102 0 35.61508378784744 139.15696144325477 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8a3c435f-2059-4deb-95dc-1cb8e9eef4c5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61483659336795 139.15633280601062 0 35.61493308403427 139.1563201676174 0 35.6149759574518 139.156330623945 0 35.6149674102866 139.15626838573561 0 35.6149643442547 139.1562690172106 0 35.614919318019 139.15627646124184 0 35.61486659335843 139.15627734711683 0 35.61483180431946 139.15627797145362 0 35.61483659336795 139.15633280601062 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_58de4520-e393-4473-aa0f-cf67cd9b17ab">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61505452728318 139.15396294743803 0 35.61511306220118 139.15398924454084 0 35.61516808599197 139.15401396428905 0 35.615226238381 139.15404008961647 0 35.61523885479798 139.1539972733677 0 35.61517338469387 139.153967889551 0 35.61513121379902 139.15394896274293 0 35.61506730820688 139.15392028117947 0 35.61505452728318 139.15396294743803 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2112f0cc-8f22-4c77-a631-8e246afa737a">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61529714022327 139.15342227029674 0 35.615290653186975 139.15334484283392 0 35.61528573595878 139.15328615256797 0 35.61528479448271 139.15311936984025 0 35.61527808166371 139.1530639033731 0 35.615260622948604 139.15298898989846 0 35.61519590131957 139.1530202248034 0 35.615200650733954 139.15304722871244 0 35.61520517960248 139.15308306522857 0 35.61520708137694 139.15314850695947 0 35.615206009798136 139.1531981889242 0 35.61520319121652 139.15322580883654 0 35.6151955437221 139.15327620876843 0 35.61518305899119 139.1533319480754 0 35.615173431649964 139.15336749648515 0 35.61529714022327 139.15342227029674 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_289d116d-1e21-4fd6-ace9-043916a5a650">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61522299082741 139.15283730950975 0 35.6152702542701 139.15281107924162 0 35.61525941422454 139.15277496502333 0 35.615210900232675 139.1527965448336 0 35.61522299082741 139.15283730950975 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ee234c05-253b-4901-812f-8ad1b2a8f5c2">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615075254645035 139.1523513917332 0 35.61500749495108 139.15236216590054 0 35.61501697660054 139.15241308291087 0 35.6150758512247 139.15261147053826 0 35.615124336306216 139.1525898913418 0 35.6150910683772 139.15246091352498 0 35.61508245033285 139.15241926140075 0 35.615075254645035 139.1523513917332 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7def73c6-956f-4af9-b3b4-c488e675bdd8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6151759903627 139.15157071827983 0 35.61518395332075 139.151512478251 0 35.61519194043387 139.15147443830924 0 35.61520563787081 139.15142608416156 0 35.615217257091004 139.15139275989088 0 35.61526922098636 139.15128933026588 0 35.6153017310393 139.15122050559924 0 35.61531148032843 139.15120269782926 0 35.61532358835189 139.15118058165035 0 35.615337494681626 139.15113730328105 0 35.61535316550476 139.15108727646452 0 35.61536461261541 139.1510394931884 0 35.61536914194754 139.15101163784917 0 35.615370891903204 139.15093865888807 0 35.61536699911445 139.15087696561176 0 35.615358117573734 139.15073621202788 0 35.61539066154617 139.15056208001974 0 35.61542051128606 139.1504056322927 0 35.615371731903416 139.15038695045303 0 35.61536203196473 139.1504407901145 0 35.61533498883504 139.15058352620193 0 35.61531553810026 139.1506822647175 0 35.615310242684515 139.15071807423715 0 35.61530649895812 139.15085277492372 0 35.61530811102332 139.1508986811093 0 35.61530914791457 139.1509331456455 0 35.615310109742595 139.15096511549822 0 35.61530634624321 139.1510327026724 0 35.61529674064931 139.15107141876211 0 35.61526606130326 139.15116109056586 0 35.615258364637576 139.15117934464243 0 35.6151779198234 139.15137013389935 0 35.61515527437483 139.1514141486265 0 35.615148016996756 139.15143864649514 0 35.61514678352331 139.15144281018283 0 35.615139848017584 139.15147554274398 0 35.615128600709056 139.1515614087498 0 35.6151759903627 139.15157071827983 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_51d1c01a-6227-41aa-abed-a6d327244e70">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61502570115257 139.15636067073746 0 35.614991067537424 139.15635680837426 0 35.614986290364726 139.1564210516902 0 35.61498297591928 139.15647284967662 0 35.61497657425201 139.15650458379488 0 35.61496457385998 139.15653448854746 0 35.615010302958936 139.15653984327426 0 35.6150200337588 139.15647496590626 0 35.61502309331243 139.1564259296431 0 35.61502570115257 139.15636067073746 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7cebd438-1acc-4509-b0e1-cbdf098547f4">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615241144717665 139.15362278823682 0 35.61530696588376 139.15359813978748 0 35.615305812623724 139.15358425428235 0 35.61522320914584 139.15359454346904 0 35.615234888394234 139.153608318053 0 35.61523863492413 139.1536127367367 0 35.615241144717665 139.15362278823682 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f677ed8e-c5d7-486f-ba74-234466c52bcf">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615155298774454 139.1528795066258 0 35.61518296830806 139.1529732523433 0 35.61524766317617 139.15294461479223 0 35.61521811462182 139.15285170076223 0 35.615155298774454 139.1528795066258 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b8685aa4-c770-448e-8007-aecff9ab6d01">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61494736218131 139.152042897436 0 35.61492934000142 139.15204205299256 0 35.61492910892664 139.1520490091325 0 35.614927940440566 139.1520814718829 0 35.614926525889175 139.15211824168762 0 35.614926135764485 139.1521289522254 0 35.6149251107025 139.15215490111274 0 35.61492532591192 139.1521610807814 0 35.61492620921067 139.15218977308342 0 35.61492951732524 139.15221689945488 0 35.61494116675978 139.15231062071175 0 35.614943209739806 139.15232705682217 0 35.614944224896824 139.15233124280283 0 35.61494623399888 139.15233586189365 0 35.61494777871672 139.1523380564765 0 35.61495177508498 139.1523434314095 0 35.614957759343305 139.1523496725636 0 35.61500238470325 139.15236088223102 0 35.61500601321129 139.15233921860394 0 35.61496620707186 139.15232929032484 0 35.61496493961191 139.1523283076139 0 35.61496366778478 139.15232655225302 0 35.61496248671329 139.15232490650672 0 35.614961394525814 139.1523230392393 0 35.6149605677426 139.15232028665125 0 35.614958492405755 139.15230354974105 0 35.61494734594807 139.15221365755437 0 35.6149442249604 139.15218774381268 0 35.61494322844001 139.1521549682623 0 35.61494714152524 139.15204996005096 0 35.61494736218131 139.152042897436 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8e90c6b9-18e9-4653-b893-cab29bb2e02d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614692871797445 139.1562400665391 0 35.614697397855366 139.15627557188995 0 35.614698520398655 139.15628675900436 0 35.614699634415715 139.15629786115812 0 35.61483180431867 139.15627797145365 0 35.61481722027849 139.15623305781403 0 35.61481336774727 139.15622116884515 0 35.61480078782063 139.15618451704546 0 35.614692871797445 139.1562400665391 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b20e2591-cf9f-44aa-a209-fefe51c5e13c">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61488682093105 139.15424138276595 0 35.614893110152366 139.1542302770248 0 35.6149339811425 139.1541572989751 0 35.61504571352589 139.15395898781725 0 35.61499407700764 139.1539189880111 0 35.61498644203178 139.1539337695918 0 35.614926996144135 139.1540374811885 0 35.61485290729685 139.1541659319963 0 35.61483043850872 139.1541934970998 0 35.61488682093105 139.15424138276595 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_dcbaa0e7-e13b-4883-a7da-21954e8781d4">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61507127969749 139.15390745049024 0 35.61512595577237 139.15373080802337 0 35.61516309014379 139.15361083707123 0 35.615109346370836 139.15358409925733 0 35.61508063483996 139.15367065053044 0 35.615036810394 139.15380275939341 0 35.615013814978205 139.15388077457916 0 35.61507127969749 139.15390745049024 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_71ffa48a-31ba-45e9-80c1-b30f4ea4209f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6145703565003 139.15594781052002 0 35.614570752706804 139.15595477659983 0 35.61457365725036 139.15600584433508 0 35.61459250882704 139.15608518343 0 35.61459590642136 139.15609948263557 0 35.61461455755689 139.15625860867937 0 35.614660734729604 139.15624767550497 0 35.61468384350439 139.1562422041329 0 35.614692871797445 139.1562400665391 0 35.61469031779752 139.15622390270838 0 35.61467869472554 139.15622657392217 0 35.61465781024663 139.156231522842 0 35.61462589513487 139.15623908564595 0 35.614609226704665 139.15609594846438 0 35.61460619096376 139.15608322344926 0 35.61458707200624 139.15600308203653 0 35.61458614918336 139.15598707497352 0 35.61458381843784 139.15594664659048 0 35.6145703565003 139.15594781052002 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_47ece40f-9e4a-46a8-95a1-cb52f17bfc71">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61493018040625 139.15201533298185 0 35.614844688609764 139.15199642749067 0 35.614713853630285 139.15196749497196 0 35.6146359913519 139.15194784393037 0 35.614553904144536 139.15192712663352 0 35.61454954424839 139.15195310368634 0 35.61462224530678 139.15197147012083 0 35.61470976474564 139.15199358015965 0 35.61482292815057 139.15201856177086 0 35.61492934000211 139.1520420529924 0 35.61493018040625 139.15201533298185 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ed7bbb95-fbf5-4f6d-b043-1a075243b8fe">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61493018040761 139.1520153329819 0 35.614948196994625 139.15201617715732 0 35.614948973259516 139.1519913306969 0 35.61495960818593 139.15199113011906 0 35.614958208971395 139.15188716039424 0 35.614934099493404 139.15188629535555 0 35.61493383881877 139.15189719126715 0 35.61493356531145 139.15190602381395 0 35.61493018040761 139.1520153329819 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9ea46992-8741-4bdd-8c2c-cae7c1ada366">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61538280259402 139.15032051530034 0 35.61543293768126 139.15033926396208 0 35.61543671185681 139.15032412792547 0 35.61544364755426 139.15029631282826 0 35.61539445907358 139.15027791818838 0 35.61538380911343 139.15029136525268 0 35.61537428359737 139.15030902942502 0 35.61537870161307 139.15031260248801 0 35.61538280259402 139.15032051530034 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8766eadf-d04b-4850-80ea-6ad9749d66e1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6145703565003 139.15594781052002 0 35.614558123459375 139.15594007830884 0 35.61455761067384 139.15594129498695 0 35.614535728646686 139.1559931388743 0 35.61451509961855 139.15599529969595 0 35.61446006751938 139.15600260742607 0 35.61444673606951 139.15600415480256 0 35.61433179916218 139.15601781785855 0 35.6142952685002 139.1559735198552 0 35.6142866322442 139.15598420069003 0 35.61432529089116 139.15603056677395 0 35.614357367909136 139.1560285302214 0 35.614431139373366 139.15601962955463 0 35.614515719834436 139.15600942352643 0 35.61454337542541 139.15600654116895 0 35.614568921265935 139.1559509346474 0 35.6145703565003 139.15594781052002 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c0fb711b-a773-477f-9e79-38bb62f73d29">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6146702396821 139.15580216115404 0 35.6145854629042 139.15584513699685 0 35.61461050643641 139.15592274611043 0 35.61461185407029 139.15592196206353 0 35.61462009191374 139.15594430043723 0 35.61463551641139 139.15599439484973 0 35.6146477229847 139.15603325729708 0 35.61464943063519 139.1560394054116 0 35.61465676039385 139.15606579501699 0 35.61465968272681 139.1560763164092 0 35.614669282274264 139.15611641507516 0 35.61467722345343 139.15615012548616 0 35.6146841874405 139.15618638296104 0 35.61469061682858 139.15622374878308 0 35.61479568945464 139.15616966289429 0 35.614776987992364 139.15611517601872 0 35.61476012701834 139.15606608705707 0 35.6147442543985 139.15601954261453 0 35.614724018144386 139.15596020247145 0 35.61470844981206 139.15591467211632 0 35.614707797339676 139.15591276393016 0 35.61469441777202 139.15587369059676 0 35.6146702396821 139.15580216115404 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8c21fcdc-716e-43ef-b816-59e4842ee303">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61448454600727 139.15530665554255 0 35.614544435732 139.15532966172128 0 35.61455063259788 139.15529362448868 0 35.61455529653415 139.15527349536117 0 35.61456278386548 139.15522651925068 0 35.614564981269716 139.15520551601736 0 35.61456620525497 139.15519381690353 0 35.614567505668894 139.1551846441094 0 35.61456976025648 139.15516884026 0 35.61457369441896 139.15514717191402 0 35.61457519124673 139.1551408674275 0 35.614580828589496 139.1551175289503 0 35.61459225929196 139.1550665457175 0 35.61460334746614 139.15501876648062 0 35.61460624973311 139.1550059375027 0 35.61462844840083 139.15489834700116 0 35.61463921451702 139.15485741421304 0 35.61464749235827 139.15482279428576 0 35.61464897300745 139.15481361995438 0 35.61465385069106 139.15478344407492 0 35.614659133023764 139.15474509639762 0 35.61465947800963 139.15474233389705 0 35.61466590717515 139.15469956118812 0 35.61467050573031 139.15466784228482 0 35.61467433350462 139.154643304816 0 35.61467954185307 139.1546238333222 0 35.61468896338845 139.1546002420419 0 35.614700277687746 139.1545766347648 0 35.61471570135828 139.15454648013224 0 35.61474445205465 139.1544979995917 0 35.61478508138605 139.1544252737965 0 35.61473796097438 139.15438579434743 0 35.61468920426172 139.15446700711686 0 35.61465762657009 139.15452566679954 0 35.61464648010756 139.15454706498417 0 35.61463962950002 139.15456301807984 0 35.614630389479004 139.15458682858318 0 35.61462464469787 139.1546070772832 0 35.61462161568202 139.15462940032236 0 35.61461695931492 139.15465085404003 0 35.61461224762859 139.15467848969294 0 35.614588891740866 139.15478862882324 0 35.614552879940966 139.1549562740908 0 35.61452530061338 139.15508477234215 0 35.61451511000296 139.15513188164695 0 35.614512034914085 139.1551460366639 0 35.61451019868216 139.1551560970414 0 35.61450476955186 139.1551844009843 0 35.614500918680676 139.15520485439103 0 35.614498289893895 139.1552182329529 0 35.61449410458004 139.15524332527536 0 35.61448957364177 139.15527106970998 0 35.61448592910797 139.15529615746303 0 35.61448454600727 139.15530665554255 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_78a9fe3d-446e-42a6-a7ac-193a4961c2b6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61519487745593 139.15014715409936 0 35.61519320813098 139.1501706801223 0 35.61528029239825 139.15023486868714 0 35.61530617005231 139.1502539427664 0 35.61537428359737 139.15030902942502 0 35.61538380911226 139.15029136525416 0 35.615333471836394 139.1502522756318 0 35.615283974350085 139.15021473256243 0 35.61519487745593 139.15014715409936 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6f89ef74-4b35-4a3f-b31a-476183b5ed05">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61544364755426 139.15029631282826 0 35.615461753749756 139.15022369913808 0 35.615409652836526 139.15020696645036 0 35.61540565780662 139.15022562243726 0 35.61539445907359 139.15027791818827 0 35.61544364755426 139.15029631282826 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b98f40fb-407b-40f5-85cb-ed05ef374494">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61431100208327 139.15622482721102 0 35.61430096996592 139.1561269465141 0 35.61429551833586 139.15607375674676 0 35.61429057365948 139.15606000055885 0 35.6142866322442 139.15598420069003 0 35.614228564879696 139.1559902273929 0 35.614238644403954 139.1561358746391 0 35.61424549707518 139.1562348959326 0 35.61422000870175 139.15613854419703 0 35.61416592875556 139.15593411110422 0 35.61413166297947 139.1559476459489 0 35.61418347108695 139.15614377819395 0 35.61421113521625 139.1562485081093 0 35.614245497076546 139.1562348959324 0 35.61431100208327 139.15622482721102 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d637759b-0a71-4847-b63d-aa273e9622b5">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61472253851085 139.15417770441087 0 35.61469880551348 139.15417142931318 0 35.61467022501283 139.15417012555534 0 35.61462800793632 139.15418019618656 0 35.614600708028625 139.15419819869234 0 35.61456483143862 139.15424574603477 0 35.61453728303786 139.1542996251748 0 35.614533304240624 139.1543133463316 0 35.61448318220544 139.15448817544504 0 35.614469821703636 139.15454855756593 0 35.61445945847196 139.15458098739862 0 35.61441954826695 139.15471257012814 0 35.61440710761381 139.1547602503368 0 35.61440244562793 139.15478071058902 0 35.614391851097636 139.15482009645356 0 35.614383009466934 139.1548506368575 0 35.61437572929121 139.15487034652725 0 35.61436634437049 139.15490044997523 0 35.61436472614915 139.1549045162925 0 35.614290886308964 139.15509006280996 0 35.614249614656124 139.15507595107007 0 35.61423170989478 139.1551617593425 0 35.61420017149651 139.15525949361069 0 35.614309556325175 139.155318176997 0 35.614340092905024 139.1552328141899 0 35.61435801817105 139.1551666538273 0 35.61437281923061 139.15510592858067 0 35.61436992763054 139.1550726173043 0 35.61437168484775 139.1550649321813 0 35.61437819683608 139.155036452225 0 35.61440165294924 139.15499210094364 0 35.61441264905839 139.15497600254562 0 35.61442389256682 139.15495581787786 0 35.61443174897174 139.15494239517795 0 35.61443877057192 139.15492478496444 0 35.61444771105428 139.1548957890768 0 35.61445581423803 139.1548621641599 0 35.61446540614281 139.15482079983946 0 35.6144703453685 139.15480155144718 0 35.61447466485731 139.15478429518467 0 35.61449082452606 139.15470876695147 0 35.6145036673217 139.15465247339444 0 35.61451469131484 139.154609330794 0 35.6145204783497 139.15458058225298 0 35.61452667876056 139.15456121279422 0 35.61453210280481 139.1545480313562 0 35.614543722276004 139.1545145974257 0 35.614595823693996 139.15438710593503 0 35.61460510161775 139.15437002848572 0 35.61461972338071 139.1543415363784 0 35.6146526393434 139.15429644250523 0 35.61467088136282 139.1542865745752 0 35.61468113959549 139.15428350751563 0 35.61469313583827 139.1542849514889 0 35.61470245736371 139.15429160609546 0 35.61472253851085 139.15417770441087 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b34a29fe-f0da-4394-a0e0-4c72a3dbd017">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614990490015956 139.1518481208639 0 35.614996070909406 139.15177645533453 0 35.61497189873387 139.1517736800371 0 35.61496660441017 139.15184161102954 0 35.614990490015956 139.1518481208639 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f59135d6-0f5d-42ea-8acf-f22b131bd9ca">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615074659163376 139.15051696938124 0 35.615099424582915 139.15056080212352 0 35.61513763151602 139.15041576386818 0 35.6151479629588 139.1503779246811 0 35.61515449193072 139.15035303275246 0 35.61519320813098 139.1501706801223 0 35.61516073379667 139.15015031444227 0 35.61511602635249 139.15034110713188 0 35.615074659163376 139.15051696938124 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6853146d-d66e-4b7f-a690-ecab3238a6f2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61458420043748 139.15584503725967 0 35.61457607342265 139.15583087075734 0 35.614575560328475 139.15583131220043 0 35.61457225399994 139.15583641771698 0 35.61457029592522 139.1558408495633 0 35.614568695895166 139.15584483685677 0 35.61456827006179 139.15584925578165 0 35.61457210916804 139.155906843518 0 35.61458551638164 139.1559055731956 0 35.614581971966864 139.15584947138663 0 35.61458196451909 139.15584814684905 0 35.614582316357485 139.1558465985149 0 35.614582941694664 139.15584559979126 0 35.61458420043748 139.15584503725967 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0898b6ed-215b-4272-8b33-691345ed1106">
+			<tran:function codeSpace="../../codelists/Road_function.xml">2</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614482794164324 139.15534773288763 0 35.61448217303084 139.1553815153967 0 35.61448244136524 139.15538868026567 0 35.61448312768283 139.1554070058664 0 35.61448527205327 139.1554356874117 0 35.61448537398457 139.15543778383304 0 35.61448935762344 139.15547296247215 0 35.614494830026366 139.15550040172698 0 35.614502536963776 139.15552576380134 0 35.61450382998431 139.15553001888966 0 35.614520306432155 139.1555748058773 0 35.61453465084896 139.15560912445486 0 35.61453237622707 139.15563740176708 0 35.61452723199072 139.15562022536753 0 35.6145107005009 139.15562974739842 0 35.61454430533542 139.15572306897522 0 35.61458022484104 139.1558272990638 0 35.61466432593923 139.15578466572265 0 35.61463767957956 139.15570583429064 0 35.61463749683271 139.15570539429825 0 35.61461970457497 139.15565101496023 0 35.61460380992325 139.15561350829785 0 35.61459147759032 139.15558436073468 0 35.61458544817127 139.15557006176124 0 35.61457029566124 139.15553630190357 0 35.61456059948812 139.15551110592318 0 35.614556268894106 139.15549665091112 0 35.614553342458734 139.1554868828191 0 35.61454632104392 139.15545647626575 0 35.614542735810545 139.15542802762266 0 35.61454091400215 139.15540861553302 0 35.61454103844829 139.15538267440567 0 35.61454105412416 139.15535342269692 0 35.614482794164324 139.15534773288763 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e1410166-32d5-4b69-bb8a-b9f716c4d61d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61454105412441 139.15535342269692 0 35.61461845129978 139.15534813344243 0 35.614644577114845 139.15534570529684 0 35.61465789675345 139.15534206062057 0 35.614685860057484 139.15532979283267 0 35.614745633136614 139.1553000367396 0 35.61476908294638 139.1553025984214 0 35.614784032965694 139.15531638058732 0 35.61480331296918 139.15534679414995 0 35.61481098159202 139.15535864256614 0 35.61483550099681 139.1553965263332 0 35.61484604277315 139.15537976943375 0 35.61482829698806 139.15534926070868 0 35.61482674725013 139.15534659638556 0 35.614809587485304 139.1553245540798 0 35.61479675342413 139.15530236489232 0 35.61477962533093 139.15528595190227 0 35.61475405590056 139.15527512934443 0 35.61474125717793 139.15527523736532 0 35.61472004755713 139.1552863443456 0 35.61467638572155 139.15531199066334 0 35.61465929980139 139.1553190890184 0 35.61465057316119 139.15532203263592 0 35.61464093899115 139.15532388007728 0 35.61454443572822 139.15532966174783 0 35.61454105412441 139.15535342269692 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6a78d260-45dd-4b84-8fd1-cbd39e3316e2">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6141506457202 139.15523219003538 0 35.61413544061035 139.15527317548566 0 35.61410960188414 139.1553408760773 0 35.61427335590853 139.15543460557228 0 35.61430725906436 139.15532459881445 0 35.614309556325175 139.155318176997 0 35.61420017149651 139.15525949361069 0 35.61419601362863 139.15525743142925 0 35.6141506457202 139.15523219003538 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_247afb35-7cce-4774-8412-9bd025df589c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61496660440978 139.15184161102945 0 35.61496916192364 139.15165636520314 0 35.61496952472964 139.15162490272218 0 35.61488242304908 139.15157177455148 0 35.614879797360665 139.15156969954225 0 35.614876895656245 139.1515666334223 0 35.6148613201235 139.15159443013266 0 35.61493536250665 139.1516566519941 0 35.61493563659262 139.15180070055672 0 35.61493529684078 139.15183624702976 0 35.61496660440978 139.15184161102945 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9d9b6c4c-ab98-411d-b567-3550632b6367">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615196472292034 139.1501263883132 0 35.6152215852505 139.15012021400014 0 35.61525190394188 139.15009423663176 0 35.61525504603434 139.15009200222445 0 35.61526034690713 139.15008897676742 0 35.61526385515986 139.1500877327039 0 35.61526619608149 139.15008727125797 0 35.61529712566626 139.15008954704936 0 35.61530639278778 139.15009212854898 0 35.61530750771701 139.15009243912976 0 35.61536402532826 139.15012463224767 0 35.61536936200693 139.1501104901941 0 35.61536970863618 139.1501095716358 0 35.61536893353437 139.15010913105857 0 35.615311925420976 139.1500767269842 0 35.61530934320171 139.1500759929979 0 35.61529910543113 139.15007308294992 0 35.61526547064192 139.15007060940383 0 35.61526087893056 139.15007153153007 0 35.61525566130457 139.15007334205356 0 35.61524883320012 139.15007726357422 0 35.61524461328261 139.15008016945407 0 35.61521617922399 139.15010469580298 0 35.61519412636432 139.15011007140694 0 35.615196472292034 139.1501263883132 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_37931fa0-4ec6-4beb-ae8a-3824d59d22f6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615449693844845 139.15002495978572 0 35.61544315209671 139.15005430084545 0 35.61542273426248 139.15014587871187 0 35.61541827349559 139.1501667096522 0 35.615470720010514 139.15018355330696 0 35.61549376996043 139.15008795405703 0 35.615504536939966 139.15004329807874 0 35.615449693844845 139.15002495978572 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_02c07c02-3470-4a59-ab3f-614403f54382">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61576316484183 139.15014232075532 0 35.615752816725546 139.15014660397247 0 35.61575839737791 139.15016112732596 0 35.61577433183119 139.15026894831456 0 35.61576537622814 139.15027917987618 0 35.61573926367962 139.1502839276792 0 35.61570122808478 139.15028425107354 0 35.61561286175208 139.15025006500744 0 35.615593459365556 139.15024255886422 0 35.61548197207451 139.1501968141564 0 35.61547706488156 139.15022158202447 0 35.6156096295036 139.15027444733988 0 35.61569794700101 139.1503096674883 0 35.615740849710136 139.1503093027253 0 35.61577515611347 139.15030305026028 0 35.61578670363754 139.1502889331883 0 35.61578030246479 139.15024097015055 0 35.61577992253792 139.15023755144693 0 35.61577383305524 139.1501809757399 0 35.61576316484183 139.15014232075532 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f08c3785-5fe8-4c0b-9d38-a374642f6d22">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61000295277432 139.16235518549706 0 35.60996658797369 139.1623162156813 0 35.60994628838307 139.16234462096082 0 35.60992142957695 139.16238036994156 0 35.60990775552914 139.16240134537196 0 35.60990501326748 139.16242686535372 0 35.60986418024224 139.16262091780578 0 35.609913349503465 139.1626325940196 0 35.60991545862551 139.1626192756363 0 35.60994213968241 139.16247368636448 0 35.609976378383585 139.16239039693963 0 35.61000295277432 139.16235518549706 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9c3c8807-a8c2-417f-8a91-0ce579ccdf2d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614315786301006 139.1562715058307 0 35.61425503682878 139.15628040367903 0 35.61425802194812 139.15631437646346 0 35.61425832211397 139.15631967231442 0 35.61426156252004 139.1563188723276 0 35.614270110992855 139.15639650988234 0 35.61427872598499 139.15646995234133 0 35.614284928682316 139.15653116262868 0 35.614289007478234 139.15658333941272 0 35.614293049676 139.15662900391496 0 35.61429497357129 139.1566666283057 0 35.6142964769143 139.15672567053855 0 35.61429670748753 139.15676673106591 0 35.6142959369446 139.15679002836384 0 35.61429537543619 139.15680239598606 0 35.61436290095126 139.15680480770763 0 35.61436332274525 139.15678361060563 0 35.614362401130734 139.15673184870587 0 35.61436156875595 139.15669598121798 0 35.614360040111364 139.15666453491806 0 35.614355841220444 139.15662306625208 0 35.614347200900696 139.1565450982139 0 35.61433633433537 139.15643988433968 0 35.61432796677377 139.15636235557477 0 35.614327108453466 139.1563539736977 0 35.61432195975994 139.15630390319473 0 35.61431898726874 139.15630425939304 0 35.61431583118642 139.1562719437691 0 35.614315786301006 139.1562715058307 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_345ada3d-ba1b-40be-ac28-1da1a0d46aec">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61426614785902 139.1556160303411 0 35.614204007338586 139.15562085466934 0 35.61420515571482 139.15564487306827 0 35.614206254712556 139.1556678588054 0 35.61422701846424 139.15596788220597 0 35.614285604958184 139.1559618016101 0 35.6142816627159 139.15590189690369 0 35.61427898525433 139.15585853898043 0 35.6142768082244 139.15580800194843 0 35.61427403886151 139.15574830813065 0 35.614270195956976 139.15569005835042 0 35.614266644598004 139.15562522243323 0 35.61426647927453 139.15562220419616 0 35.61426614785902 139.1556160303411 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bceed553-ba6f-45c0-9db3-f41be88ee128">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6141506457202 139.15523219003538 0 35.61419601362863 139.15525743142925 0 35.61422737362537 139.15516002981994 0 35.6142452802496 139.15507455268477 0 35.61424598079978 139.15507090413482 0 35.61426880486222 139.15496231540794 0 35.61428822991276 139.15487439693777 0 35.61428848352681 139.1548714144562 0 35.61428855501247 139.15486810236385 0 35.61428817770344 139.15486512521036 0 35.614287802258964 139.15486247919006 0 35.61427577495469 139.1548074996738 0 35.61426713783719 139.15481033219302 0 35.61427898239021 139.15486487171538 0 35.614279354105406 139.15486685546924 0 35.614279544935286 139.15486873036775 0 35.614279466612686 139.15487082830512 0 35.61427938580391 139.1548724847317 0 35.61427622061318 139.1548866404775 0 35.6142440721435 139.15487598405372 0 35.614227896829746 139.15494875258153 0 35.61418329795191 139.1551441755995 0 35.6141506457202 139.15523219003538 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_42e23c35-ff8a-40cb-9310-624aba149e5d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6150994245836 139.1505608021239 0 35.615092890564505 139.15058481098953 0 35.615204975216606 139.1506467642825 0 35.615257905759634 139.15067602099808 0 35.61526561838869 139.15065321630163 0 35.615209733385505 139.15062074299743 0 35.61518042970054 139.15060371541736 0 35.6150994245836 139.1505608021239 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_94254b19-f681-4ca7-87ce-1eb340db4c1f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61513498741146 139.15006068074226 0 35.61503133238323 139.15001723037398 0 35.61493702861706 139.14997769999212 0 35.61473911884375 139.14989502453523 0 35.614696968191524 139.1498774164428 0 35.61468843648696 139.1499088152832 0 35.614705207173714 139.14991564942397 0 35.614733339092005 139.14992778475613 0 35.614949623314764 139.15002108409038 0 35.615034771842225 139.15006050864756 0 35.61514510095341 139.1501115921798 0 35.61513498741146 139.15006068074226 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5b1cc776-cbe5-4660-829f-c167e3e625ea">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60980882332922 139.1626480444414 0 35.609851697963634 139.16262930026446 0 35.60980304686988 139.16247142594764 0 35.60977969815931 139.16240605705337 0 35.60973144103979 139.16229574509964 0 35.60969529906032 139.16231945378664 0 35.60973132797306 139.16241197976566 0 35.60977625555037 139.16254078934406 0 35.60978445502533 139.16256429770084 0 35.609792818018306 139.16259314662014 0 35.60980882332922 139.1626480444414 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0de766de-c3ec-4237-820d-23c6986513e1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61482055418355 139.15157753402653 0 35.61483021589665 139.1515366740433 0 35.61478624614317 139.1515236907765 0 35.61477266703778 139.1515133195764 0 35.614765859682876 139.15150498819648 0 35.61476076233264 139.15149620077082 0 35.61475068480337 139.15146747618817 0 35.61474245987772 139.15144756657276 0 35.61473836959011 139.15144153019438 0 35.61473383801365 139.15143715331527 0 35.61472749692986 139.15143157757655 0 35.61468795878848 139.1514053107501 0 35.6146544838354 139.15138329743604 0 35.61464399231413 139.1513769842539 0 35.6146335101638 139.1513723267449 0 35.614619418993605 139.15136703757224 0 35.61459269625426 139.15135953757596 0 35.61449084875895 139.15134472770805 0 35.61448278617999 139.15134789090834 0 35.61446755523409 139.15135386647984 0 35.614423567341525 139.15133768241216 0 35.614426825064236 139.15129217691225 0 35.614368178955 139.15126607247268 0 35.614365083077374 139.15127647476126 0 35.6144172228264 139.15129965409812 0 35.61441396822464 139.1513457114814 0 35.61446500076446 139.15136437456542 0 35.61447962356072 139.1513658156189 0 35.61448871979198 139.15136671203837 0 35.61458966471767 139.15138130882852 0 35.61461476258478 139.15138838109067 0 35.61462785980561 139.1513932371701 0 35.61463689609838 139.15139724465385 0 35.61464566949234 139.15140257897102 0 35.614678527262946 139.15142702596557 0 35.614685332749104 139.15143502619534 0 35.614706295617104 139.15146001570665 0 35.61471910476836 139.15147767873668 0 35.614720652624904 139.15148042518777 0 35.61473048117816 139.15149700968516 0 35.6147492394585 139.15153062785427 0 35.61475559927575 139.15153951495057 0 35.61476240288078 139.1515471840627 0 35.61477101224381 139.15155538976992 0 35.614781514998235 139.1515636897948 0 35.61482055418355 139.15157753402653 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_af015389-ae33-49d3-8964-e81a66167846">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614882057338804 139.1512703428199 0 35.61487520487645 139.15129973989355 0 35.61485740350537 139.15145111670412 0 35.6148428389061 139.1515214443515 0 35.6148657973371 139.15153272941643 0 35.614888751770344 139.15139996372056 0 35.61489224146511 139.15137951310348 0 35.614903005915764 139.15132257408524 0 35.61491096985163 139.1512804502553 0 35.614882057338804 139.1512703428199 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e86f9fd7-4377-44b1-857e-2165d84ff350">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615017815269304 139.15092035385084 0 35.61507536862261 139.15073762097978 0 35.61508317315766 139.15066955733883 0 35.61509289056383 139.15058481098916 0 35.61504931113675 139.1506089139009 0 35.61504462609424 139.15062518015782 0 35.615013083824415 139.15073748788222 0 35.61500862280009 139.1507614790952 0 35.61497249740922 139.15090300543628 0 35.615017815269304 139.15092035385084 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_afd906bb-615c-45b7-94ce-3e0677adc784">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615058061729066 139.15053068767767 0 35.61505184701657 139.15053151318514 0 35.61504634397525 139.15053067688444 0 35.61504074392136 139.15052862718483 0 35.614656302336314 139.15036443163547 0 35.61461806404679 139.15034810009732 0 35.61460641827921 139.1503448876003 0 35.61459496466319 139.15034377075418 0 35.614582525229004 139.15034365573905 0 35.61454550923164 139.1503489376708 0 35.614569272625324 139.15039090207642 0 35.61458619362166 139.1503865636691 0 35.614593489289035 139.15038561858344 0 35.61460133075216 139.15038555192478 0 35.614609451369674 139.15038702826013 0 35.61461811965985 139.15038971415726 0 35.614636999741556 139.15039705973365 0 35.61464959676445 139.15040243857308 0 35.61502353739698 139.15056210937388 0 35.6150452540853 139.15057693702863 0 35.615058061729066 139.15053068767767 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_030bfe1a-12fe-4b1d-a044-dc083cce49f4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61550752880453 139.15003046801857 0 35.615518037429915 139.14998617451585 0 35.61546272888733 139.14996649488103 0 35.61545294050008 139.15001039786847 0 35.61550752880453 139.15003046801857 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d64b827f-3942-4726-8ea4-8d1cc416f8fc">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.615747226058325 139.15013031454652 0 35.6156227205456 139.15007846011827 0 35.61558541015693 139.1500629210083 0 35.61550752880518 139.1500304680191 0 35.61550453693993 139.1500432980789 0 35.615581965752156 139.1500754237743 0 35.615622756354284 139.15009241798967 0 35.61573243839999 139.15013811390614 0 35.61574375027932 139.15014282668753 0 35.615747226058325 139.15013031454652 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_73e8206e-3dc1-4183-8aea-726cceabd651">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60973144103979 139.16229574509964 0 35.60971186340089 139.16225099227074 0 35.609677366468546 139.16218442867267 0 35.60964425568627 139.16212053984222 0 35.60958931270295 139.1620144854169 0 35.60954452298626 139.1619236871236 0 35.60949894359161 139.16183128823025 0 35.60946459746728 139.16176166167097 0 35.60944543997534 139.16170442607802 0 35.6094095653162 139.1615906428228 0 35.60936973704174 139.16160947299383 0 35.609390968537305 139.1616830268632 0 35.609420717922795 139.16176467742974 0 35.60944824228935 139.16181908369023 0 35.609489482648335 139.16190604720907 0 35.60951263721895 139.16195487333422 0 35.60952430974673 139.16197948726136 0 35.60959834920639 139.16213185058714 0 35.609636495940464 139.16221619081242 0 35.60960067312566 139.1622138652401 0 35.60960411340979 139.1622605015242 0 35.60963163991278 139.16227152323646 0 35.60965379914349 139.16228039587892 0 35.609674267950645 139.16229799558386 0 35.60969529906032 139.16231945378664 0 35.60973144103979 139.16229574509964 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4eb20b2f-a3d9-45a5-bec3-cefd62eeb488">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61041888679476 139.160911514728 0 35.61041428593247 139.16092357383303 0 35.61036101903415 139.16112509326996 0 35.61035346589596 139.16115366819196 0 35.61034511378802 139.16115914656262 0 35.610313266283804 139.16128314620235 0 35.610259182969244 139.16149298460184 0 35.61024084596358 139.16156675967613 0 35.61022647440723 139.161624276087 0 35.61021027187912 139.16170907100084 0 35.6101898023282 139.1617883826734 0 35.61014877204788 139.16193067081667 0 35.61011796878793 139.16203192340933 0 35.610087195320766 139.16212235870674 0 35.61006239830305 139.16218537047234 0 35.610025056066775 139.16222928134863 0 35.60998816071913 139.1622854639248 0 35.61001714525855 139.16231400668642 0 35.610042080263504 139.16229194377672 0 35.61007946655065 139.16223975425993 0 35.6101104980776 139.16217944985468 0 35.61015321523858 139.16206485252053 0 35.610146973376644 139.16206082070445 0 35.61017960178454 139.16194741132622 0 35.61017642317822 139.16194313316808 0 35.610201185670135 139.16184159981742 0 35.61028252134412 139.1615079111829 0 35.610366343962646 139.161216254946 0 35.61039495157 139.16109316532496 0 35.6103954038048 139.16109146193023 0 35.61043997479085 139.16092357961585 0 35.610421933849416 139.16091325801196 0 35.61041888679476 139.160911514728 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_10226e3e-1e0b-4fc1-8fc5-3e039280f95d">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.612147754537446 139.15623860449602 0 35.612105488957376 139.1562357114193 0 35.6120558835347 139.1562302793187 0 35.612014477013766 139.1562242262305 0 35.611923953756104 139.15620346505148 0 35.611887942121726 139.15619504854692 0 35.611870426136974 139.15618978756265 0 35.61185290953168 139.15618441620617 0 35.61183548181739 139.15617882334368 0 35.61181498093358 139.15617171106987 0 35.61180088996029 139.1561664212293 0 35.611783815328955 139.15615950084407 0 35.611766738836195 139.15615224933885 0 35.61174984074582 139.1561446651946 0 35.6117329420346 139.1561369706793 0 35.61171613221411 139.15612905465912 0 35.61169966095928 139.15612124995494 0 35.611698508724466 139.15612070398257 0 35.61168242181924 139.15611311301407 0 35.61166561199716 139.1561051970037 0 35.61164880217451 139.1560972809966 0 35.61163199173098 139.15608925461865 0 35.6116151812869 139.156081228244 0 35.61159430311871 139.15607113895385 0 35.61158173942012 139.1560649532372 0 35.6115650172457 139.15605659499113 0 35.611511977724554 139.15619391222094 0 35.61152806028284 139.15620073057246 0 35.611551460273525 139.15621046749857 0 35.611562302154546 139.1562150120576 0 35.61157955828761 139.15622215166533 0 35.61159672366808 139.1562291816616 0 35.611614069311926 139.1562362101417 0 35.61161574996178 139.15623688755008 0 35.611631505087274 139.15624323786525 0 35.61165598541688 139.15625274495326 0 35.6116666439313 139.15625673917208 0 35.61168416673619 139.15626321427422 0 35.611701869184344 139.1562695774859 0 35.61171957039169 139.1562757199519 0 35.611737270978516 139.1562817520463 0 35.6117550610767 139.15628767300956 0 35.61177284931401 139.15629326285256 0 35.61179226240619 139.15629928052454 0 35.611808514679275 139.15630422103757 0 35.611826301055174 139.15630947976467 0 35.61184408619045 139.15631451774524 0 35.61186187132549 139.15631955572803 0 35.61187956508805 139.15632437372352 0 35.6118973489823 139.15632919096169 0 35.61191495261251 139.1563340097208 0 35.611932645754244 139.15633871734804 0 35.61192460684838 139.15636781494888 0 35.61193214484801 139.15637125998862 0 35.61204009742442 139.1564205968816 0 35.61208988502807 139.15644367493474 0 35.61209061509893 139.1564440133448 0 35.612102274978746 139.1564497652531 0 35.61211971756179 139.15645800718653 0 35.61213279040917 139.1564585593352 0 35.612139684062114 139.15645022275893 0 35.612145436299535 139.15643571768257 0 35.61215097145612 139.15642175999992 0 35.612150551399765 139.15641116705592 0 35.61214921514087 139.15639793271055 0 35.612145335343214 139.1563811876351 0 35.61216769115725 139.15638155117867 0 35.61219112731387 139.1563816848598 0 35.61222321179269 139.15638097301436 0 35.61226169191602 139.15637954500085 0 35.6123073658481 139.15637507610776 0 35.61235952865672 139.15637044215615 0 35.61236349446057 139.15637040874188 0 35.61236548356384 139.15637149578575 0 35.612368361990306 139.15638648325807 0 35.61236918744022 139.15638901505096 0 35.61237118212439 139.15639109547135 0 35.612373979314086 139.15639162380575 0 35.61239262483633 139.15638936948395 0 35.61241757091013 139.15638551675076 0 35.61245510940488 139.15637692193894 0 35.61246266932246 139.15637487139426 0 35.612464637341134 139.1563722056815 0 35.61246452385462 139.15635200701328 0 35.61249469199572 139.15634711683944 0 35.61251809094126 139.15634062799097 0 35.61253276507672 139.15633741369086 0 35.61261823037612 139.15630821534 0 35.612825262901694 139.15624222906473 0 35.61307035417489 139.15616400049328 0 35.613219173010606 139.15611660672016 0 35.61327252816152 139.15609959975222 0 35.613387510113135 139.15606187342223 0 35.613489896543335 139.1560283372943 0 35.613562775549134 139.15600498422262 0 35.61364860127297 139.15597578208744 0 35.61370689875866 139.15595608408896 0 35.613744945733906 139.15594174476635 0 35.61374773733989 139.1559412797004 0 35.61374846397984 139.15594226701384 0 35.61375204924445 139.15595470997684 0 35.613754052623385 139.15595833569955 0 35.61375604421215 139.1559598642594 0 35.61376000442995 139.1559588374301 0 35.61384468091412 139.15591761318373 0 35.61383823205146 139.15589283153085 0 35.61386223334003 139.15588125976683 0 35.61390616756644 139.1558559428751 0 35.61393903666882 139.1558344722699 0 35.61397527802077 139.15580359069324 0 35.61401124027873 139.1557711660862 0 35.614051941651155 139.1557319681393 0 35.61407665789081 139.15570328095134 0 35.61409513526017 139.15568003335673 0 35.61411022143986 139.1556610524288 0 35.61413938279168 139.15562139980904 0 35.614178482952425 139.15556996273892 0 35.614085547185326 139.15548223273183 0 35.614067463862796 139.15551096152456 0 35.61404590663121 139.15554039479557 0 35.61401575820109 139.1555808284028 0 35.6139854817532 139.1556145297243 0 35.61395581573137 139.1556445832486 0 35.61392702929246 139.1556707659452 0 35.61389375053178 139.1556995253089 0 35.61386422129892 139.15572185084682 0 35.613834404285434 139.15574108808977 0 35.61381230384935 139.1557540788301 0 35.61378390473265 139.15576899918213 0 35.61374723272292 139.1557874111403 0 35.61372505403731 139.155798302996 0 35.61371361464225 139.1558039208304 0 35.613684385091105 139.15581542630272 0 35.61364202111072 139.15583145780906 0 35.6135979278649 139.15584452356575 0 35.61339702456977 139.15591045985246 0 35.613218341609134 139.15596870252523 0 35.613165708152636 139.15598581386496 0 35.612878609789206 139.15607940899864 0 35.612633066663804 139.15615742067826 0 35.61257719648847 139.15617599399093 0 35.61250611324756 139.15619811728635 0 35.6124588628518 139.15621076773238 0 35.61241880377788 139.15621993576633 0 35.61238590540784 139.156226255067 0 35.612370722963554 139.15622917139294 0 35.612320992482374 139.15623356417854 0 35.61227486417547 139.15623737470085 0 35.612216740261374 139.15623985136574 0 35.61216148506133 139.15623954435023 0 35.612147754537446 139.15623860449602 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">7</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_56679a75-c92e-4110-82ba-33d80267d9d0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61047207177848 139.16105432941586 0 35.61046945009649 139.16101903799242 0 35.61046934300922 139.16101759645449 0 35.6104776826348 139.16092889598107 0 35.610439974789486 139.160923579621 0 35.61043223241517 139.1610383268399 0 35.61043151242497 139.1610508258887 0 35.61047207177848 139.16105432941586 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b2f318c8-d302-43db-82f0-9d64d8b4a7b8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61494314445756 139.15116587149535 0 35.6149097004326 139.15115175354143 0 35.614890512529705 139.1512340699888 0 35.614920952914375 139.15124471153408 0 35.61494314445756 139.15116587149535 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e421c99a-0f48-40d8-acd7-fa6066f1f206">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.614932604391115 139.1512531449852 0 35.61496781889531 139.15118018060807 0 35.61495623390896 139.15117177942022 0 35.61492095291502 139.15124471153453 0 35.614932604391115 139.1512531449852 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3c69a7bc-91cb-4eac-8334-52b17183a493">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60942565056545 139.1615661795723 0 35.609534179246324 139.16155285789478 0 35.60958679403132 139.16154639952163 0 35.6095829253692 139.16149919070568 0 35.60954031116528 139.16150440324 0 35.60942179390717 139.16151890014208 0 35.60942565056545 139.1615661795723 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8207fa47-2493-46c9-9bb1-27a874a283a9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61050539712874 139.16068541973385 0 35.61047836647124 139.1606802065025 0 35.61047635610741 139.16070759701682 0 35.61046522830054 139.1607809809918 0 35.610455903909305 139.16080919198887 0 35.61048746631544 139.16082483559023 0 35.61050539712874 139.16068541973385 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_73cf537d-d1dc-492a-ae13-a2a55c6cb04b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61151128458231 139.15619888512438 0 35.611499555207025 139.1562508966454 0 35.6115846919428 139.1562796884491 0 35.61158989661542 139.15628144858334 0 35.61165347104231 139.15630254722754 0 35.611664256478264 139.1562652870411 0 35.611611697487746 139.1562424722472 0 35.61151128458231 139.15619888512438 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f09d5be4-dc6c-484b-9f45-e744461b3d8d">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611498485344605 139.15602249675737 0 35.61148194156842 139.1560138058867 0 35.61146530766033 139.1560051157797 0 35.61144379173712 139.1559938177341 0 35.61143828996769 139.15599320183972 0 35.611390783077944 139.15613885885782 0 35.61140742650579 139.15614699921696 0 35.61142450796203 139.15615513368027 0 35.611436256126844 139.1561605536199 0 35.611498485344605 139.15602249675737 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2b69906d-7944-4453-a586-5ba9832aaa8d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6150178152696 139.1509203538511 0 35.61502878200289 139.1509299904142 0 35.615058950677934 139.15087850005673 0 35.61504798971605 139.15086887937855 0 35.6150178152696 139.1509203538511 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_31b9c8ca-a59e-432b-9aa1-66ad48511f61">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61500363571649 139.1509312919192 0 35.61496869170473 139.1509179147777 0 35.61492388228221 139.15109346085464 0 35.6149585241571 139.1511068872285 0 35.614988294110496 139.15099169183617 0 35.61500363571649 139.1509312919192 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_267973cf-36fc-4859-afec-f9a17caca90a">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60950917177434 139.16225544446922 0 35.60949466135581 139.16227190136323 0 35.60951772400842 139.16244775920953 0 35.609537319948 139.16243810322388 0 35.60950917177434 139.16225544446922 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f38bcdb6-1e93-4da4-a96c-5adb8aea37fc">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609332015608956 139.16160920585799 0 35.6093317459368 139.16166630319105 0 35.609336748664006 139.16173158687494 0 35.60933796717699 139.1617474880762 0 35.6093787835994 139.16191394364992 0 35.609390447391256 139.1619615105685 0 35.60941416390276 139.16195080744362 0 35.609409954943004 139.16193682228175 0 35.60940913308972 139.16193409150057 0 35.60937447351311 139.16179940910484 0 35.60936426511683 139.16175974080014 0 35.60935990557783 139.1617214766817 0 35.60935804511508 139.1616787766296 0 35.60936073123183 139.16164321302944 0 35.60936973704136 139.16160947299383 0 35.609332015608956 139.16160920585799 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_682d5b58-267b-481e-b1bb-2c956f37a960">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610429525312526 139.16112620225235 0 35.61043259541888 139.16116801760538 0 35.61044625240596 139.16124097341398 0 35.610460878640474 139.16130994754263 0 35.610508494262255 139.16145966313027 0 35.610544629967876 139.1615550585806 0 35.61055480598175 139.16156954338362 0 35.6106169143338 139.16157034867234 0 35.61069890248081 139.16156392356288 0 35.61069618953514 139.1615138346006 0 35.61062070382049 139.16152252333168 0 35.61057296523045 139.16152855174315 0 35.61054114264216 139.16144691743708 0 35.61050505204844 139.16134346408307 0 35.61047884178078 139.16124997255645 0 35.61046214972349 139.161149999558 0 35.61046199701953 139.16112262715475 0 35.610429525312526 139.16112620225235 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_857b850c-6198-49de-be70-f18a382253e2">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61136430331298 139.15612575574872 0 35.611373351242136 139.15613028804592 0 35.611390343808274 139.15613864400953 0 35.611390783077944 139.15613885885782 0 35.61143828996769 139.15599320183972 0 35.611438555270176 139.15599238841529 0 35.61143903044559 139.15598975945983 0 35.611416964855295 139.15598377863577 0 35.61141474382207 139.15598953706817 0 35.611405354426964 139.1560028617015 0 35.61136430331298 139.15612575574872 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0a66ed04-c0cf-4e93-855c-8bce812a85e4">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61489103486984 139.15114315374385 0 35.61490373901631 139.1511018003123 0 35.614665519121935 139.15099211521073 0 35.61455430685824 139.15094253024074 0 35.614502501945275 139.15091943261203 0 35.614490208057276 139.15096093073944 0 35.61454662409855 139.150986074538 0 35.61465304432145 139.15103350456485 0 35.61489103486984 139.15114315374385 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a911bcf3-a2cc-41ff-b8ef-08d4096477ba">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60947728881819 139.1621628841859 0 35.609451745164 139.1620756794613 0 35.60943590640056 139.16202305161485 0 35.60941248186818 139.16203362295116 0 35.609452057375414 139.1621640883214 0 35.60947728881819 139.1621628841859 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6d8f65c3-cab1-45b3-bece-120ee4ac41d8">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60925359679864 139.16109902210013 0 35.60928196742549 139.16125799648063 0 35.60933137696344 139.16148694495843 0 35.60937772604951 139.16147040127282 0 35.609360167674645 139.1613966372332 0 35.60929129985639 139.16108893256032 0 35.60925359679864 139.16109902210013 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8db7c938-1a45-45f0-97c3-bbc7fae6803b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610692668944836 139.15899569907884 0 35.61066435926361 139.15900374637442 0 35.61067184304788 139.15904322602736 0 35.61071034332329 139.15919036804365 0 35.61076605184563 139.1594328429561 0 35.610793943893235 139.15955281087363 0 35.61079415743742 139.15959099993665 0 35.61079022671682 139.15964567009738 0 35.61076955984627 139.15968944274735 0 35.61071124478754 139.15978673322167 0 35.61065509151539 139.1598998998682 0 35.61065589338143 139.15991435266596 0 35.610631080956146 139.15995827029326 0 35.61058342292508 139.1600432191604 0 35.61057734134859 139.16006788439063 0 35.610482775108395 139.16059808147716 0 35.61051346748303 139.16060629065777 0 35.61052369309229 139.16054891895453 0 35.610562056021095 139.16033280899038 0 35.61061296004851 139.16008668132494 0 35.6106170296483 139.16007296036076 0 35.61069974201557 139.15990581719538 0 35.61077208953685 139.15975498616638 0 35.610813362798 139.15967273953598 0 35.61082785622194 139.15963718660888 0 35.61082322257196 139.15956614187937 0 35.610810282540605 139.1594926281187 0 35.61078882190783 139.15939446113313 0 35.610692668944836 139.15899569907884 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2d78b532-0852-4e65-88ff-8fb77b455336">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61048467648997 139.16106791080003 0 35.61048493511804 139.16111426730222 0 35.61050377271163 139.16111410970743 0 35.610518130864804 139.16107039034776 0 35.61048467648997 139.16106791080003 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_aff56d51-34f6-48d9-bab8-3dd58c286da1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611706021292356 139.15628569069747 0 35.6116872258567 139.15634244090006 0 35.61178890952013 139.15639235872317 0 35.61181413011637 139.15640528140437 0 35.61181816312199 139.15640768401474 0 35.611841352215784 139.1564214986194 0 35.61188747512944 139.1564488153395 0 35.61191991225402 139.15646802203116 0 35.61209204358176 139.15656994483396 0 35.612109254771205 139.1565758258643 0 35.6121225748286 139.15651736755154 0 35.6121096605452 139.15651295075855 0 35.61201163374211 139.156454883753 0 35.61189414886927 139.1563852908019 0 35.611892074838494 139.15638406478251 0 35.61184775492576 139.1563578660202 0 35.61183455101616 139.15635002994003 0 35.61180779321042 139.15633623718887 0 35.611706021292356 139.15628569069747 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ef65f975-c53a-422f-b044-0bcd8d2c478e">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61136430331298 139.15612575574872 0 35.61140535442692 139.15600286170155 0 35.61138798048806 139.1559942422637 0 35.61134731818835 139.15611715160978 0 35.611356448186925 139.15612182095242 0 35.61136430331298 139.15612575574872 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3b2bf453-88cb-4324-a144-752ffa3ede8f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60943772401885 139.1622123321286 0 35.609420054933636 139.16221502941022 0 35.60942341069877 139.16224799285015 0 35.60947987885553 139.1622556891078 0 35.60943772401885 139.1622123321286 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ddc122d2-02a3-4da4-bee6-fd98c730c045">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610532557208465 139.16067424863445 0 35.61060578294558 139.16067373132967 0 35.61061187898629 139.16063548952687 0 35.61056147547333 139.16063237941083 0 35.610532351742485 139.16063063643327 0 35.610532557208465 139.16067424863445 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8171a4dd-bc12-4a42-9f55-a41f318e1f3c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61164565723632 139.1563656879009 0 35.61163934510861 139.15640333220148 0 35.61163129594668 139.15646739909263 0 35.61162592702967 139.15651013255354 0 35.6116132998574 139.15661063701128 0 35.61159197785697 139.1567803453174 0 35.611589881698634 139.15679698733615 0 35.61158334888914 139.1568488531128 0 35.611610630079284 139.15685955097103 0 35.61161474854759 139.15682905698466 0 35.6116213608644 139.1567800979048 0 35.6116429668785 139.15661969618978 0 35.61165835048473 139.15650548822532 0 35.61166073129665 139.1564878129907 0 35.61166452859123 139.15645677932542 0 35.6116747785461 139.15637301048525 0 35.61164565723632 139.1563656879009 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_46a2d756-814e-40cd-8ab4-ce70ea1fb952">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60938322988965 139.16202503722616 0 35.60937922444591 139.16199178775136 0 35.609301999738975 139.16200573776072 0 35.60925239636141 139.1620006333676 0 35.60913532808353 139.16198781442722 0 35.60913365396304 139.1620108969826 0 35.60925255562544 139.16202921944432 0 35.60930181938038 139.16203807948173 0 35.609321178095726 139.16203438571898 0 35.60935701560444 139.16202779488123 0 35.60938322988965 139.16202503722616 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1dcf515b-da80-4d23-8b6e-26cab687fdec">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60917963659441 139.1607686726163 0 35.60924707565465 139.16106248114954 0 35.60928168619936 139.16104607495842 0 35.609246097034564 139.16088710175612 0 35.60921747696136 139.1607562608344 0 35.60917963659441 139.1607686726163 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f0f74850-8920-48db-8fbd-7107a5c9cc46">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609291299856736 139.16108893256015 0 35.60931831483728 139.1610842915081 0 35.609553164893256 139.16104391572483 0 35.609548143409775 139.16100013827136 0 35.60930095698082 139.16104271453906 0 35.609281686583785 139.16104607667222 0 35.609291299856736 139.16108893256015 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4bc05bf3-ab7e-4da8-a23f-425f77426ae8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610676859788455 139.1589249690638 0 35.61067377448282 139.15889035737234 0 35.61066185636463 139.15875665815938 0 35.61065705338297 139.15863936667336 0 35.610658820480204 139.15858471472689 0 35.610662798428855 139.15855465850547 0 35.61067669496733 139.15841259566955 0 35.610693047882975 139.15835506172866 0 35.61076709973497 139.15813876077274 0 35.610767023659676 139.15812518490054 0 35.61077444156053 139.15795304302773 0 35.61077743710366 139.15786290899166 0 35.61077845216401 139.1578323659925 0 35.61078157043666 139.15774547216597 0 35.6107877268138 139.15771815699583 0 35.61081864959103 139.1576388661885 0 35.61083725753149 139.15759775938278 0 35.610812033961416 139.15758428461254 0 35.6107976318981 139.15761994750795 0 35.61077079246484 139.15767194056494 0 35.61074129917826 139.15773289652788 0 35.61074020692135 139.15781138454264 0 35.61074244826391 139.1578413885441 0 35.61074062635635 139.1578934748929 0 35.610732348831185 139.15813011216187 0 35.61071997234388 139.15818948919144 0 35.610682210450584 139.15828693914654 0 35.61066376907468 139.15834173118728 0 35.61064737116527 139.1584073230802 0 35.61064365351361 139.15848384624397 0 35.61063976903566 139.1585466839337 0 35.61062760721667 139.1586122401949 0 35.610632195077145 139.15867500672945 0 35.61064131277529 139.15882239514696 0 35.61064795594658 139.15887997560716 0 35.6106536109589 139.15892899127965 0 35.610676859788455 139.1589249690638 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5e413c6e-09bb-4bfb-bc12-f40670502a4f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61069266894491 139.15899569907876 0 35.61077752610843 139.15913152470955 0 35.61083904813921 139.1592208563879 0 35.610848026780175 139.1592307151038 0 35.61085382116162 139.159235302379 0 35.61086041561597 139.1592378961337 0 35.61086591922421 139.15923884336607 0 35.61087231921239 139.1592389000521 0 35.61087780985341 139.15923752944911 0 35.610886263734976 139.15923414717628 0 35.61090046753834 139.1592274053135 0 35.61092346351988 139.15921330471267 0 35.610934412690355 139.1592048240948 0 35.61094446301052 139.1591967925295 0 35.61096222886319 139.15918229428 0 35.61097094634597 139.1591776956233 0 35.61100951786172 139.15916037371292 0 35.611106884414475 139.1591316309717 0 35.61120482434055 139.15910389676685 0 35.61124466462833 139.15909261494585 0 35.61124808840808 139.15909236545798 0 35.61125295800511 139.15909276611066 0 35.6112561163299 139.1590934018809 0 35.6112594610949 139.159095139875 0 35.61126317750494 139.1590988615696 0 35.61126508818729 139.15910204652263 0 35.611266643282605 139.15910611749038 0 35.61126803478925 139.15911317005956 0 35.61126852188778 139.15911967832372 0 35.61126857702647 139.15912953242866 0 35.61126859044086 139.15913192979957 0 35.61126551444186 139.159258780891 0 35.611263334063786 139.15935240043288 0 35.61128316803793 139.15935311709353 0 35.61128534779882 139.15925938715486 0 35.61128829489694 139.15913746121154 0 35.61128842194532 139.15913220491106 0 35.61128834042257 139.15911763558483 0 35.611287748369335 139.159108479107 0 35.61128552405795 139.15909757026432 0 35.611282322499385 139.1590892083365 0 35.61127841100192 139.1590828391861 0 35.61127432665184 139.15907779603302 0 35.6112690742918 139.15907342495498 0 35.611262568113375 139.1590704993239 0 35.6112561576257 139.15906856629968 0 35.61125020397432 139.15906773323024 0 35.611242545227235 139.15906823901517 0 35.61116844010873 139.15908926628282 0 35.61110224564963 139.1591080488723 0 35.611005239013025 139.15913667824188 0 35.61096287022391 139.15915193483372 0 35.61095145619355 139.1591578806589 0 35.610932075378734 139.15917371700235 0 35.61092220470654 139.1591816366836 0 35.61091233218122 139.1591892252434 0 35.61089131293086 139.15920220548136 0 35.61087881731397 139.15920816036828 0 35.61087198210373 139.15921086679353 0 35.61087009180221 139.15921132416588 0 35.6108675674892 139.159211234966 0 35.61086630440644 139.1592110248064 0 35.61086395479982 139.15920994073628 0 35.610861059461214 139.15920797821852 0 35.610855255198445 139.15920162497545 0 35.61079509563242 139.1591141582909 0 35.610710575516016 139.15897891750984 0 35.61069266894491 139.15899569907876 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2702d15b-7cd2-4dfb-b3f7-9ee4100cc98a">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61214078634819 139.15656622287108 0 35.612145465148245 139.15656474852082 0 35.61215563455548 139.15656190336176 0 35.61220511597208 139.15654526069622 0 35.612214285867964 139.1565409890102 0 35.61219643548558 139.15649224098993 0 35.612180915206864 139.15650528620168 0 35.61217660623535 139.15650841314175 0 35.61217085639318 139.15651177297914 0 35.61215997337197 139.15651594871693 0 35.61214565851801 139.1565189391819 0 35.612140520996974 139.15651898245872 0 35.61214078634819 139.15656622287108 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ea53cdd1-f247-48d9-829c-be196e318c23">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611055132601706 139.1567336280334 0 35.61108109078825 139.15674910516552 0 35.61116022396274 139.15654312679996 0 35.611169750631824 139.1565183294271 0 35.61118261066529 139.15648310075719 0 35.61120366082608 139.156425436034 0 35.611273999950235 139.15627086499586 0 35.61132084242432 139.15616958397302 0 35.61134355474259 139.15612460470854 0 35.61130474074257 139.15609521393972 0 35.611273998018746 139.15617428354076 0 35.61126491807609 139.1561945593863 0 35.61122554680961 139.15627800638998 0 35.611180261071 139.1563996941726 0 35.61115653337586 139.1564756303496 0 35.61114440062106 139.15651445894986 0 35.61113269017764 139.1565430880175 0 35.61106837801379 139.15670031451768 0 35.611055132601706 139.1567336280334 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_05fc1917-ed81-4841-8ac8-bf1528a27cec">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61066751065595 139.15570024390743 0 35.61065051026068 139.15587013476846 0 35.610662436921096 139.1558719244568 0 35.610679849137256 139.1558747578557 0 35.61069717246255 139.15587781276136 0 35.610714496408264 139.15588097804104 0 35.61073732646828 139.15588553181428 0 35.61074914864323 139.1558880812144 0 35.61076656644379 139.15589190797564 0 35.61078389473284 139.15589584587127 0 35.6108012242628 139.15590000451442 0 35.61081846490176 139.15590438466518 0 35.610844191592776 139.155911121594 0 35.61085303817262 139.1559134753312 0 35.61087028129311 139.1559182969796 0 35.61088752503392 139.1559232290031 0 35.6109046792631 139.15592827216156 0 35.61092183473306 139.15593353606837 0 35.610938990823286 139.1559389103505 0 35.61095605740181 139.15594439576785 0 35.61097339623734 139.1559502100275 0 35.61099010352864 139.15595591923528 0 35.611007082456375 139.1559618469123 0 35.61102397249286 139.15596799609816 0 35.611040863769944 139.155974366033 0 35.61105775566719 139.15598084634382 0 35.61107446792068 139.15598743855028 0 35.61109587882227 139.15599608834324 0 35.61110798504027 139.15600106370485 0 35.611124610262934 139.15600820854615 0 35.611141236105595 139.1560154637638 0 35.611157863188694 139.15602293973123 0 35.61117440013938 139.1560304164615 0 35.61119084819855 139.1560381147015 0 35.611214979805055 139.15604972181256 0 35.6112237474174 139.15605406305846 0 35.61124019795663 139.15606220280208 0 35.611256649736085 139.15607056329614 0 35.61127319226725 139.15607903340745 0 35.611289734797815 139.1560875035222 0 35.61129935283808 139.15609244550367 0 35.611339046828334 139.1559765985898 0 35.611172125942076 139.1558824178185 0 35.61105789091124 139.15581251795288 0 35.61098457546142 139.15577428295254 0 35.61086505162987 139.15572562062835 0 35.61066751065595 139.15570024390743 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e7aea56f-b764-4b18-a681-eb0a8fbb434e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60917963659441 139.1607686726163 0 35.609175941367205 139.16075258865223 0 35.60913955944462 139.16075852234326 0 35.609106170976524 139.16076785262598 0 35.60904849552505 139.16078610586428 0 35.60899818379197 139.1607994409139 0 35.60891444600639 139.16081537358488 0 35.60883189472699 139.16082396651302 0 35.60881066933597 139.16082617590342 0 35.608751624468496 139.1608293238453 0 35.608616663710464 139.16083651917734 0 35.60852103669009 139.16083787133886 0 35.608450661771464 139.16084532416966 0 35.60835807651662 139.1608551290935 0 35.608320061118654 139.1608590895949 0 35.60832122968564 139.16087564154972 0 35.60842202304109 139.16086497125295 0 35.60852166987918 139.1608544223014 0 35.60861702650381 139.1608530724224 0 35.60875313774644 139.1608458299588 0 35.60881148279138 139.1608427254169 0 35.60884063621241 139.16083968165006 0 35.60891607003584 139.1608318059603 0 35.6090006183961 139.16081575614643 0 35.60905165057134 139.16080230470112 0 35.60910941554136 139.16078394034852 0 35.609141994054525 139.16077483760307 0 35.60917963659441 139.1607686726163 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1e33d575-0d8e-44dc-b69b-2f29890e1637">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61213620387571 139.15657812144082 0 35.61210938300619 139.15657586968197 0 35.61210847772635 139.15659122012346 0 35.61210099415262 139.15671921353407 0 35.61209881431001 139.1567588954844 0 35.61209469730565 139.15683384095541 0 35.612089206535 139.15691545796886 0 35.612084637473494 139.15700070975106 0 35.612111062854396 139.15700346757035 0 35.61212079128809 139.15684178937 0 35.61212136271984 139.15683118807937 0 35.61212494410911 139.15676687462692 0 35.612130205719 139.15667238717634 0 35.61213136280876 139.1566537232106 0 35.61213416817818 139.1566075607399 0 35.6121358418719 139.15658458760075 0 35.61213620387571 139.15657812144082 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b08a6f89-21bb-4b2b-8c92-f79bc9291d34">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6116317395979 139.15689480500654 0 35.61162693014561 139.15693723115322 0 35.61171108070553 139.1569532924946 0 35.6118390676058 139.15697772069316 0 35.61184516246267 139.15693947804073 0 35.61167231514984 139.15690329814151 0 35.6116317395979 139.15689480500654 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f412efa7-19c8-4190-8441-e312130f9238">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611545962789926 139.15688459960484 0 35.61132092920904 139.1568326444668 0 35.61122953514272 139.15681154373632 0 35.6110998742605 139.15678746912747 0 35.61109005525592 139.15683667027 0 35.61119669840475 139.15685486791529 0 35.61130950926085 139.1568782828939 0 35.61154020940465 139.15692616712914 0 35.611545962789926 139.15688459960484 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_47a983f6-3987-4591-8243-8b0781d6b5c0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609377412613114 139.16224285819095 0 35.609377489785075 139.16222083284265 0 35.60934132451808 139.1622206428358 0 35.60925361864673 139.162220050827 0 35.60910383429421 139.162207835937 0 35.60908576423486 139.16220015017063 0 35.60906767634705 139.1621892636573 0 35.609045922313406 139.16216748056456 0 35.60902773851487 139.16213937624292 0 35.609007077491206 139.162103455948 0 35.60898393001233 139.16205806413052 0 35.60891694167645 139.16190939588407 0 35.60891408011506 139.16190385947857 0 35.60889024391683 139.16185774243155 0 35.60886221199245 139.1618093010538 0 35.6088460300856 139.16178460178875 0 35.60882686458856 139.16175827183622 0 35.6087852540585 139.16171557316954 0 35.60877402170088 139.16170562288494 0 35.60877022323531 139.1617033367489 0 35.6087644387884 139.16170051533507 0 35.60875549541298 139.1616969476967 0 35.608747823114314 139.16169502506608 0 35.60874141820129 139.16169408522117 0 35.608737359182605 139.1616935672704 0 35.60872654272033 139.16169354730138 0 35.60871942228768 139.16169360681548 0 35.60869419576954 139.16169569404445 0 35.60867699900217 139.16169914903693 0 35.608668002406525 139.1617022043643 0 35.608615913758335 139.16172018938425 0 35.60859755618675 139.16172649898888 0 35.608604859482256 139.16175836121732 0 35.60868285818632 139.1617315504048 0 35.608697263321496 139.16172856025207 0 35.60872041803327 139.16172671109982 0 35.608726547013354 139.16172665987503 0 35.608735921362715 139.1617266919014 0 35.60873844690591 139.16172700191953 0 35.60874349860745 139.16172773232614 0 35.60874873364899 139.16172901307746 0 35.608755237921386 139.1617316077259 0 35.608759124672986 139.16173356199874 0 35.608760029069465 139.1617341063171 0 35.6087686340615 139.16174165030316 0 35.608807978363366 139.16178205002885 0 35.608829458993995 139.16180328336054 0 35.6088500678244 139.16182982201443 0 35.60888376961834 139.161899366855 0 35.60892438339676 139.16198317500633 0 35.60896452297392 139.16206926382162 0 35.609016809657 139.1621677237254 0 35.60903135374029 139.16218967740474 0 35.60905311637629 139.16221300568924 0 35.60906760758559 139.1622254675062 0 35.60908089203804 139.16223164798217 0 35.60909659222918 139.16223460738453 0 35.60915187822252 139.16224043708692 0 35.609253741590926 139.16224212501882 0 35.609377412613114 139.16224285819095 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_d52cebcb-6d21-4fff-bdc5-a1155cbcc905">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60921394690058 139.1607401226878 0 35.60916210994503 139.1605031443867 0 35.60912033276043 139.16033384644092 0 35.609083389510126 139.16034886115136 0 35.6090904567448 139.1603749357262 0 35.60917058309923 139.16072923379605 0 35.609175941367965 139.16075258865214 0 35.60921394690058 139.1607401226878 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5e9665b7-65e4-4b7e-9b4d-8551b8621869">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61125205432977 139.15769408307182 0 35.611226294815836 139.15767981039622 0 35.611098535437236 139.15760902825005 0 35.61108986840143 139.1576034794278 0 35.61103982624846 139.15757144139423 0 35.61094383399273 139.1575397974661 0 35.61088161069241 139.15751931956112 0 35.61086836495012 139.15756747488305 0 35.61103171881025 139.15762051763446 0 35.611054236042925 139.15763306713913 0 35.61123696943702 139.15773491002648 0 35.61125205432977 139.15769408307182 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_31e0120d-fdca-4811-9de5-a4297c67fb15">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61151921335128 139.15733804167067 0 35.611547097558216 139.15734376754975 0 35.611567902780024 139.15718023124145 0 35.61159446348152 139.1569662030776 0 35.61157143337092 139.156958118501 0 35.61151921335128 139.15733804167067 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b6ff531f-49c9-4d4d-bc41-1b87cb1a5a86">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609826059342154 139.15535168738666 0 35.61001072404196 139.15524197826554 0 35.610062738921826 139.15522707990897 0 35.6100977212869 139.15522877147822 0 35.610126812090236 139.1552406674743 0 35.61015895737008 139.15526677637243 0 35.6102074350789 139.15531206350943 0 35.61028138130304 139.15538936292123 0 35.61050501210644 139.15562313572931 0 35.61053811586586 139.1555673351596 0 35.61053061995579 139.15556066666582 0 35.61036915927738 139.15539568959167 0 35.610325562795474 139.15535827687307 0 35.6102998705228 139.15533622883848 0 35.6101783098453 139.1552139630859 0 35.61012305102744 139.15518098512925 0 35.610087473826425 139.15516969578547 0 35.61005447436296 139.15516798750673 0 35.61000149164468 139.15518708839664 0 35.609870938059224 139.15526070782832 0 35.609806453764705 139.15530220178002 0 35.609826059342154 139.15535168738666 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ef5c34e4-e16e-4adc-aba1-c85affa53418">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610909147743456 139.15715900751366 0 35.610917577654625 139.15713338448194 0 35.610940914095394 139.1570836282008 0 35.61101604753539 139.15690627808866 0 35.611033785724956 139.1568644075138 0 35.61101069487789 139.15684550644178 0 35.61099313230112 139.15688747861145 0 35.61095910799576 139.15696879192052 0 35.61091169586015 139.1570811146511 0 35.61086812309205 139.15713876769613 0 35.610909147743456 139.15715900751366 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4233b437-d145-4178-bc02-361573aad131">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61007510133862 139.15574576089904 0 35.61007133496112 139.15580979880738 0 35.61029468794096 139.15582502402413 0 35.61029483874483 139.15585184447934 0 35.610336949592536 139.15585491112878 0 35.61039105419179 139.1558589804335 0 35.61043163217541 139.1558619496359 0 35.610435507848216 139.15586191695886 0 35.61045389289916 139.15586143081532 0 35.61046793690407 139.15586105695422 0 35.61046578185753 139.15576364630112 0 35.61038366050339 139.15576235199623 0 35.610381406584644 139.15576226062493 0 35.61036373638285 139.15576163698674 0 35.61034597542844 139.1557609037365 0 35.610328123100714 139.155759950502 0 35.61031027015226 139.15575888689554 0 35.6102797023956 139.1557568267336 0 35.61017891938547 139.15575491716 0 35.61007510133862 139.15574576089904 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e548dbac-bf02-4265-83df-e90ed9a299bc">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6085996937599 139.16179687354185 0 35.608582671258965 139.16180424197233 0 35.608597914279976 139.1618569975205 0 35.608609968202515 139.16189871578388 0 35.608612939759816 139.16191436423452 0 35.6086138241329 139.16192749149542 0 35.608602623521925 139.16207953999265 0 35.6086205411443 139.16208151918235 0 35.60863194190792 139.1619275608669 0 35.60863076745852 139.16191090401927 0 35.608627330479926 139.16189261044866 0 35.608617905333155 139.16185996057493 0 35.6085996937599 139.16179687354185 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ae4dc204-7178-4a8c-9010-e19a3923c069">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60837347697946 139.16169318702924 0 35.60836988213952 139.1617274332864 0 35.608371597724414 139.16172797082243 0 35.608448802741165 139.16175282218774 0 35.60847616688916 139.1617623064966 0 35.60850036226615 139.16176927866738 0 35.608517322472416 139.1617718963044 0 35.60852858898067 139.1617718021484 0 35.608528404436534 139.16173869116247 0 35.60851894056992 139.16173877025759 0 35.60850513806103 139.16173667811202 0 35.608483018795596 139.1617302404743 0 35.60845601578863 139.16172086353234 0 35.60843298843463 139.16171321936775 0 35.60837347697946 139.16169318702924 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_51403a73-9db6-4424-a09b-adde33124e23">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60888770469129 139.1600297232799 0 35.608823094829944 139.16003291365496 0 35.60884339171315 139.16005194892838 0 35.608929167933255 139.16012661679144 0 35.60895217554553 139.16014684353635 0 35.60898598779063 139.1601811078701 0 35.608994844885736 139.16019329792144 0 35.6090211407938 139.16022948909853 0 35.60905268849671 139.16027790056697 0 35.60906844779091 139.16030757004077 0 35.60910317969434 139.16028056817981 0 35.60907655214472 139.16024160778832 0 35.60904257086265 139.1601932167061 0 35.60901603519692 139.16015601551757 0 35.6090013259689 139.1601353942033 0 35.60895302228614 139.16008866846758 0 35.60891912851707 139.16005595012845 0 35.60888770469129 139.1600297232799 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_ff690256-550f-4301-929a-4e5f600b74f5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60912846968129 139.16028984868075 0 35.60913224141307 139.16031961858565 0 35.60924275277466 139.1602881188321 0 35.60928461422933 139.16027882773994 0 35.609386617289594 139.16025711224722 0 35.6094246234093 139.16025149583325 0 35.609588724841345 139.1602449335545 0 35.609592529728396 139.16021609340487 0 35.60938647116888 139.1602309542973 0 35.60933850355361 139.16024438049448 0 35.60924263132209 139.16026637576488 0 35.60912846968129 139.16028984868075 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_962b9a59-b425-4d7d-8a8b-7e755061b368">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611479754688226 139.15737391572256 0 35.61133713792675 139.15734115894796 0 35.61127948441167 139.15732791689595 0 35.61122930767683 139.15731588865276 0 35.611042829012504 139.15727118657756 0 35.610947270029776 139.1572542526017 0 35.61090487359374 139.15724673955575 0 35.61090035676416 139.1572850016344 0 35.61100731883017 139.15730393662807 0 35.61103835642008 139.15730941517378 0 35.61122582524139 139.15734651243477 0 35.61128073132908 139.157357377556 0 35.61134778728568 139.15737178333 0 35.611501741228174 139.15740485767284 0 35.611479754688226 139.15737391572256 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_dba3a473-9a27-4ab5-8cd6-99d5f3e76465">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6111126783822 139.1582420172665 0 35.61114660279581 139.15825665713788 0 35.611209996611315 139.15803647080492 0 35.61127020714885 139.15782734877232 0 35.61128311579754 139.15778253681376 0 35.61124914202336 139.15776781093746 0 35.6111126783822 139.1582420172665 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_551c0a5a-262d-4a3f-83de-230cf4762a76">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61209394006023 139.15753375850898 0 35.61210477285476 139.15748886126065 0 35.612041991502096 139.15748055896015 0 35.61193098620827 139.15745599497956 0 35.61177699390163 139.15741678106502 0 35.61157092389774 139.15738131679376 0 35.611563054122044 139.1574245412794 0 35.611582714119486 139.15742792762086 0 35.61177201143222 139.1574605332685 0 35.61189208971647 139.15747961228777 0 35.61193117999255 139.15749054220703 0 35.612035230263075 139.15751251561878 0 35.61209394006023 139.15753375850898 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4a77d174-18f3-4f3a-9a35-697006f040dd">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609795793428916 139.1552818720275 0 35.609803775560174 139.15524273128517 0 35.60984131118823 139.15515356116478 0 35.609970033837236 139.15491483301452 0 35.609981006960155 139.15489465174775 0 35.60999358443135 139.15487125599464 0 35.610024710426956 139.15484439230084 0 35.61005870011544 139.15482986664466 0 35.610092650013215 139.15482428186445 0 35.61023422673322 139.1548194439136 0 35.61023651610472 139.15477781230612 0 35.61009249090832 139.1547800219545 0 35.61004907654063 139.15478557629996 0 35.610014253294935 139.15479613543692 0 35.609984373619014 139.1548202291956 0 35.609938022758094 139.15488055528837 0 35.60983636168665 139.15505889960875 0 35.609784697781116 139.1551521625738 0 35.60975571598997 139.15523971517288 0 35.60975385427607 139.15524524972008 0 35.60974907381352 139.15526418533813 0 35.609795793428916 139.1552818720275 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_4513bd98-f511-4b44-87ec-aa391a462196">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60836512710604 139.16113332512086 0 35.6083585153898 139.16118141059604 0 35.60841142569315 139.16119231954056 0 35.60842315147945 139.16119376671105 0 35.60844155319429 139.16119626179204 0 35.608540093386175 139.16120007332307 0 35.60854104961749 139.1611614340376 0 35.60844377188934 139.16115772236873 0 35.608426452374154 139.16115532861906 0 35.608415899535544 139.16115409239242 0 35.60840425710819 139.16115143040642 0 35.608391163332406 139.16114712493803 0 35.60838040991137 139.16114224801956 0 35.60837272713701 139.16113844916512 0 35.60836512710604 139.16113332512086 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0900e844-fa7a-41b5-84f0-e59708274878">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60831474491564 139.160552623286 0 35.608354218753 139.16051929072069 0 35.60841054125923 139.16046859855823 0 35.608469064035624 139.16040839564894 0 35.60851089249433 139.16036091522136 0 35.60855384024992 139.16030404348464 0 35.608565748900936 139.1602898157271 0 35.60856931164434 139.16028217000232 0 35.608547190580055 139.16026585592107 0 35.60853920569503 139.1602820910362 0 35.60851886901989 139.1603043363844 0 35.60847365070285 139.16035813661097 0 35.608321727461714 139.16051172615 0 35.60830363833388 139.16052136335404 0 35.60831474491564 139.160552623286 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2f2c260a-bb49-41c3-84b2-0cd25f42e023">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.608823094829944 139.16003291365496 0 35.608804423403974 139.1600144166485 0 35.608646844314116 139.160016768138 0 35.608592448676184 139.16001757985893 0 35.60859263586786 139.16003638989204 0 35.6086494619615 139.1600355327316 0 35.608823094829944 139.16003291365496 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_48d3bbdf-2f8c-4713-b156-19224e2c67a3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60888770469129 139.1600297232799 0 35.608904076737 139.1600077317308 0 35.609141188975585 139.15993581813007 0 35.609141363837864 139.15993576509604 0 35.60924059131933 139.159901268848 0 35.609524111241136 139.15979580113964 0 35.60976560125529 139.1597240403054 0 35.60979587122549 139.15971504529105 0 35.609847908906154 139.15970412324506 0 35.609957843459995 139.15968234036475 0 35.61005783753165 139.1596721199893 0 35.61008104214215 139.1596953254154 0 35.610248141646345 139.15969342743668 0 35.61024780682146 139.15964922447395 0 35.61010431914676 139.159650868998 0 35.61009035365833 139.15963575402873 0 35.60990169372945 139.15966713757362 0 35.60982580007366 139.15968344736385 0 35.60976911838378 139.15969624434126 0 35.60972983597795 139.15970511308572 0 35.6096198995157 139.15974267973456 0 35.60951806011233 139.15977752937195 0 35.60938016536274 139.15982835455625 0 35.60924043771933 139.15987378649692 0 35.609163428252245 139.15989668987427 0 35.6089631887903 139.15995624285227 0 35.60893562705016 139.15992755539955 0 35.60890773238455 139.159936067334 0 35.608890023791616 139.15996082948814 0 35.6088300945487 139.15997899176344 0 35.60888770469129 139.1600297232799 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cf7085dd-edcc-44c0-98c5-9b85d79286d8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61068741027296 139.15765476047545 0 35.61065788671518 139.1577585432953 0 35.61063977062433 139.15779092597714 0 35.61061197182879 139.15780043143792 0 35.610578532872076 139.1578007125675 0 35.61050370601923 139.15779825107592 0 35.610385162281986 139.1578117203701 0 35.610288230411065 139.15782147585466 0 35.610246986920934 139.15782530408572 0 35.61024246503032 139.1578257238085 0 35.610186290748224 139.1578383375628 0 35.61025981058208 139.15788098746384 0 35.610307264341934 139.1578724206247 0 35.61033914012065 139.15786663379066 0 35.61037885737966 139.15786078103298 0 35.61037460426568 139.15784172146155 0 35.6105310370511 139.1578500092481 0 35.610578053964865 139.15785998951546 0 35.6106050997403 139.15786086593405 0 35.61063452586617 139.15785222983837 0 35.610660620613196 139.15782816882304 0 35.61067537172319 139.15780652109885 0 35.61069180108445 139.1577626732716 0 35.610714014513995 139.1576894162267 0 35.61071989139973 139.15766834595192 0 35.61068741027296 139.15765476047545 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5b1526bd-317b-4a63-b970-34e56c6e85ea">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61144355760243 139.15785542793736 0 35.61145931613749 139.1578118511358 0 35.61131794495243 139.1577309579528 0 35.61130110134429 139.15777510059158 0 35.61131665354534 139.15778380014333 0 35.61133599148563 139.15779474611588 0 35.611399661996685 139.1578307859652 0 35.611432214689515 139.15784927672968 0 35.61144355760243 139.15785542793736 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b7bb1a2c-e08d-4d92-946b-486464081be9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61154064249025 139.15744636413376 0 35.611507500651356 139.15741926889115 0 35.611470142673554 139.15772364313702 0 35.61145931613971 139.15781185113661 0 35.61149418194442 139.1578249138821 0 35.61149709756408 139.1578011583879 0 35.61154064249025 139.15744636413376 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8850573b-38bf-40e4-9f38-b519339611f2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610059330368365 139.15583892921958 0 35.61002176463331 139.15584285500344 0 35.61003284489753 139.15600184840204 0 35.61004094789706 139.15615605114604 0 35.61004122227622 139.1561612727377 0 35.61005139276491 139.15622277747275 0 35.61005131785134 139.15628559666206 0 35.610051124353575 139.1564477283565 0 35.61005059612256 139.15648206009848 0 35.61003553298228 139.1566406885347 0 35.610068974276544 139.15664772919368 0 35.610083051975806 139.15654746113503 0 35.61008428179936 139.15639733779582 0 35.61008506091471 139.15630222014042 0 35.61008551143583 139.1562472144551 0 35.6100789685998 139.15616694270258 0 35.61007883148502 139.15616526049672 0 35.61007210849406 139.15609169558024 0 35.61006300468113 139.15596340367418 0 35.61005634067199 139.15588431943536 0 35.610056233315944 139.15586522509375 0 35.610059330368365 139.15583892921958 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_19d631d2-b2d2-4144-a0a2-0ff7986152ea">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60872247445542 139.1550127077226 0 35.60872711369308 139.1550532516211 0 35.608736699837635 139.15510692349153 0 35.6087491701804 139.15516057103372 0 35.60876259095525 139.15520692579793 0 35.608779217332376 139.1552462998781 0 35.608800503230135 139.15528077813914 0 35.60882312494992 139.15531237538556 0 35.60884779050794 139.15533876775754 0 35.608880500158946 139.15536906579646 0 35.60891252982163 139.1553906499264 0 35.60894127747275 139.15540563922508 0 35.608970631207306 139.15541620839502 0 35.609004289540586 139.15542287810814 0 35.6090468703143 139.15542936217867 0 35.6091145189429 139.15543762154329 0 35.6094751296895 139.15548137890443 0 35.60950775931166 139.15548143477758 0 35.60953848498674 139.15547951993605 0 35.609568001691606 139.155470992703 0 35.60959884429565 139.15545781846444 0 35.609731104435085 139.15539695370495 0 35.60971493173988 139.1553442549269 0 35.60958313367761 139.1554049702828 0 35.60955516784962 139.1554167957513 0 35.609531950448506 139.155423503836 0 35.609506631448475 139.15542515233275 0 35.60947751697185 139.15542506682706 0 35.60916020120735 139.15538657361355 0 35.609159922373166 139.15533701718084 0 35.6091012614698 139.1553241566535 0 35.609059549094916 139.15531181539146 0 35.6090141146033 139.15529475939303 0 35.60897795624553 139.1552763006322 0 35.60893725029504 139.15525059547195 0 35.60890610142998 139.15522536156521 0 35.608877722424566 139.1551957996573 0 35.608851738460544 139.15515937427696 0 35.60882630837647 139.15510925768913 0 35.608806261957774 139.15505479104894 0 35.608793935793905 139.1549947404945 0 35.60872247445542 139.1550127077226 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6c644e6c-a862-47d4-ad66-22ef2d81e46c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.612729711346205 139.14969951037477 0 35.612726474991305 139.1496342321964 0 35.6127233466556 139.1496344908116 0 35.61233501713441 139.14966659330008 0 35.61229587556812 139.14967851627563 0 35.61224255209219 139.1497168303744 0 35.61216399428361 139.14978759007232 0 35.61200540514013 139.14993949728307 0 35.611823756449745 139.15009413870857 0 35.61178561627921 139.15013960824334 0 35.61176504490787 139.15018371418384 0 35.61175141990164 139.15024475947786 0 35.611753966656536 139.15029650578344 0 35.611770556432276 139.15034504209666 0 35.611794090760796 139.15037839741166 0 35.61181519469594 139.15039643064958 0 35.61183624733025 139.15040541320954 0 35.61188532715204 139.15042938994247 0 35.61193440634342 139.1504532563299 0 35.611974133771355 139.15046517083306 0 35.61198820741312 139.15048326388234 0 35.61199425130994 139.1504986526071 0 35.612132432704506 139.15085048645707 0 35.61213501744675 139.15089307116924 0 35.61212379700476 139.15093312401518 0 35.61211022074029 139.1509550945481 0 35.61186709260548 139.15130157960274 0 35.61190618384903 139.15134271468435 0 35.61193521366726 139.15129599842626 0 35.61196523100962 139.15126450615432 0 35.612174278707855 139.15096591964996 0 35.61218662950116 139.15093446682584 0 35.612195268738425 139.15088428090792 0 35.612194111617974 139.15085504002332 0 35.612189531357515 139.15082615935788 0 35.61218421180565 139.15080997867994 0 35.61205264977395 139.15048238506168 0 35.61203531177491 139.15044998622483 0 35.61203324527203 139.15044612463421 0 35.61185742530556 139.1503569973258 0 35.61181950179191 139.1503293936652 0 35.61180186230694 139.1503023902533 0 35.611795831074865 139.15025608213568 0 35.61180148439757 139.15021982959624 0 35.61181188714179 139.15019457462196 0 35.611832800255506 139.1501630490209 0 35.61186336434721 139.15013265551565 0 35.61193128118219 139.150076888171 0 35.61204589312029 139.14997425369944 0 35.61209226714458 139.14993434327764 0 35.612179749941056 139.1498479442831 0 35.61221981594829 139.14980830814488 0 35.612282417352965 139.1497530270188 0 35.612317284534534 139.14973440725575 0 35.61234519094495 139.14972809890904 0 35.61266439291276 139.1497043667272 0 35.612729711346205 139.14969951037477 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0f584867-b138-43c4-b6ee-12ff15eea19a">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60864098932474 139.16211159118996 0 35.60870264457716 139.16211195918635 0 35.60871873173722 139.1621196614606 0 35.60873657468502 139.16215130053 0 35.60875287639451 139.16219752203952 0 35.608768445578924 139.16225787774005 0 35.60877375688703 139.1623214096343 0 35.608769954374786 139.16238314125192 0 35.60876003923915 139.16243167884747 0 35.60874206618059 139.16251467221022 0 35.608741145675964 139.1625189227738 0 35.60871810489637 139.16259925177044 0 35.60871550381639 139.1626083201184 0 35.608704195792654 139.16268192448177 0 35.60870212803507 139.1627800654155 0 35.60870608000915 139.1628747344836 0 35.60870986870579 139.16295627025698 0 35.608723383605756 139.162955274506 0 35.608719505390354 139.16287384984128 0 35.60871564784697 139.16277995259685 0 35.60871772604739 139.16268368794059 0 35.60872859754203 139.16261262584229 0 35.608730273324596 139.16260677919277 0 35.60875406221268 139.1625237818406 0 35.60875453682346 139.16252159403078 0 35.6087731323562 139.16243587417443 0 35.60878330928565 139.1623857891293 0 35.608787366214926 139.16232118561527 0 35.60878167655229 139.1622544559821 0 35.608765553663986 139.162191787013 0 35.608748517985056 139.1621432537446 0 35.608727489056754 139.16210601214104 0 35.60870525631475 139.16209538106966 0 35.60864104253062 139.16209507096383 0 35.60864098932474 139.16211159118996 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_203bf52e-f9b8-4629-b69e-aa85a6bb56bf">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60855860110672 139.15967073857027 0 35.608525151857236 139.1597027395993 0 35.608584589940065 139.1597902103323 0 35.60862575603377 139.15983390499335 0 35.608638265561574 139.15984728245746 0 35.6086673636384 139.15987839943975 0 35.60868986554099 139.15990246260816 0 35.608804423403974 139.1600144166485 0 35.6088300945487 139.15997899176344 0 35.60880952047335 139.15995874470437 0 35.6087439009602 139.15989417311226 0 35.60869890668097 139.15984552199274 0 35.608661650295346 139.15980523770912 0 35.60864353897481 139.1597846227618 0 35.60859869517404 139.1597335800145 0 35.60855860110672 139.15967073857027 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_08a66021-b957-42fd-b605-b9874bafad11">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610693999958876 139.15762435110153 0 35.61069060517551 139.15758155297328 0 35.61068595348204 139.15753964844401 0 35.6106846294313 139.15752760088398 0 35.61068186918601 139.15750248540215 0 35.610679723205486 139.1574573588429 0 35.61067827163987 139.15740748019005 0 35.61067816574271 139.15738860301383 0 35.610677999199424 139.15735891615563 0 35.61067715284701 139.15728839172576 0 35.61064313966185 139.15728271749035 0 35.610549039766205 139.15726706291994 0 35.61043234401186 139.15724548084435 0 35.610407469150104 139.15724088041793 0 35.61039633923601 139.1572492523887 0 35.61026328994319 139.15723171808017 0 35.61014970786596 139.1572459190571 0 35.61007872042335 139.15725302859948 0 35.61005769800293 139.1572493422795 0 35.61005284658499 139.15730037734428 0 35.610085847265985 139.15730230724324 0 35.610090283856785 139.1573016885216 0 35.61026778005584 139.15727693505372 0 35.61040278809456 139.15729014823037 0 35.610422959671894 139.15729260302223 0 35.6104655657583 139.15729778799852 0 35.61056129765582 139.15729907973886 0 35.61056240930265 139.1572883637341 0 35.61065587765273 139.15730391326733 0 35.61066210294973 139.157304964671 0 35.61066463283683 139.15730604716592 0 35.61066635463264 139.15730768834968 0 35.610667538733 139.15730988594737 0 35.61066845862991 139.15731318954795 0 35.6106689860045 139.15735899198154 0 35.610669177296415 139.15739309048163 0 35.610669259064004 139.15740766638336 0 35.610670712486815 139.15745787614895 0 35.61067286156246 139.15750355456717 0 35.61067552387553 139.1575279836906 0 35.610676947715234 139.15754104872337 0 35.61068159878918 139.15758284287523 0 35.6106850407006 139.1576254367531 0 35.610693999958876 139.15762435110153 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_36a9135a-4477-4374-a98a-76adeab31fea">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61115966357516 139.15828723267867 0 35.611154998511246 139.15833102165783 0 35.61115738721622 139.15833140327496 0 35.611245089464894 139.15834744408065 0 35.611347633805394 139.15835806204996 0 35.61138879814126 139.15835308032896 0 35.611452463313384 139.15834216986735 0 35.61144753097231 139.1582983908087 0 35.61138449610982 139.15830918562992 0 35.61134738524068 139.1583136918038 0 35.61124926045458 139.15830358865563 0 35.61116237000662 139.1582876514556 0 35.61115966357516 139.15828723267867 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c30dbd3a-c19a-4a3d-b14c-628ea3aa10d3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61108424214427 139.15827517278356 0 35.61088116339898 139.1582426616669 0 35.61087645163725 139.1582865214368 0 35.611079575964226 139.15831897223813 0 35.61108424214427 139.15827517278356 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_22a4ba9e-c3f1-4399-91a1-a7898d33cd10">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61219056274977 139.15746749064806 0 35.6122274710761 139.1572840674254 0 35.61225927253432 139.15723291457618 0 35.61239076386067 139.15722982124873 0 35.61239809432712 139.15717081644266 0 35.612229080250785 139.15716925853565 0 35.61218897520779 139.15723449953606 0 35.61214432477354 139.15745353809612 0 35.61219056274977 139.15746749064806 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_773818ec-f4a2-4c48-bbbe-d84f8c3037a1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61212460995092 139.15757048598093 0 35.61208347444716 139.1577734895377 0 35.61212706386793 139.15778305723612 0 35.612167248910936 139.1575833525731 0 35.61212460995092 139.15757048598093 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_1623f64b-8734-4c35-b8a8-6dc7d2568173">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60877022776473 139.1557398971686 0 35.60877616472737 139.155793235683 0 35.60884822318268 139.15578004442344 0 35.60887413209012 139.15577530144688 0 35.608941650987774 139.1557604936775 0 35.60900263866161 139.1557543502604 0 35.6090236300076 139.15575470197936 0 35.60921736336158 139.15575794806878 0 35.60928227201334 139.15575982901632 0 35.60968701702896 139.15578180270313 0 35.60970232007766 139.15579425660587 0 35.60970519244802 139.15579476503194 0 35.60974219997432 139.15580131558062 0 35.60991179771961 139.15581048173644 0 35.609923751132726 139.15580431021442 0 35.61001931456317 139.15580769876473 0 35.610023226512354 139.15574118579272 0 35.6100007218706 139.1557392009949 0 35.60984677666633 139.1557244945219 0 35.609795737267746 139.15573105884033 0 35.6097907524666 139.15573169994892 0 35.60963573312177 139.155718327099 0 35.6095817217479 139.1557148090152 0 35.609536471301645 139.15569841338902 0 35.609521945162975 139.15569588685514 0 35.609507698730724 139.1556950136093 0 35.60921699033295 139.1556916152414 0 35.609087389912176 139.1556943638042 0 35.608961275951295 139.15570801014226 0 35.60894421771391 139.15571085726546 0 35.60877022776473 139.1557398971686 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0bdf9d99-bdbb-412a-b348-e9fef1b52e40">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60872247445542 139.1550127077226 0 35.608793935793905 139.1549947404945 0 35.60878207214593 139.15488876989187 0 35.60873358249795 139.1543133512292 0 35.60870827892715 139.1540138961491 0 35.608705234589635 139.15395354660754 0 35.608624819195576 139.15396640728872 0 35.60863330046367 139.1540325211544 0 35.608657569567214 139.1543083644066 0 35.608709386012706 139.1548983239728 0 35.60872247445542 139.1550127077226 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_96a5b26d-b866-459d-8f90-4800c2efadb3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.608594690337696 139.1621171655581 0 35.60854412635921 139.16216615296537 0 35.60853382326232 139.16217738690514 0 35.608521925450674 139.16219360104003 0 35.60850979227996 139.16221610851477 0 35.60848242047729 139.16226997938057 0 35.60852640620231 139.16239497067906 0 35.60853865397191 139.16242977443804 0 35.60854856275812 139.16246103824534 0 35.60855372260615 139.16248119381717 0 35.60855759806515 139.16249996205298 0 35.60855891010163 139.16250631604214 0 35.60856136106434 139.1625256112316 0 35.6085632093628 139.16254998870977 0 35.6085625915271 139.1625685368917 0 35.60856184915074 139.16258090510476 0 35.608584390157255 139.16258215182944 0 35.60858513437689 139.16257011472305 0 35.608585739309994 139.16254924876486 0 35.60858378674703 139.16252233352125 0 35.60858293513988 139.16251563556818 0 35.60858105309825 139.16250083318297 0 35.608575403880444 139.16247372805321 0 35.60856987428518 139.16245191993605 0 35.608559507461756 139.1624193354441 0 35.608556890283026 139.1624118907492 0 35.60850913460723 139.16227604767062 0 35.608531067368425 139.16223281822303 0 35.60854204111983 139.16221252793022 0 35.60855170223024 139.16219931260324 0 35.608560392173096 139.16218974776388 0 35.60861031916778 139.16214133264245 0 35.608594690337696 139.1621171655581 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_b6b34b27-dd52-4faf-8adb-29985cad7ec1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60859638929469 139.1602825157889 0 35.60856931164435 139.16028217000232 0 35.6085690007981 139.16032334253245 0 35.60856945784172 139.16037289714217 0 35.608568895816575 139.1604013786347 0 35.60857666182408 139.16042007737565 0 35.6085916594916 139.16042635354472 0 35.608623669308514 139.1604284033756 0 35.60863387641769 139.16043229141016 0 35.6086422234207 139.16044204490964 0 35.608645291462054 139.1604587962557 0 35.60865437687693 139.16039094977094 0 35.60862285285445 139.16039518727337 0 35.60860256513309 139.1603939222922 0 35.60859621644111 139.16038691144706 0 35.6085964999184 139.16037311217605 0 35.608596041641746 139.16032333680965 0 35.60859638929469 139.1602825157889 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_36c6ddce-3daf-4fcf-9577-04d2b06cf390">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60859263586788 139.1600363899013 0 35.60856779374098 139.16004391210316 0 35.60858031514832 139.1601059190956 0 35.60858058708447 139.16015459225977 0 35.60857712238829 139.1601797868185 0 35.6085770756969 139.16017994034033 0 35.608597184726 139.1601891110212 0 35.608599998660104 139.16017650467862 0 35.608602239226336 139.16014193847704 0 35.60859838790374 139.16009793104567 0 35.60859263586788 139.1600363899013 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_928f8d63-da51-4a25-86a7-1253114b7416">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60856380303176 139.1600241498348 0 35.60858514019647 139.16001768891985 0 35.60857972828686 139.16000376348293 0 35.60857855571138 139.16000074631845 0 35.60853159483334 139.1597749812675 0 35.608519221037255 139.15970599019386 0 35.608500687974924 139.15971160209435 0 35.60856380303176 139.1600241498348 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_16cd2779-a416-4663-8e85-a430fe0455ea">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61030348991665 139.15962933117603 0 35.61030532165098 139.1595861582083 0 35.61026871386571 139.1595839264801 0 35.61026688398329 139.15962743054504 0 35.61030348991665 139.15962933117603 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_236032c8-9464-4e02-b8da-c69d1c63828e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61031368408601 139.15969268297738 0 35.61041497564552 139.15969153246004 0 35.61061046885766 139.1596893416146 0 35.61061008252068 139.1596363634435 0 35.61057619350845 139.15963675796027 0 35.61055760166438 139.1596163835585 0 35.6105570004459 139.15957334123243 0 35.610516443517916 139.15957412282012 0 35.610517039798815 139.15961628214336 0 35.61049967267997 139.15963762029492 0 35.610313282181956 139.15963962456163 0 35.61031368408601 139.15969268297738 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_207bdca3-413f-4192-a764-b80c3799074e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610251671262134 139.15790831910988 0 35.61018259985966 139.1579034912197 0 35.610201000843574 139.15792871641753 0 35.61021421016251 139.1579468245739 0 35.6103257320934 139.1580796647673 0 35.61035694523566 139.15805213919973 0 35.610251671262134 139.15790831910988 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f026ebb4-ee6b-4d7c-9b96-857af23711bd">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61147665630652 139.15787337721787 0 35.61153279748345 139.157903822366 0 35.61154125041253 139.1579084063615 0 35.61156426437577 139.157913621484 0 35.61163158509516 139.1579277360262 0 35.61163961673748 139.15792943458172 0 35.61167929026079 139.15793186057186 0 35.6117859621341 139.157939131977 0 35.61179420643439 139.15791444803622 0 35.61170431456965 139.15790979509185 0 35.611639463916276 139.1579021721696 0 35.61161009431188 139.15788873202632 0 35.611580830306465 139.15787805048643 0 35.611508387493025 139.15783362534356 0 35.61149418194472 139.15782491388242 0 35.61147665630652 139.15787337721787 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7dff2566-ba1e-42aa-9163-3655877ae613">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61000147946338 139.15723620582753 0 35.610030476626335 139.15723323550395 0 35.61001655396102 139.15698489379128 0 35.610035459536185 139.15685868005033 0 35.610040706629725 139.15682365025273 0 35.61004567435312 139.1567933650916 0 35.61005721163988 139.1567222182914 0 35.610025491715874 139.15671450500855 0 35.610014308435 139.1567936291803 0 35.61000233997967 139.1568781956597 0 35.60998526486336 139.15699884391367 0 35.61000079522446 139.15722618926645 0 35.61000147946338 139.15723620582753 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_26997d10-0a15-45a0-8547-8c81982476df">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609999796952714 139.15664703849274 0 35.60991218015818 139.156648460343 0 35.609648474866596 139.1566657488083 0 35.60948229539154 139.15667664343482 0 35.60948364348113 139.15670747810947 0 35.60965784632957 139.15669605821998 0 35.60982558453546 139.1566850620679 0 35.6100001459467 139.15667928739282 0 35.609999796952714 139.15664703849274 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_407cb24a-1b2c-4594-b7a5-553986240ce5">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6085259095914 139.1531684965939 0 35.60844491535403 139.15320155565695 0 35.60852984783335 139.15350116837138 0 35.60855122912517 139.15357659329817 0 35.60859888815215 139.15376426936348 0 35.608624819195576 139.15396640728872 0 35.608705234589635 139.15395354660754 0 35.608703421892535 139.1539357915139 0 35.60869788805237 139.15388153366922 0 35.60869199603129 139.15381171594947 0 35.608670698973754 139.15367944576815 0 35.6086524693487 139.15361160882765 0 35.60863738965949 139.15356449139014 0 35.608620447321265 139.15351154867494 0 35.6086134764909 139.15349019486933 0 35.6085259095914 139.1531684965939 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_969dad40-f546-487d-a90a-4f1c8df192c9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61185879723124 139.1514504494214 0 35.61182717547051 139.15142959173758 0 35.611798465364586 139.1513993805286 0 35.611786628823985 139.15141624879615 0 35.61169263537497 139.1515500550929 0 35.61163569483823 139.15163111370035 0 35.61155477991635 139.15174747758755 0 35.61159556034955 139.15178388037205 0 35.61161840487224 139.15174550293284 0 35.61166883399198 139.15167343895803 0 35.61175141013056 139.15154800961918 0 35.611757203945565 139.15153895415642 0 35.61182717546958 139.15142959173707 0 35.61179528937817 139.15153240631838 0 35.611794157169335 139.1515360570437 0 35.611786054901685 139.15156968116221 0 35.61177941221956 139.15160638351537 0 35.61177322518098 139.15164396503255 0 35.6117598906157 139.15174054981293 0 35.61170991668059 139.1521162636745 0 35.61171132671389 139.15236570915425 0 35.61173773534312 139.15236548533457 0 35.61173483694171 139.15221947791537 0 35.61173249464166 139.15215591922268 0 35.61173826354925 139.15209218138244 0 35.61180292142691 139.1516672239193 0 35.61181517789637 139.15158720515325 0 35.61182667756073 139.15152700990006 0 35.611827871662555 139.15152075933702 0 35.61185879723124 139.1514504494214 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f7817793-eba9-42f7-aae9-5829e3c4ada1">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60830019260409 139.1612883929883 0 35.60832986364201 139.16130746043825 0 35.608358717333395 139.16132543098897 0 35.60838320036558 139.1613354911098 0 35.60840936389881 139.1613397976874 0 35.608440729854635 139.16133953538872 0 35.608611498092074 139.161332367817 0 35.60879647592164 139.16131855281142 0 35.60890107540109 139.16131074080383 0 35.60905170785761 139.16129722933994 0 35.609079821053676 139.16129555933608 0 35.60907918607717 139.1612786771421 0 35.60905080433205 139.16128068052524 0 35.60890017249324 139.16129430239033 0 35.60879490000119 139.16130136267037 0 35.60861625934951 139.16131334346386 0 35.60844242477727 139.1613202055948 0 35.60843278680264 139.16132138994456 0 35.608399676329526 139.16131592734374 0 35.608380433881756 139.1613081412728 0 35.60831452442279 139.16125935810672 0 35.60830019260409 139.1612883929883 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a862dc9d-efb5-470d-ae56-6cd17bfc3d7c">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60849081834776 139.15940733741593 0 35.60844901485719 139.1594176170571 0 35.6084849310274 139.15962985279853 0 35.608531978645345 139.15961791430726 0 35.60852337417263 139.15959436618195 0 35.60851896143702 139.15957895067058 0 35.60849081834776 139.15940733741593 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5604a22e-4ce7-4f6d-afdc-07a36711c371">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610029112433665 139.1573113939849 0 35.610006869655486 139.15731511318367 0 35.61001787789954 139.15741358732677 0 35.61007685839115 139.15762810595373 0 35.610136372479516 139.15779317139385 0 35.61017452904183 139.15783048927184 0 35.61009789418359 139.1576181054863 0 35.61003992617661 139.1574073311165 0 35.610029112433665 139.1573113939849 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_31fad9a7-dedf-4955-948e-effbee114b81">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61011972797995 139.15786295937247 0 35.610086984291634 139.15787471385568 0 35.610041018425775 139.15789143606906 0 35.60998826130255 139.15791870117005 0 35.60994817194873 139.15793857487608 0 35.60989445429338 139.15797136683403 0 35.60985437858673 139.15801001489788 0 35.6098487319573 139.15801546036968 0 35.60980616157165 139.15804297084333 0 35.60982184761565 139.15807127087282 0 35.60985744850274 139.15804168089244 0 35.60992589692945 139.15798478930765 0 35.60996962293099 139.15795439924497 0 35.61001138291855 139.15794312091296 0 35.61016165830826 139.1578981483855 0 35.61011972797995 139.15786295937247 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f2cd0788-5dbe-4aca-b2dd-066b0fc65b4f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60931171825487 139.15655671711588 0 35.609282663894156 139.15659743143826 0 35.60933561040038 139.15665408841696 0 35.609387389369054 139.15670950275495 0 35.609414191897606 139.1566745509395 0 35.60931171825487 139.15655671711588 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7989b42d-ea18-408a-b9dd-916bb0f42b30">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609134649564275 139.15637288732543 0 35.609079611848586 139.15628295320457 0 35.609022551073885 139.15621798117004 0 35.60897894954621 139.15617148473478 0 35.60895898463668 139.1561501942855 0 35.6089151630801 139.15609934931106 0 35.60886465020017 139.15602869319744 0 35.60879858480885 139.1559012145568 0 35.608765434390065 139.15582456238923 0 35.60873866201245 139.15584416956568 0 35.60884664827103 139.1560652688425 0 35.60887095171431 139.15610744820611 0 35.60890964753145 139.1561604334888 0 35.60893539763062 139.1561893738632 0 35.609023306044556 139.15628817377421 0 35.609053531454464 139.15632555724645 0 35.6091073652065 139.15640178217777 0 35.609134649564275 139.15637288732543 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_03fca99a-292d-4dd7-9787-c420f43dcb61">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.611748140530004 139.1523672863433 0 35.61174407389812 139.15240251910615 0 35.61175624169616 139.1524024159865 0 35.611809663368795 139.15241322196022 0 35.6118143358725 139.15237874394623 0 35.611748140530004 139.1523672863433 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8b0a2a83-1284-4283-b2d5-80ff31b477a7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6117257921042 139.15240532314655 0 35.611728239676566 139.15248753507228 0 35.61173036941614 139.15262679824286 0 35.61173152745165 139.15270252633476 0 35.611736032892004 139.15278207174043 0 35.61184718532835 139.15340731367647 0 35.61194747079056 139.1539282300144 0 35.61196892902072 139.15392926274373 0 35.611852805398705 139.15331708598563 0 35.611748110918874 139.15276607479785 0 35.61174680673216 139.1526486148939 0 35.61174407389769 139.1524025191062 0 35.6117257921042 139.15240532314655 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_80510092-24c5-451d-955a-6f8c8461a796">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61144601392776 139.1524539522784 0 35.611472190715716 139.1524605646743 0 35.61149546546929 139.15231502032913 0 35.611532957847714 139.15208056621287 0 35.61154894608896 139.15197501854433 0 35.61155132902381 139.1519573066752 0 35.61150579903537 139.15194812079284 0 35.61147063641305 139.15216961862856 0 35.61146645733886 139.15219570351502 0 35.611462541791376 139.15222057199531 0 35.61145585552142 139.1522624480314 0 35.61145087651574 139.15229363142566 0 35.611441096159965 139.15234934535314 0 35.61142439521492 139.1524484912796 0 35.61144601392776 139.1524539522784 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a8476d52-b63e-4de5-9644-3a26819ce5c6">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61152941949392 139.15180553138765 0 35.61152703286881 139.15171824173245 0 35.611529009120105 139.1517011162005 0 35.611530951239985 139.1516620255077 0 35.611529952291434 139.15157802425986 0 35.61152974766674 139.15156081804588 0 35.61152792862719 139.15141458112268 0 35.61154048764205 139.15135619434028 0 35.611576494508476 139.1512522426504 0 35.61165081863017 139.15107036888915 0 35.61165512071617 139.15105013294496 0 35.61167855870373 139.15089142918472 0 35.61168238493663 139.15086828575426 0 35.61170836403792 139.15071114726 0 35.61170110809432 139.15065546732336 0 35.61168526881633 139.15062800706514 0 35.61165616264489 139.15059756892856 0 35.61158557144176 139.15056317854769 0 35.6115220160743 139.15054561644124 0 35.61149426298248 139.15054717683137 0 35.611435432156014 139.1505608992544 0 35.611305677004545 139.15059116486086 0 35.61128126254051 139.15059335913364 0 35.61125888545955 139.15058924450364 0 35.61121767652871 139.1505703887696 0 35.61105751466404 139.15044492485032 0 35.61102252292911 139.1504256852597 0 35.61098262023375 139.15041465542606 0 35.61087941993044 139.15041564293227 0 35.61082739577701 139.15041922252664 0 35.61083053703458 139.15046320426498 0 35.610898145295444 139.1504593039518 0 35.61093049323473 139.15045737336098 0 35.61098777322694 139.1504650545527 0 35.611032651307646 139.15047924310358 0 35.611098904263194 139.15052746736652 0 35.611215327177575 139.15063299345718 0 35.61125044536237 139.15064273953615 0 35.61129870403043 139.15064906261162 0 35.611323534134186 139.15064068360803 0 35.61132637270005 139.15063260183345 0 35.611387792566234 139.15062324965174 0 35.61141093768041 139.1506197416224 0 35.61141284520022 139.15061936678325 0 35.61148197600688 139.15060578214988 0 35.611520537412105 139.15060280539146 0 35.61159247065228 139.15061952370218 0 35.61163258798641 139.1506366227528 0 35.61165450244475 139.1506545387574 0 35.61166452700575 139.15067388034373 0 35.61167067393398 139.1507088183648 0 35.61166600994431 139.1507606258915 0 35.61165353249683 139.15083336147308 0 35.61164223166303 139.15091587627813 0 35.61162271826166 139.15105835540052 0 35.611598653141456 139.15112224856617 0 35.61152850078344 139.15129271769842 0 35.611498546633506 139.15138315168727 0 35.611494716208206 139.15142303104983 0 35.61149726894511 139.15150778053066 0 35.611499460011856 139.1515832666087 0 35.61149973211515 139.15159264115638 0 35.611492340855094 139.15172008134027 0 35.61148903217915 139.15180311810454 0 35.61152941949392 139.15180553138765 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a2374cf1-2d2d-4bc2-b8cc-dd2be0da3d59">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60848350760743 139.15936089094407 0 35.60847666070271 139.15931628170208 0 35.60846894262147 139.15922561819477 0 35.608435369550165 139.15891199348872 0 35.6083756004214 139.15892593039558 0 35.608395232222236 139.15905217533597 0 35.6084026799421 139.15909449680416 0 35.608413926213736 139.15917133375964 0 35.60843384674414 139.15928419057948 0 35.60844154070519 139.15937054963229 0 35.60848350760743 139.15936089094407 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bce187e7-124d-40c9-96a6-ee640b91c849">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609418191463426 139.15678540301923 0 35.609426208594876 139.1568005674468 0 35.60944774570506 139.15686690919458 0 35.60945987073434 139.15690425854308 0 35.60948796102586 139.1570269813605 0 35.60949893947332 139.1570719225279 0 35.60953777258638 139.15725586817769 0 35.60955227561939 139.15732456688875 0 35.60956061130877 139.15737541865627 0 35.60960261871599 139.1573650930544 0 35.60957699543502 139.15726431410803 0 35.60956897331002 139.1572227975755 0 35.609551188113855 139.15713075496524 0 35.609525290513524 139.1569971966692 0 35.60950876694807 139.15689732369992 0 35.609503644458975 139.15686636207826 0 35.609476400940494 139.15679815808588 0 35.609463419386614 139.1567657063618 0 35.60945976700875 139.15675734851283 0 35.609418191463426 139.15678540301923 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e32b6d3b-12b4-431c-86d0-feb324bf12f0">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61069387338605 139.15047108440137 0 35.61083053703458 139.15046320426498 0 35.61082739577701 139.15041922252664 0 35.61069190108588 139.15042854540317 0 35.610690902461826 139.1504286141146 0 35.61069387338605 139.15047108440137 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">6</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a28cf519-a38c-450d-b232-d27df76fe50d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609744409881586 139.15813266804892 0 35.60971978147158 139.15806985605747 0 35.60971479655282 139.15808104599512 0 35.60973679332591 139.15813714629962 0 35.609744409881586 139.15813266804892 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8bcc8cee-25bf-4a98-9a12-8ae42094863d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609175195478706 139.15640223687168 0 35.6094898027623 139.1562474878902 0 35.60948145624465 139.1562218405276 0 35.60916361292563 139.15637816211753 0 35.609175195478706 139.15640223687168 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_47282259-01db-409b-895d-25c5a7f7d231">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60917355551787 139.15641516467264 0 35.60914573535654 139.15645112085718 0 35.60917457643066 139.1564845825394 0 35.60922163947763 139.1565348487054 0 35.60925004512617 139.15656351194343 0 35.60928013783616 139.15651879296962 0 35.60922124951661 139.15646542548188 0 35.60917355551787 139.15641516467264 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9c4bea3b-9ed5-4332-9630-057a54b33bd8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61148796616953 139.15254852209705 0 35.611458489349715 139.15255615865829 0 35.611473104956836 139.1526223726449 0 35.611475792410836 139.15274707823215 0 35.6114836542414 139.1529740614223 0 35.611509604113664 139.15297240676045 0 35.61150476905688 139.15283447380574 0 35.61149739565968 139.15261421955907 0 35.61149108743705 139.15256658923343 0 35.61148796616953 139.15254852209705 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_e3b2f316-bf65-4a19-a04f-9d1645112b31">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60842296691089 139.15885404036908 0 35.608385482159335 139.15866296496245 0 35.608383956693366 139.1586540282484 0 35.60836498295694 139.15854287380674 0 35.60831790594097 139.1585549235354 0 35.60834285328604 139.15871534755567 0 35.60836646970033 139.1588672143738 0 35.60842296691089 139.15885404036908 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_37735bab-258e-4bec-9394-42e85e51fcbe">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60845091836032 139.15886763904237 0 35.60845445338364 139.15889141395303 0 35.6087076832093 139.15880142982718 0 35.60872687834129 139.15879431602625 0 35.60873754648485 139.15879036236342 0 35.60878728876993 139.15877195361406 0 35.608855200641884 139.15874676977938 0 35.60902906730244 139.15866517737385 0 35.609114141110865 139.1586142420693 0 35.609102656671105 139.15859339924754 0 35.60909243897491 139.1586018414486 0 35.60908381967744 139.15860787411813 0 35.60906729904732 139.15861938154583 0 35.609015820275985 139.15864961524076 0 35.60898112387693 139.158666794039 0 35.60895469737223 139.15867992986662 0 35.608791468665125 139.15874575954803 0 35.60872905655829 139.158768431338 0 35.60846394862337 139.1588647338885 0 35.60845091836032 139.15886763904237 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_207c38ed-4533-4e59-bb35-d7c27e816a5d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60965416994557 139.157604949263 0 35.609608254699886 139.15761815364672 0 35.609615331812975 139.15765505569425 0 35.60963588757593 139.1577523453702 0 35.60964104387875 139.15777172829857 0 35.60970021753023 139.15803690746262 0 35.60971978147159 139.15806985605744 0 35.60976744066058 139.1580202524835 0 35.609757369500535 139.1580057424176 0 35.60972628354276 139.1579273050823 0 35.6097100189796 139.15787192231826 0 35.60965416994557 139.157604949263 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_98fc12b6-a52b-4193-a925-c74dd7a3eeb3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60961740936091 139.15740499555073 0 35.60973032386081 139.1573940412152 0 35.6097238003884 139.1573559057516 0 35.60961517801901 139.1573705062286 0 35.60961740936091 139.15740499555073 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_afc2edd2-a51b-4bd8-ae31-7c39395b092b">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60959834002 139.15756645584185 0 35.60963920298552 139.15755595754385 0 35.60960699449651 139.15740600594137 0 35.60956812546784 139.15741785710208 0 35.60959834002 139.15756645584185 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6874450d-f4a5-41e1-802e-f94006449590">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609321974562064 139.1565211999907 0 35.609330958719084 139.15654645260892 0 35.60938361179902 139.15651836293267 0 35.60950117022033 139.15645787988063 0 35.60949297424923 139.15642693315783 0 35.60943879333035 139.15645741193222 0 35.60936780360613 139.15649620008838 0 35.609321974562064 139.1565211999907 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_81038f14-6f5f-47d9-811b-f9cd9194113e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61138392062303 139.15259939673638 0 35.61137302633144 139.15254166875346 0 35.611316803330304 139.15255757988805 0 35.6112800685307 139.15254884006978 0 35.61118877560137 139.15251959057633 0 35.611075140889845 139.1524765123882 0 35.61106843930276 139.15250283926164 0 35.61118261604374 139.15254613364849 0 35.61127526343919 139.15257581320947 0 35.611306763106576 139.15258327284758 0 35.61138392062303 139.15259939673638 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a92689aa-f172-4e86-a69a-eb5029e409bc">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610690897042154 139.15042853663886 0 35.610690045474385 139.15041592793054 0 35.61068648939248 139.15038988353865 0 35.61068205208067 139.15035738516698 0 35.61067872836553 139.15027886436815 0 35.61057906789064 139.1502851904011 0 35.61059100522162 139.15033983633413 0 35.61059696187483 139.15040479825606 0 35.610598653012545 139.15042773143833 0 35.610690897042154 139.15042853663886 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a7b18c8f-d44e-4ccf-b201-1a14f2fa3215">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60969757784143 139.15816020352693 0 35.60968632587205 139.15813150662683 0 35.60966549132552 139.15814525802153 0 35.60957796314309 139.15819246200041 0 35.60951553538426 139.15823117676345 0 35.609453094154624 139.1582835782447 0 35.6093905632082 139.15833549295309 0 35.609386612418476 139.1583387729911 0 35.609232592718456 139.15847163501326 0 35.60917205649361 139.15853110680843 0 35.60918599381508 139.15855238008015 0 35.60923282452292 139.15851302408032 0 35.60927247371181 139.15847891602382 0 35.609400664624765 139.1583693395522 0 35.60942259797294 139.15835077234493 0 35.609534333694796 139.15825618465882 0 35.60969757784143 139.15816020352693 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0e0fe2dd-8e9d-4370-a032-783f523ee13e">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61138392062303 139.15259939673638 0 35.61136356476902 139.1526499019839 0 35.61131093991137 139.15278015332652 0 35.61130319008001 139.15279644465662 0 35.61129446064013 139.15281484147815 0 35.61118093261986 139.1530779523502 0 35.611158048722835 139.15314371100345 0 35.61114029753018 139.15317664372358 0 35.61117040680529 139.1532009276004 0 35.611178834302336 139.15318525818302 0 35.61125134962307 139.15301775164824 0 35.611278720721835 139.15294853314313 0 35.61141787576159 139.15262103209642 0 35.61138392062303 139.15259939673638 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_eed1c87e-68d4-4d21-9ec6-2c3eb5ec0907">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610581795650795 139.15063537800688 0 35.61060411094222 139.15060065819804 0 35.61069726479175 139.150576466547 0 35.61069456623333 139.1504820059211 0 35.610693819343595 139.1504710914706 0 35.610602726769486 139.15048300723652 0 35.61060350363543 139.15049348645542 0 35.610604110940976 139.15060065819836 0 35.61058507217511 139.15058229676015 0 35.610554331808004 139.1505526500434 0 35.6105404589176 139.15053927071864 0 35.61054012513521 139.15053894881154 0 35.61046795958667 139.15046953222736 0 35.61044375161251 139.15051658352004 0 35.61050759955609 139.1505658286714 0 35.610517787939926 139.15057368685797 0 35.61054337401342 139.15059834690697 0 35.610581795650795 139.15063537800688 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c153c835-a902-4ad4-bb95-301e9085b517">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6091887329471 139.1585970357792 0 35.60915390662532 139.15861699869785 0 35.609185532307826 139.15869532084096 0 35.60921297597253 139.1588183773993 0 35.609252577498495 139.1588051340165 0 35.60923403462043 139.1587291302034 0 35.60921300940453 139.1586605424606 0 35.6091887329471 139.1585970357792 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_666e1e12-7e49-4c66-9cfe-44334963ef6f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609200955428236 139.15787653262356 0 35.60922208773247 139.1579319845011 0 35.60934614421397 139.15790500337593 0 35.60951305339087 139.15786872145722 0 35.60956433760932 139.1579485340651 0 35.60962087832273 139.1580173753185 0 35.60966727225945 139.158077030299 0 35.60968615764106 139.15810148558973 0 35.6097032795218 139.1580802864664 0 35.60960360873951 139.15795957277146 0 35.60952359038147 139.15783496807094 0 35.60925666214047 139.15789306227364 0 35.609227094321426 139.15787642327936 0 35.609222682293655 139.15786448854942 0 35.609200955428236 139.15787653262356 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_0696c589-5763-42f4-8677-f5662029f510">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60966434980469 139.15755574605907 0 35.60966454850196 139.157591175284 0 35.60972092530912 139.15758253330318 0 35.60975639149904 139.1575740671638 0 35.60974992936674 139.15754685845423 0 35.60967687814826 139.15755564069562 0 35.60966434980469 139.15755574605907 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a01d1fca-2130-4c21-bb47-09920d172a73">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60810072126892 139.15703534547302 0 35.608113899116795 139.15707066477924 0 35.60819320790862 139.15701377064124 0 35.6081999931253 139.15700890309077 0 35.60824706616805 139.15698069248958 0 35.60855093848336 139.15679859351312 0 35.60855492734152 139.15679620313355 0 35.608546411705284 139.15677488062443 0 35.608539111416256 139.15675660126388 0 35.60823708905675 139.1569375095983 0 35.60822185326843 139.15694844040084 0 35.60810072126892 139.15703534547302 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_8af70adb-18a4-46d5-9d07-36d7f61034e9">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609294730525775 139.15194539906747 0 35.60927133704171 139.151934618268 0 35.609262661912716 139.1519307182947 0 35.60925552214619 139.15192735718247 0 35.60925118021246 139.15192463460144 0 35.60924675001932 139.15192224389713 0 35.60907359108023 139.15184126157723 0 35.60904458071974 139.15182771064616 0 35.608975195329776 139.15180433528613 0 35.60890460289051 139.15178055332342 0 35.60882782535973 139.15175195503284 0 35.60882183373879 139.1517762884466 0 35.60889879215212 139.15180499559983 0 35.60895217801002 139.15182293770087 0 35.60903813717657 139.1518518272015 0 35.60919575410595 139.15192598761953 0 35.609235410002306 139.15194121435493 0 35.60926363974553 139.15196018040297 0 35.60928359108423 139.1519816449325 0 35.609294730525775 139.15194539906747 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a9994e68-df66-46fd-a06e-35151c53afd4">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609450184972786 139.15205095165217 0 35.61001076392592 139.1518720326017 0 35.60998795105133 139.15176485225874 0 35.60966733413914 139.1518759615727 0 35.609497561162975 139.1519314857723 0 35.60942880465006 139.15195050165835 0 35.609450184972786 139.15205095165217 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_fb69e653-2aa1-4dbb-ab1b-3a7cdef283de">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61050381538959 139.15023717791388 0 35.61046985077486 139.15013933201163 0 35.6103461448852 139.15020372502363 0 35.610366515112915 139.15029902620026 0 35.61038467107403 139.15028993348994 0 35.61039819806917 139.15028326361255 0 35.610441388456415 139.15026196732248 0 35.61050381538959 139.15023717791388 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_409cd1c8-2c28-4898-8748-4bdfc0670e70">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61117366206167 139.15329093434727 0 35.61115754695092 139.1532783771945 0 35.611146897488574 139.1532600340976 0 35.611143282046896 139.15324229374013 0 35.61111125313473 139.15327773135067 0 35.61112302103444 139.15329368090053 0 35.611146754566505 139.15332055954096 0 35.61117366206167 139.15329093434727 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_cfa93055-c54d-484a-8123-67b8515311a3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61108751950889 139.15318404433575 0 35.611066800185476 139.15317020165017 0 35.61105054757767 139.15314925693642 0 35.611035024932605 139.15309795197143 0 35.61102862076487 139.15306522378478 0 35.610985836187545 139.15294284522636 0 35.61094059125965 139.152863645568 0 35.610853470065194 139.1527271832496 0 35.61083703025954 139.15270502610645 0 35.610788528240484 139.15263965158806 0 35.61074570914604 139.1525910064676 0 35.61072511639061 139.1525676704089 0 35.610656083567484 139.15250589174224 0 35.610518989207954 139.15240460477338 0 35.61051044643983 139.15239829328652 0 35.61047400789747 139.15234628305495 0 35.610440544831015 139.15236352517533 0 35.61044589050823 139.1523790827615 0 35.61046433666154 139.15242131146675 0 35.610475616549145 139.15243953857726 0 35.61048644954058 139.15245365168784 0 35.6104871487425 139.15245456260118 0 35.61050120026032 139.15246879263756 0 35.610626109827585 139.1525611139122 0 35.61069070309068 139.1526188462288 0 35.61075003341386 139.1526863364912 0 35.610811614766355 139.1527693711074 0 35.61085428370219 139.15283932063153 0 35.610897969981494 139.1528978926517 0 35.61092775823539 139.1529374869688 0 35.61094669699867 139.1529712127512 0 35.61100955066325 139.15315192193373 0 35.61102572892298 139.15319163160527 0 35.61104774933992 139.1532124171212 0 35.61106350244458 139.15322595457448 0 35.61108751950889 139.15318404433575 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_33cbdf79-179b-4689-b23b-0baf7c8e1ee3">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61062261218235 139.15101850206247 0 35.61064115721826 139.1509666877195 0 35.610681386420566 139.15082960395776 0 35.610682365367744 139.15082626811977 0 35.61069253241547 139.1507230607184 0 35.61069557674679 139.15069215702232 0 35.61069618590456 139.1506504091601 0 35.61059509627323 139.15064819727033 0 35.61059178963188 139.15074866920443 0 35.61056447500042 139.15089128861686 0 35.61053634709981 139.15097507403547 0 35.61062261218235 139.15101850206247 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3c7d8535-08aa-4cb6-8f16-00ca1cb254e3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610314116936834 139.15032530103184 0 35.610329996058084 139.1503770020918 0 35.610336705011264 139.15039884230848 0 35.61034292147398 139.1504087306996 0 35.610391843259 139.15036261133938 0 35.610380497953635 139.1503488002 0 35.610366515112915 139.15029902620026 0 35.610314116936834 139.15032530103184 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">6</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_faa4b6c7-a2af-4c55-9214-7b0029452aef">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61046798302304 139.15046947202282 0 35.61048081271233 139.1504714986009 0 35.61048124491131 139.15047156687106 0 35.610514235601364 139.1504876224069 0 35.61054917343418 139.15048580022977 0 35.610580887284634 139.15048414619733 0 35.61060272676387 139.15048300716074 0 35.61060002514515 139.15044634952665 0 35.61060000153144 139.15044602911837 0 35.610599965619464 139.15044554183814 0 35.61059865301243 139.15042773143833 0 35.610595462305604 139.15042765704797 0 35.6105829057702 139.15042736429626 0 35.61052868606588 139.15042610018142 0 35.6105122623091 139.15042571726704 0 35.610490060879116 139.15041275724212 0 35.61046798302304 139.15046947202282 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">6</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5090ea35-20a0-4f3c-a59e-e8d59a27f6da">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60929077504561 139.15881446381812 0 35.609299132780166 139.15886147654678 0 35.60947805817041 139.1588140581322 0 35.60947095172069 139.15876831159375 0 35.60944412266326 139.15877394525975 0 35.609426896866935 139.15875609852858 0 35.609416966024135 139.1587049672986 0 35.609386095860636 139.15871328393888 0 35.60939531058697 139.15876530417216 0 35.60938714943544 139.15878877244916 0 35.60929077504561 139.15881446381812 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_601459c2-2118-4328-91ac-b445613bd206">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6092350892769 139.15891753325383 0 35.6092614551324 139.1590385049027 0 35.60930095760999 139.15902647355003 0 35.60927405465661 139.15890616861057 0 35.6092350892769 139.15891753325383 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_117f26e4-e744-400e-9a8f-c0de13f0bb20">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6091956364286 139.15779132838856 0 35.60915716977995 139.15768727483612 0 35.60913462896354 139.15770214435778 0 35.609173325962864 139.15780369599406 0 35.6091956364286 139.15779132838856 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bff3cdd2-0839-42f6-97c8-8d9a63f32ccd">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609988136069155 139.15173165603449 0 35.60996676053482 139.15173147739281 0 35.609917226949456 139.15172284665735 0 35.60987796464859 139.1517134665418 0 35.6098338866472 139.15169728392377 0 35.609772586184384 139.1516640286544 0 35.60963513844705 139.15155426624892 0 35.609600108783326 139.15152829385994 0 35.609455431261935 139.15144707035552 0 35.60943152323778 139.15143553197464 0 35.609421718388525 139.15143080000541 0 35.60940890554478 139.15146026881325 0 35.60944487733251 139.1514775133918 0 35.609587475556374 139.15155765081812 0 35.60962069508301 139.15158231405553 0 35.60975968190524 139.15169327757766 0 35.60982450811668 139.1517283793623 0 35.609871476576885 139.1517456412462 0 35.60991263476607 139.15175555717994 0 35.60996469453856 139.15176460801558 0 35.60998795105473 139.15176485225876 0 35.609988136069155 139.15173165603449 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_04ed96d9-7499-4686-b691-a8cce23bcb02">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61034829559229 139.1520458221385 0 35.61028802965978 139.15199067783612 0 35.61022256422227 139.15193616974125 0 35.610205617707464 139.15192205968384 0 35.610157542345355 139.15188438722228 0 35.61010564685925 139.1518565707743 0 35.610088007406866 139.15189935733113 0 35.610144846115624 139.15193449578598 0 35.610185502564235 139.1519672642033 0 35.610210273946976 139.15198742050046 0 35.61025866924354 139.152026799451 0 35.61032461536093 139.15208462998456 0 35.61034829559229 139.1520458221385 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_dd76b13c-7a98-47f9-97b9-d5822270ff39">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60963379044624 139.15062265068585 0 35.60965578946507 139.1506167732574 0 35.609704386863775 139.15060333591373 0 35.609796451092464 139.15056182466205 0 35.60988975838629 139.15051699144408 0 35.609974422387616 139.15047388722823 0 35.6101275146737 139.15040161366394 0 35.61025071938875 139.15035189009777 0 35.61027524042642 139.15034269420167 0 35.61029137451404 139.15033664358182 0 35.61031410538178 139.15032526364294 0 35.610290802995536 139.15022868539913 0 35.61028204171192 139.1502326370064 0 35.610250485534436 139.15024703357997 0 35.61017630958583 139.1502807078628 0 35.609761133567055 139.1504691875737 0 35.609681088868285 139.15050033175086 0 35.60961390806114 139.15051105727866 0 35.60963379044624 139.15062265068585 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_bfce9626-106a-4534-83f0-9f5650cab432">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.608336474036484 139.15834571773505 0 35.60833928804596 139.15836534081384 0 35.60846201912193 139.1583270031868 0 35.608473907271716 139.15832524770101 0 35.60848193396603 139.15832606327635 0 35.608489881657455 139.15832886626572 0 35.60850633885355 139.15833822027815 0 35.60857391161793 139.15837064630588 0 35.60860241192779 139.15838432271858 0 35.60860834752511 139.15836584020857 0 35.60858473002048 139.1583545069326 0 35.60851272634069 139.1583199547412 0 35.608495636364324 139.15831027492223 0 35.60848488901576 139.15830650207735 0 35.60847370522812 139.1583052715245 0 35.60845902545987 139.1583074919635 0 35.608336474036484 139.15834571773505 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f18edca2-52ea-41a1-895e-ea53cb5a6e49">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60917534660994 139.1578908803604 0 35.60916033953196 139.15785071493906 0 35.609015584841416 139.1579318437998 0 35.60907067433025 139.15812773933257 0 35.60910475518755 139.1581133248512 0 35.60906704829603 139.15797931434204 0 35.60908055101507 139.15794399096998 0 35.60917534660994 139.1578908803604 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6fcf7be0-7ad0-4069-90d1-b44cbcd66fd7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60846164244093 139.15719875338584 0 35.60844254953496 139.1571678840631 0 35.60842415839579 139.1571849407898 0 35.608302626610524 139.1572602455902 0 35.60821100655695 139.1573170867209 0 35.60822339084781 139.15734694268752 0 35.60846164244093 139.15719875338584 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_48b409bb-811f-40ff-bd15-6e74e063786b">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61046895409969 139.15142080898744 0 35.6103919129724 139.1513579296373 0 35.610352283959216 139.15143073969836 0 35.610339058383495 139.15145038082068 0 35.610335390204554 139.15145582838122 0 35.610223451120376 139.15158503678524 0 35.610176596294174 139.15163565598775 0 35.61012663762578 139.15167934769698 0 35.61006691160927 139.15171727221718 0 35.610116498320444 139.15184372519505 0 35.61018933886434 139.15180089307833 0 35.610254395400084 139.15174923654936 0 35.61027204754229 139.15172982195995 0 35.61032023584428 139.1516768223197 0 35.61038827791325 139.15157933358242 0 35.610430754117566 139.1515035852657 0 35.610447398912726 139.1514663571334 0 35.61046895409969 139.15142080898744 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_02bfce8a-06ab-4849-aeb9-be469d9de7d5">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61121389753183 139.15330031694228 0 35.611213796232 139.15334302456117 0 35.61141178977649 139.15333671303136 0 35.61141510371704 139.1533010325693 0 35.61121389753183 139.15330031694228 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7c0bd26c-607a-4a7d-935b-7792a7948880">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6111831405554 139.15337330699813 0 35.6112028704543 139.15340349417716 0 35.611223207602045 139.15342948184067 0 35.61125785906781 139.15346837309244 0 35.61127915039508 139.153439825584 0 35.611245225580724 139.15340192159425 0 35.61122670289884 139.1533780157718 0 35.611219338062554 139.15336670908763 0 35.61121379623133 139.15334302456182 0 35.6111831405554 139.15337330699813 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9146911d-fe48-4782-9fd6-23b48895110f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610459528768025 139.1523042414942 0 35.610481403509056 139.15233937888 0 35.610693828864484 139.1521410684275 0 35.61079509106089 139.1520465342569 0 35.61077641004299 139.152016592857 0 35.61077316957707 139.15201139913378 0 35.610459528768025 139.1523042414942 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_241a020c-06f4-45cc-9bc6-1dd4b6c9b461">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61061286242339 139.15105759278447 0 35.61074750658668 139.15110795150886 0 35.610757200480805 139.15106890574097 0 35.61062261218263 139.15101850206278 0 35.61061286242339 139.15105759278447 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c74b141f-66c2-4770-8734-3de7c3b2837b">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61053878210871 139.15124116722714 0 35.61060668608461 139.151055282755 0 35.61052348198312 139.1510133956653 0 35.61048487540373 139.15112839371042 0 35.610463015260514 139.15119966252965 0 35.61053878210871 139.15124116722714 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_3f0e767c-57be-41df-9c74-49db9676071f">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60852636806067 139.15718408077194 0 35.608516828604415 139.15720281442168 0 35.608648435690554 139.15730932545236 0 35.60867637311351 139.15733193556363 0 35.60872352567922 139.1573660863709 0 35.60886323341094 139.1574458163922 0 35.60892784022727 139.15749030622442 0 35.60904167195228 139.15756881938205 0 35.60905507833515 139.15758062722392 0 35.6090775412421 139.1576000852173 0 35.60910274190838 139.15763568021197 0 35.609120181330084 139.15761716603322 0 35.609088801931236 139.15758288226905 0 35.60905130221439 139.15755019526375 0 35.608936656194416 139.1574711370942 0 35.60887150548378 139.1574260999699 0 35.60878713930869 139.15737813404502 0 35.60872316956711 139.1573347427733 0 35.60864132725947 139.1572720880354 0 35.60852636806067 139.15718408077194 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_509f6465-2e15-42bc-a924-50587fd96945">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609157169780495 139.15768727483544 0 35.609227948922346 139.15765908570268 0 35.609284514437824 139.1576358725892 0 35.60927619830756 139.1575995184089 0 35.609227721776165 139.15761857961198 0 35.60919912108279 139.15762974733997 0 35.609195003231434 139.15761917755228 0 35.60918339122704 139.15758937163315 0 35.609134734618934 139.15761076672416 0 35.609157169780495 139.15768727483544 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_29d09e3a-9bd2-48eb-9aee-1f681093f3ea">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60939302660193 139.15140202683486 0 35.60937319676786 139.1513780104494 0 35.609314817018074 139.15131934431835 0 35.60929765538357 139.1513448764747 0 35.6093550386736 139.1514026680593 0 35.60937400677965 139.1514255757079 0 35.60929754285127 139.15138869673075 0 35.609292582292916 139.1514040811025 0 35.609369034999176 139.15144101009312 0 35.60937400678028 139.1514255757073 0 35.60939302660193 139.15140202683486 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c577e6f1-9824-4921-8b2d-f4f4ea66ec08">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6104100958453 139.15205829764818 0 35.61043334332752 139.15209992456 0 35.610493781532526 139.15204930977518 0 35.6105089978548 139.15203041654274 0 35.61052690003057 139.15200829957382 0 35.61055473693498 139.15197373603834 0 35.61052984669691 139.15193961961486 0 35.610479197189 139.15200462008607 0 35.61045219107239 139.15202670385776 0 35.6104100958453 139.15205829764818 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_2d8e9ade-ce21-4a68-8673-85afdd76b7a3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61042609407356 139.15232146900837 0 35.61045952876677 139.15230424149217 0 35.61043543508839 139.1522196756733 0 35.610396982930155 139.15213037501672 0 35.61036972573668 139.15215588255555 0 35.61039680408423 139.15222629465748 0 35.610423162907466 139.15231293841686 0 35.61042609407356 139.15232146900837 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5d15e369-0468-4584-8fe8-43e21cbcf636">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.60961951948993 139.15062646342366 0 35.60961403014873 139.15063792594054 0 35.609674271786204 139.15068118652712 0 35.60968499247262 139.150680212436 0 35.60975589183757 139.15067353938494 0 35.609789681897 139.15067159666364 0 35.60980158617802 139.15067270967248 0 35.60981368072772 139.15067558709356 0 35.609822451655 139.15068047953403 0 35.6098295225832 139.15068759395396 0 35.60983507940329 139.15069792216562 0 35.60983821516857 139.1507104784824 0 35.609838421694015 139.150715112554 0 35.609838333438056 139.15071544443418 0 35.60983779827446 139.1507164423718 0 35.60983591551029 139.15071822439518 0 35.60982997993976 139.15072059273157 0 35.60981216009722 139.1507253799379 0 35.609773430293004 139.1507304551488 0 35.609744241332905 139.15073313139547 0 35.60968856236512 139.1507375779424 0 35.60967775092107 139.15073844242036 0 35.60966333545385 139.1507395582668 0 35.60961786139099 139.15074745016386 0 35.609588977213335 139.150756194515 0 35.60949843327342 139.15079559536932 0 35.609480620928814 139.15080170699022 0 35.60943911839204 139.15079466430316 0 35.60924112028515 139.15075241646298 0 35.60923480105208 139.15075070412627 0 35.60922929112988 139.15074865378713 0 35.60922323291365 139.15074528359426 0 35.60912353933387 139.15068111908892 0 35.60897665688973 139.15057673743445 0 35.60891383279791 139.15052804232263 0 35.60887073230544 139.15049463507492 0 35.60876264147789 139.15038021136817 0 35.60869680850092 139.15031068260618 0 35.60866634026052 139.150278491274 0 35.60861626838156 139.15022262558205 0 35.608567564242854 139.150181962364 0 35.608566276573626 139.15018088728627 0 35.60854601758134 139.15016880788843 0 35.60854294120913 139.150166736917 0 35.608493898886664 139.15013348949273 0 35.60847196557455 139.15011226323367 0 35.60842435283958 139.15006090223847 0 35.60838910254169 139.1500119748003 0 35.60836734195941 139.1499735286665 0 35.608350989275735 139.14993503656234 0 35.608333214489036 139.1498841945982 0 35.60832633502978 139.14986317153546 0 35.60829782513243 139.14981076529503 0 35.60828959368285 139.14978975374822 0 35.608285447590156 139.14977389506322 0 35.60828272419477 139.14975460266285 0 35.6082767583587 139.14965630959165 0 35.60827116069771 139.1496229136969 0 35.608265643191224 139.14960364507908 0 35.60824663591325 139.1495738952822 0 35.60817762719329 139.14950075228967 0 35.608173908612294 139.14949670007695 0 35.60815468415599 139.149476334019 0 35.608115477292365 139.14944499020964 0 35.608096602167045 139.1494312236113 0 35.608065515288786 139.1494085503708 0 35.60800330528565 139.14935808691578 0 35.60798200213533 139.14933674525878 0 35.60796811485328 139.14931975545824 0 35.607963566283765 139.14931239910246 0 35.607941006199354 139.14927605727706 0 35.60792733729769 139.1492499045801 0 35.60790016448875 139.14916316107738 0 35.60787602989641 139.1490876499219 0 35.6078563602315 139.14905238732734 0 35.607843847325775 139.1490234655007 0 35.60783635679685 139.14900596987988 0 35.60783535223998 139.14900367051322 0 35.607826948536434 139.1489840954998 0 35.60782046316397 139.14895313562863 0 35.607792238050145 139.14880812384112 0 35.607777668662266 139.1487504119893 0 35.60776214308273 139.14871478309377 0 35.607749904882006 139.14868663163105 0 35.60772053876449 139.14862639693422 0 35.6077050994322 139.14863767624578 0 35.60773419326726 139.14869758213334 0 35.60774624806645 139.14872518328517 0 35.60776095179677 139.14875894281985 0 35.607774785078156 139.14881401195655 0 35.60780291691851 139.14895847263912 0 35.607810048256255 139.14899207597924 0 35.60781507257697 139.14900384321209 0 35.60781598700199 139.14900614334573 0 35.607838736384984 139.14905993246057 0 35.607859954583894 139.14909805159004 0 35.6078849879814 139.149173113585 0 35.60790852480689 139.14925447969358 0 35.60793015610233 139.1493018668224 0 35.60794580225461 139.14932700933133 0 35.607970214997046 139.14935627145346 0 35.60798924855957 139.1493747626989 0 35.608056239302044 139.14942584771688 0 35.60809691452621 139.14945554951296 0 35.60810629205878 139.14946239716454 0 35.608143065358334 139.1494937616882 0 35.60816528295298 139.14951741351211 0 35.60823220297351 139.14958781491515 0 35.60824740467044 139.1496140651016 0 35.60825181867456 139.14962947999274 0 35.608258241296966 139.1496652971032 0 35.60826463086121 139.14975884043847 0 35.60826888774942 139.14977834053948 0 35.60827358715451 139.149796402008 0 35.60828525550841 139.14981948143614 0 35.60831307439641 139.14987719153484 0 35.6083245305572 139.14991053764027 0 35.60834029050884 139.14995576762712 0 35.60835643976328 139.14999017759382 0 35.60837927691536 139.15002773157426 0 35.60841481324846 139.15007941595266 0 35.60844475514389 139.15011415020737 0 35.60848424287015 139.15014736845663 0 35.60851294107078 139.15016942021617 0 35.60855275589681 139.15019266238542 0 35.60855897274017 139.1501962915113 0 35.60860733403556 139.15023660879703 0 35.608656770605684 139.15029170726555 0 35.60875637598602 139.15040388493776 0 35.608862704250505 139.1505094936073 0 35.60890816416606 139.15054245399077 0 35.60897104237274 139.1505880434521 0 35.60911828658529 139.15069264279856 0 35.60921834256228 139.15075713536365 0 35.60922548548642 139.1507610482231 0 35.60923198935966 139.15076353162385 0 35.60923894076597 139.15076545934357 0 35.60943747965975 139.15080770262148 0 35.609481418256394 139.15081516612892 0 35.60950174991706 139.15080826047762 0 35.60959211359743 139.15076886116708 0 35.60961991806975 139.15076045712124 0 35.60966440193373 139.15075279439594 0 35.60974503741808 139.15074636983476 0 35.60977440601699 139.15074358169014 0 35.609813947008305 139.15073849959455 0 35.60983284655769 139.1507333720885 0 35.60984112055418 139.1507301008735 0 35.609845781773835 139.1507255358267 0 35.609848280454464 139.1507210995272 0 35.60984924751899 139.15071678661567 0 35.60984901848343 139.15070817916896 0 35.60984496201528 139.1506922089909 0 35.609837673930485 139.15067858418226 0 35.60982815631043 139.15066917263613 0 35.60981703445115 139.1506629756483 0 35.609803044005915 139.15065956245246 0 35.60978996738558 139.15065834902887 0 35.609755366139886 139.1506602986475 0 35.60967671856423 139.15066758941995 0 35.60961951948993 139.15062646342366 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_f6d935d3-261f-4fb1-b480-09d567c5baed">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.609596800012554 139.15062555268855 0 35.60960230334735 139.15051022688445 0 35.60957116618085 139.15050799881487 0 35.60953360441116 139.15049650772914 0 35.609462266405316 139.15047349341927 0 35.60937706941619 139.1504384555484 0 35.60929752882797 139.1503995065149 0 35.60922038800442 139.15035457685892 0 35.609186707562124 139.15032815215434 0 35.60914522572385 139.15029296371614 0 35.60911222377655 139.15025902773905 0 35.60908421536238 139.1502314511341 0 35.60906937807948 139.15020585971553 0 35.60901543104815 139.15026974252166 0 35.60900750931294 139.15027912324348 0 35.609010528023774 139.1502822078453 0 35.60905528783033 139.15032794468476 0 35.609131025916305 139.1503957339459 0 35.60916826902649 139.15043051695068 0 35.60918738943055 139.1504484561053 0 35.6093545948707 139.15054438689504 0 35.609463462032664 139.15058904723935 0 35.60953347117847 139.1506161568693 0 35.609557207120545 139.15062147402188 0 35.609569660323075 139.15062401725058 0 35.609583275233746 139.15062478458654 0 35.609596800012554 139.15062555268855 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7a5426db-1488-49ff-81ce-b0da76d688e8">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6085153849998 139.15715437192432 0 35.60852373196943 139.15714801031 0 35.608608981226794 139.15710264463783 0 35.608685583953374 139.15706188015346 0 35.60867690836378 139.15702575007978 0 35.60860199054234 139.1570660243987 0 35.60850282376008 139.15711933434326 0 35.6085153849998 139.15715437192432 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_840b88b4-fca9-4dcd-8323-a4e7e7b1b41d">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610470960891384 139.1514220415165 0 35.610738044419875 139.15158607919116 0 35.610754226088545 139.15154664730045 0 35.610487125487964 139.1513825744647 0 35.610470960891384 139.1514220415165 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6a74719e-5d7d-4185-8688-662d5057cfb5">
+			<tran:function codeSpace="../../codelists/Road_function.xml">3</tran:function>
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6104112507942 139.15132240035985 0 35.61048712548814 139.1513825744642 0 35.610523632691255 139.1512826380139 0 35.61044458165746 139.1512393342172 0 35.6104112507942 139.15132240035985 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_89918604-511a-4d33-ad5a-aacfa038844c">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61042819906553 139.15122733174806 0 35.61044003414126 139.15120029913535 0 35.610402628707526 139.1511852839999 0 35.61035655861715 139.15116679075354 0 35.61030282659011 139.1511330299136 0 35.61027036768285 139.15108352528335 0 35.61024344368997 139.15096090387527 0 35.610219745768006 139.1509782136115 0 35.61024539241439 139.15108219205874 0 35.61026350286244 139.15112872792662 0 35.6102862928003 139.1511580052095 0 35.610342368248396 139.15119174616513 0 35.61039576984126 139.1512138865347 0 35.61042819906553 139.15122733174806 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_adbdac7f-1859-4ba4-954a-ec9d17dfc9b3">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.6082863892394 139.1578847720467 0 35.60829310374659 139.1579087773017 0 35.60830839587067 139.15790324040526 0 35.608419565967175 139.15787680938382 0 35.60850973386114 139.15783421932517 0 35.60852248511438 139.1578301866019 0 35.60858000567071 139.1578119950801 0 35.608625443741786 139.1577975954554 0 35.608730653652636 139.15774002794598 0 35.60884506292949 139.15767742664428 0 35.60883690997698 139.157654095593 0 35.60872534741159 139.1577122306941 0 35.608610428405854 139.15777211464336 0 35.60853845523459 139.1577963399863 0 35.608502382227215 139.15780911561777 0 35.60849884918407 139.15781083750738 0 35.608413660166455 139.15785235579642 0 35.608304380372694 139.15787832946148 0 35.6082863892394 139.1578847720467 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_5b3dc181-475e-4bf9-989d-9509d88bc1b7">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61029080392411 139.15022868473505 0 35.610346144885185 139.15020372502363 0 35.610338796671236 139.15017950444727 0 35.61033989579422 139.15016669131293 0 35.61034903354428 139.15015679002383 0 35.610387516092096 139.1501399061988 0 35.610498562635186 139.1500974294324 0 35.61051439683575 139.1500913726317 0 35.61049575756878 139.15004240537385 0 35.61041976997636 139.1500722046911 0 35.61033522151325 139.15010536117038 0 35.61030716985376 139.15011785158893 0 35.61028841990372 139.15014935820432 0 35.61027847157491 139.15017527110314 0 35.61027856856945 139.15019237877738 0 35.610289930762605 139.15022506427377 0 35.61029080392411 139.15022868473505 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_9a02973b-b55e-497a-8fe7-5c5e0a1b8c44">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61016536221182 139.149764084093 0 35.61012730057114 139.149735384486 0 35.61011682433352 139.149756218722 0 35.6101077267515 139.14980497245097 0 35.61010788202506 139.14983234466942 0 35.61017555864995 139.14998850471392 0 35.61018097679895 139.14999575756897 0 35.610206530201744 139.15002996394466 0 35.61022801662315 139.15005185669574 0 35.610244039428494 139.15006397233188 0 35.610261844841155 139.15007254073836 0 35.610278902912185 139.1500764796521 0 35.61029522741118 139.15007821725655 0 35.61031406621302 139.15007827782 0 35.610383751727746 139.15006067379846 0 35.61050668167049 139.15002961903937 0 35.610498659972684 139.149982056105 0 35.610310095416615 139.15002974550484 0 35.61029702567711 139.15002974627086 0 35.61028430832801 139.1500283091337 0 35.610278291829594 139.1500269118961 0 35.610272845939214 139.15002564717346 0 35.61026988804516 139.15002422151474 0 35.61026181918744 139.15002033245202 0 35.610251228072215 139.15001236497037 0 35.610234002251104 139.14999474070675 0 35.61020802674794 139.14996008237873 0 35.61015278645246 139.1498352740169 0 35.61015259361239 139.14980127946848 0 35.61016536221182 139.149764084093 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_240240e9-76e0-4acd-9f5b-c6d363417250">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.610017145258006 139.16231400668795 0 35.61000295277463 139.16235518549723 0 35.610054406313736 139.16238499919135 0 35.61029834030664 139.1625190578195 0 35.610327694055435 139.1625297401412 0 35.610367442289565 139.16252940831058 0 35.61041124504122 139.16251259635567 0 35.61041519386202 139.16247713215003 0 35.61038387338279 139.16248556159 0 35.610329493646304 139.1624806070977 0 35.610285432188235 139.16245095227933 0 35.61024411585978 139.16242866986187 0 35.610181756968196 139.162399057507 0 35.61014188765968 139.16237764607988 0 35.61011287660186 139.1623637600349 0 35.610017145258006 139.16231400668795 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_6acd552b-21bc-4d95-bbb6-b0feae7e83a2">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61491197314638 139.16234299854852 0 35.61480671749433 139.16226627788882 0 35.61474403544532 139.1621948313379 0 35.614707259875495 139.1622433761818 0 35.61477411440038 139.1623195343868 0 35.614884319978465 139.1623998821465 0 35.61491197314638 139.16234299854852 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_c0c4df3a-87ca-4829-accf-09582c8fc2dd">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61498467568434 139.16236866271726 0 35.61506773994929 139.1621994124913 0 35.6150198842881 139.16216824244285 0 35.61493824742415 139.16233483146357 0 35.61498467568434 139.16236866271726 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_7722ce84-d621-4e4d-b2d0-8539fbe14552">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61614410767535 139.15841654881115 0 35.61611575652686 139.15840807707482 0 35.61611038014843 139.15841375190342 0 35.616104548163385 139.15841854747538 0 35.61609427683807 139.15841929608027 0 35.6160913031041 139.15841943144883 0 35.61608450948643 139.15844564987557 0 35.61608703627077 139.1584461805755 0 35.61609662377507 139.15846817712517 0 35.616098469691515 139.15847588860126 0 35.616097170883414 139.15848539266227 0 35.61604605518216 139.158677009567 0 35.61600032970235 139.15884937392656 0 35.61598760612601 139.15894341866033 0 35.615978996296235 139.15899945628928 0 35.6159748244072 139.1590270876342 0 35.61598234340254 139.1591465718188 0 35.615989380743116 139.15926054080185 0 35.61599442950187 139.15935741676176 0 35.61600048259845 139.159456602402 0 35.61600265008513 139.15950570569947 0 35.61601959118017 139.15950490129032 0 35.61602957914187 139.15942125577925 0 35.616034435748496 139.15938710595304 0 35.61604147650465 139.15935669090217 0 35.616052571336326 139.15932591067627 0 35.616065745986475 139.15929632723132 0 35.61608442052801 139.15926702878502 0 35.61610421740408 139.15924500634952 0 35.616135538807846 139.15922067948725 0 35.61615544062937 139.15920130539882 0 35.61616713056269 139.1591802340439 0 35.61617663447399 139.15915509676162 0 35.61619098754146 139.15911060129676 0 35.616241258836126 139.15892903649996 0 35.616275148383 139.1587999318679 0 35.61628410153468 139.15877303296028 0 35.61629584876885 139.15874611058405 0 35.61631078027903 139.1587244599764 0 35.616329085602615 139.15870973533276 0 35.61634938556907 139.15869709126213 0 35.61636739076339 139.15868978463428 0 35.61637132892255 139.15868818650256 0 35.61636672837994 139.15867144649013 0 35.61636563012547 139.15867189622426 0 35.61634388618113 139.15868080034554 0 35.616321788523145 139.1586943426025 0 35.61630115151531 139.1587111841583 0 35.616283804369246 139.15873605623696 0 35.616271079900486 139.15876552568776 0 35.61626159399275 139.15879386407926 0 35.61622761679163 139.1589234109704 0 35.616177433166115 139.15910453346154 0 35.61616334555537 139.15914814360764 0 35.616154552818664 139.15917150874964 0 35.616144736510854 139.15918914242792 0 35.61612716576886 139.15920628924536 0 35.61609539494363 139.15923084065278 0 35.61607380716549 139.15925497543995 0 35.61605370348435 139.1592866039699 0 35.61603963801477 139.15931807143775 0 35.616027922141086 139.1593506230361 0 35.61602035232613 139.1593831398428 0 35.61601619022759 139.15941253726643 0 35.61601543396921 139.1593901353819 0 35.616004532330386 139.15939099953474 0 35.615993531537036 139.1591646915057 0 35.616002899078644 139.15916350904038 0 35.61599749396043 139.15906740877202 0 35.61599779395101 139.15905658849118 0 35.6160205201087 139.15889766358615 0 35.61602468517083 139.1588688180372 0 35.616026588362374 139.15885456234543 0 35.616032142468896 139.15883232825237 0 35.61609580247666 139.15859512731183 0 35.61614410767535 139.15841654881115 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_46cdf0f1-1468-4a83-a230-53b2a5050567">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61614410767535 139.15841654881115 0 35.61616574202877 139.15833656882373 0 35.61626472723245 139.15804983816304 0 35.6162795996443 139.15800158497473 0 35.61629001679823 139.15796253124006 0 35.616294155211556 139.1579457211743 0 35.61630605634635 139.15789737918783 0 35.616358760253846 139.15765165876385 0 35.6163750759638 139.1575714917971 0 35.61637620000741 139.15756298263167 0 35.61637722463186 139.15755281851463 0 35.61637858254146 139.15753779461636 0 35.61638202967006 139.15749350089095 0 35.6163831689191 139.15747163490747 0 35.61638355889762 139.15746081381275 0 35.6163831147776 139.15744591545896 0 35.61638070853281 139.15741867039873 0 35.616370679571716 139.15733408884392 0 35.61634385198052 139.1571793329327 0 35.61632621091379 139.1571838968444 0 35.61635294465115 139.15733799119818 0 35.61636278653403 139.1574213600648 0 35.6163650970734 139.1574476124518 0 35.61636553190524 139.15746085509295 0 35.616365225247506 139.1574704612401 0 35.61636408290281 139.15749177531563 0 35.61636063329818 139.15753562750876 0 35.61635936304423 139.15755020912303 0 35.61635833532441 139.1575598213348 0 35.61635738473466 139.15756711479526 0 35.61634133323275 139.15764617566492 0 35.61628878326641 139.15789114481498 0 35.61628871699245 139.15789145375885 0 35.61627285399864 139.15795594199963 0 35.6162626127795 139.15799422154785 0 35.61624782802769 139.1580420324477 0 35.61622628175126 139.15805744678428 0 35.61613998518097 139.15832442206158 0 35.616120029681454 139.158398548021 0 35.61611575652686 139.15840807707482 0 35.61614410767535 139.15841654881115 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+	<core:cityObjectMember>
+		<tran:Road gml:id="tran_a5afae39-82a9-426d-9137-3afb7642a7ee">
+			<tran:lod1MultiSurface>
+				<gml:MultiSurface>
+					<gml:surfaceMember>
+						<gml:Polygon>
+							<gml:exterior>
+								<gml:LinearRing>
+									<gml:posList>35.61618930583978 139.1536456461351 0 35.61618313251327 139.15368576832125 0 35.6161962719744 139.15368868301135 0 35.61630632241481 139.15371309523098 0 35.61631231486496 139.15367286413007 0 35.616195736453044 139.15364706902378 0 35.61618930583978 139.1536456461351 0</gml:posList>
+								</gml:LinearRing>
+							</gml:exterior>
+						</gml:Polygon>
+					</gml:surfaceMember>
+				</gml:MultiSurface>
+			</tran:lod1MultiSurface>
+			<uro:roadStructureAttribute>
+				<uro:RoadStructureAttribute>
+					<uro:sectionType codeSpace="../../codelists/RoadStructureAttribute_sectionType.xml">1</uro:sectionType>
+				</uro:RoadStructureAttribute>
+			</uro:roadStructureAttribute>
+		</tran:Road>
+	</core:cityObjectMember>
+</core:CityModel>
