@@ -14,8 +14,12 @@ assignees: mapconcierge
  * "作者名2"
 
 # Usage Data
- * "[使用データ名1](permalink url)"
- * "[使用データ名2](permalink url)"
+ * "[使用データ名1](URL)"
+ * "[使用データ名2](URL)"
 
 # Prompt
 "プロンプト"
+
+# Result(s)
+![画像名](URL)
+![画像名](URL)
