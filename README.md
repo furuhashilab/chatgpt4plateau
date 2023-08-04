@@ -13,7 +13,7 @@
 
 [<img width="300" alt="スクリーンショット 2023-08-03 13 12 48" src="https://github.com/furuhashilab/chatgpt4plateau/assets/416977/c161d378-5069-4f6d-83fa-ac9f526da25f">](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/14150_indexmap_op.pdf)
 
-[相模原市構築範囲図(標準地域メッシュコード)](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/14150_indexmap_op.pdf)
+[🗺️ 相模原市構築範囲図(標準地域メッシュコード)](https://github.com/furuhashilab/chatgpt4plateau/blob/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/14150_indexmap_op.pdf)
 
  * [PLATEAUデータ CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op)
    - [建築物モデル CityGML](https://github.com/furuhashilab/chatgpt4plateau/tree/main/sampledata/14150_sagamihara-shi_2020_citygml_4_op/udx/bldg)
