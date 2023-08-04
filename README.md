@@ -4,6 +4,9 @@
 
 <img width="500" alt="スクリーンショット 2023-08-03 11 45 50" src="https://github.com/furuhashilab/chatgpt4plateau/assets/416977/8fdf7fec-2bd8-4a7c-895e-86f7d1b89b4b">
 
+## 0.プレゼン資料
+ * [遠藤さんプレゼン](https://www.dropbox.com/scl/fi/ffchgodrellus32jgv3mp/20230803_ChatGPT-02.pdf?dl=0&rlkey=phmhodyddpsxslh15l98fyfyl)
+ * [古橋プレゼン](https://speakerdeck.com/fullfull/chatgpt-code-interpreter-hadokomadeshi-eruka)
 
 ## 1.ハンズオン用サンプルデータ置き場
 主に、神奈川県相模原市のPLATEAUデータを中心に、いくつかサンプルデータを置いてみました。
